@@ -1,0 +1,43 @@
+{
+  "Office Supplies": {
+    "url": "https://www.staples.com/Office-Supplies/cat_SC1",
+    "children": {
+      "Writing Supplies & Instruments": {
+        "url": "https://www.staples.com/Writing-Supplies/cat_CG11",
+        "children": {
+          "Pens": { "url": "https://www.staples.com/Pens/cat_CL110001", "note": "PLP, scraped page 1 (52 tiles, 48 unique products)" }
+        }
+      },
+      "Storage & Organization": {
+        "url": "https://www.staples.com/storage-organization/cat_CG3633",
+        "children": {
+          "Storage Containers & Boxes": { "url": "https://www.staples.com/Storage-Containers-Boxes/cat_CL215127", "note": "PLP, scraped page 1 (47 products)" }
+        }
+      },
+      "Office Basics": { "url": "https://www.staples.com/Office-Basics/cat_CG1036", "note": "BROKEN on live site - Staples 500 error page as of 2026-09-17" },
+      "Folders & Filing": { "url": "https://www.staples.com/Folders-Filing/cat_CG3539", "note": "BROKEN on live site - Staples 500 error page as of 2026-09-17" },
+      "Desk Organizers & Accessories": { "url": "https://www.staples.com/Desk-Organizers-Accessories/cat_CG22", "note": "not yet crawled in this pilot" },
+      "Calendars & Planners": { "url": "https://www.staples.com/Calendars-Planners/cat_CG12", "note": "not yet crawled in this pilot" }
+    }
+  },
+  "Ink & Toner": {
+    "url": "https://www.staples.com/printer-ink-cartridges-toner-finder/cat_SC43",
+    "note": "this tree is shaped differently: L2=printer brand, L3=printer series, L4=specific printer model, then PLP of compatible cartridges",
+    "children": {
+      "HP": {
+        "url": "https://www.staples.com/hp/cat_CG812",
+        "children": {
+          "DeskJet": {
+            "url": "https://www.staples.com/deskjet/cat_DP80000038",
+            "children": {
+              "DeskJet 3050": { "url": "https://www.staples.com/DeskJet-3050/cat_CL165115", "note": "PLP, scraped page 1 (16 products)" }
+            },
+            "sibling_models_not_crawled": ["DeskJet 2544", "DeskJet 2540", "DeskJet 6840", "... 400+ more HP DeskJet models"]
+          }
+        },
+        "sibling_series_not_crawled": ["OfficeJet", "LaserJet Pro", "Envy", "PhotoSmart", "PageWide", "... etc"]
+      },
+      "sibling_brands_not_crawled": ["Canon", "Epson", "Brother", "Dell", "Lexmark", "Xerox", "... 25+ more brands"]
+    }
+  }
+}
