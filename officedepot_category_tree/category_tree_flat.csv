@@ -1,0 +1,481 @@
+level,l1,l2,l3,url
+L1,School Supplies,,,https://www.officedepot.com/l/school-supplies
+L2,School Supplies,Shop All Back-to-School,,https://www.officedepot.com/l/school-supplies
+L2,School Supplies,Shop By Grade,,https://www.officedepot.com/l/school-supplies
+L3,School Supplies,Shop By Grade,Pre-K,https://www.officedepot.com/l/school-supplies/prek
+L3,School Supplies,Shop By Grade,K-5,https://www.officedepot.com/l/school-supplies/k-5th-grade
+L3,School Supplies,Shop By Grade,6-8,https://www.officedepot.com/l/school-supplies/6th-8th-grade
+L3,School Supplies,Shop By Grade,9-12,https://www.officedepot.com/l/school-supplies/9th-12th-grade
+L3,School Supplies,Shop By Grade,College,https://www.officedepot.com/l/school-supplies/college-supplies
+L2,School Supplies,Arts & Crafts,,https://www.officedepot.com/b/art-supplies/N-1824155
+L3,School Supplies,Arts & Crafts,Art Markers,https://www.officedepot.com/b/art-markers/N-1824166
+L3,School Supplies,Arts & Crafts,Colored Pencils,https://www.officedepot.com/b/colored-pencils/N-1824170
+L3,School Supplies,Arts & Crafts,Construction Paper,https://www.officedepot.com/b/construction-paper/N-1824159
+L3,School Supplies,Arts & Crafts,Crayons,https://www.officedepot.com/b/crayons/N-1824174
+L3,School Supplies,Arts & Crafts,Glue,https://www.officedepot.com/b/glue-and-adhesives/N-371558
+L2,School Supplies,School Electronics,,https://www.officedepot.com/l/school-supplies/school-electronics
+L3,School Supplies,School Electronics,Calculators,https://www.officedepot.com/b/calculators/N-509745
+L3,School Supplies,School Electronics,Earbuds & Headphones,https://www.officedepot.com/b/headphones/N-552818
+L3,School Supplies,School Electronics,Flash Drives,https://www.officedepot.com/b/usb-flash-drives/N-1461987
+L3,School Supplies,School Electronics,Hard Drives,https://www.officedepot.com/b/external-hard-drives/N-1461964
+L2,School Supplies,School Backpacks & Lunch Bags,,https://www.officedepot.com/b/backpacks-and-lunch-bags/N-1155042
+L3,School Supplies,School Backpacks & Lunch Bags,Lunch Bags,https://www.officedepot.com/b/lunch-bags/N-1510092
+L3,School Supplies,School Backpacks & Lunch Bags,School Backpacks,https://www.officedepot.com/b/backpacks/N-535201
+L3,School Supplies,School Backpacks & Lunch Bags,Water Bottles & Cups,https://www.officedepot.com/b/water-bottles/N-1211738
+L2,School Supplies,Folders & Binders,,https://www.officedepot.com/b/folders-and-binders/N-1155061
+L3,School Supplies,Folders & Binders,Binders,https://www.officedepot.com/b/binders/N-1035691
+L3,School Supplies,Folders & Binders,Dividers,https://www.officedepot.com/b/dividers/N-581131
+L3,School Supplies,Folders & Binders,File Folders,https://www.officedepot.com/b/file-folders/N-3545
+L3,School Supplies,Folders & Binders,Pocket Folders,https://www.officedepot.com/b/pocket-folders/N-1544964
+L3,School Supplies,Folders & Binders,Sheet Protectors,https://www.officedepot.com/b/sheet-protectors/N-2310
+L2,School Supplies,Writing,,https://www.officedepot.com/b/writing-supplies/N-4367
+L3,School Supplies,Writing,Correction Fluid,https://www.officedepot.com/b/correction-fluid/N-4405
+L3,School Supplies,Writing,Erasers,https://www.officedepot.com/b/erasers/N-4420
+L3,School Supplies,Writing,Highlighters,https://www.officedepot.com/b/highlighters/N-4473
+L3,School Supplies,Writing,Pencils,https://www.officedepot.com/b/pencils/N-4504
+L3,School Supplies,Writing,Pens,https://www.officedepot.com/b/pens/N-4520
+L2,School Supplies,Teacher Supplies,,https://www.officedepot.com/b/teacher-supplies/N-1186205
+L2,School Supplies,Teacher Deals & Discounts,,https://www.officedepot.com/l/id-me/teachers
+L2,School Supplies,Basic School Supplies,,https://www.officedepot.com/b/basic-school-supplies/N-1155045
+L3,School Supplies,Basic School Supplies,Pencil Cases,https://www.officedepot.com/b/pencil-cases/N-1156638
+L3,School Supplies,Basic School Supplies,Pencil Sharpeners,https://www.officedepot.com/b/pencil-sharpeners/N-4493
+L3,School Supplies,Basic School Supplies,Protractors,https://www.officedepot.com/b/protractors/N-590395
+L3,School Supplies,Basic School Supplies,Rulers,https://www.officedepot.com/b/rulers/N-581690
+L3,School Supplies,Basic School Supplies,Scissors,https://www.officedepot.com/b/scissors/N-581693
+L3,School Supplies,Basic School Supplies,Staples & Staplers,https://www.officedepot.com/b/staplers-and-staples/N-658785
+L3,School Supplies,Basic School Supplies,Tape,https://www.officedepot.com/b/office-tape/N-371573
+L2,School Supplies,Notebooks & Paper,,https://www.officedepot.com/b/notebooks-and-paper/N-1155070
+L3,School Supplies,Notebooks & Paper,Composition Books,https://www.officedepot.com/b/composition-books/N-530742
+L3,School Supplies,Notebooks & Paper,Graph Paper,https://www.officedepot.com/b/graph-paper/N-549824
+L3,School Supplies,Notebooks & Paper,Index Cards,https://www.officedepot.com/b/index-cards/N-1123261
+L3,School Supplies,Notebooks & Paper,Loose Leaf Paper,https://www.officedepot.com/b/filler-paper/N-549823
+L3,School Supplies,Notebooks & Paper,Notebooks,https://www.officedepot.com/b/spiral-and-wireless-notebooks/N-530745
+L2,School Supplies,Academic Year Planners,,https://www.officedepot.com/b/planners/Calendar_Type--Academic_Year/N-1131212
+L2,School Supplies,Featured Brands,,
+L3,School Supplies,Featured Brands,Crayola,https://www.officedepot.com/b/art-supplies/Brand--Crayola/N-1824155/
+L3,School Supplies,Featured Brands,Texas Instruments,https://www.officedepot.com/b/calculators/Brand--Texas_Instruments/N-509745/
+L3,School Supplies,Featured Brands,Elmers,https://www.officedepot.com/b/glue/Brand--Elmer/N-371558/
+L3,School Supplies,Featured Brands,Ticonderoga,https://www.officedepot.com/b/pencils/Brand--Ticonderoga/N-4504/
+L1,Ink & Toner,,,https://www.officedepot.com/l/ink-and-toner
+L2,Ink & Toner,Ink & Toner By Brand,,https://www.officedepot.com/l/ink-and-toner
+L3,Ink & Toner,Ink & Toner By Brand,Brother Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Brother/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Canon Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Canon/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Epson Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Epson/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,HP Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--HP/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Lexmark Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Lexmark/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Xerox Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Xerox/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Samsung Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Samsung/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Dell Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Dell/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Oki Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Oki/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Ricoh Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Ricoh/N-1462019
+L3,Ink & Toner,Ink & Toner By Brand,Office Depot Brand Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Office_Depot/N-1462019
+L1,Paper,,,https://www.officedepot.com/b/paper/N-530715
+L2,Paper,Shop Paper Deals,,https://www.officedepot.com/l/paper/paper-deals
+L2,Paper,Copy & Printer Paper,,https://www.officedepot.com/b/copy-and-printer-paper/N-530728
+L3,Paper,Copy & Printer Paper,Copy & Multipurpose Paper,https://www.officedepot.com/b/copy-and-multipurpose-paper/N-530730
+L3,Paper,Copy & Printer Paper,Colored Paper,https://www.officedepot.com/b/colored-paper/N-530729
+L3,Paper,Copy & Printer Paper,Inkjet Printer Paper,https://www.officedepot.com/b/inkjet-printer-paper/N-530731
+L3,Paper,Copy & Printer Paper,Laser Printer Paper,https://www.officedepot.com/b/laser-printer-paper/N-530732
+L2,Paper,Photo & Presentation,,https://www.officedepot.com/b/photo-and-presentation-paper/N-530747
+L3,Paper,Photo & Presentation,Brochure Paper,https://www.officedepot.com/b/brochure-and-presentation-paper/N-530748
+L3,Paper,Photo & Presentation,Cardstock,https://www.officedepot.com/b/cover-and-card-stock/N-549819
+L3,Paper,Photo & Presentation,Commercial Printing Paper,https://www.officedepot.com/b/commercial-printing-paper/N-1251127
+L3,Paper,Photo & Presentation,Photo Printer Paper,https://www.officedepot.com/b/photo-printer-paper/N-530749
+L3,Paper,Photo & Presentation,Stationery & Resume Paper,https://www.officedepot.com/b/stationery-and-resume-paper/N-549831
+L3,Paper,Photo & Presentation,Wide Format Paper,https://www.officedepot.com/b/wide-format-paper/N-530751
+L2,Paper,Notebooks & Pads,,https://www.officedepot.com/b/notebooks-and-pads/N-530741
+L3,Paper,Notebooks & Pads,Composition Books,https://www.officedepot.com/b/composition-books/N-530742
+L3,Paper,Notebooks & Pads,Discbound Notebooks,https://www.officedepot.com/b/discbound-note-taking-systems/N-1012166
+L3,Paper,Notebooks & Pads,Journals & Diaries,https://www.officedepot.com/b/journals-and-diaries/N-606538
+L3,Paper,Notebooks & Pads,Spiral Notebooks,https://www.officedepot.com/b/spiral-and-wireless-notebooks/N-530745
+L3,Paper,Notebooks & Pads,Writing Pads,https://www.officedepot.com/b/writing-pads/N-549829
+L2,Paper,Post-It & Sticky Notes,,https://www.officedepot.com/b/sticky-notes/N-1563986
+L2,Paper,Art & Craft Paper,,https://www.officedepot.com/b/art-and-craft-paper/N-1824156
+L3,Paper,Art & Craft Paper,Construction Paper,https://www.officedepot.com/b/construction-paper/N-1824159
+L3,Paper,Art & Craft Paper,Craft & Tissue Paper,https://www.officedepot.com/b/craft-and-tissue-paper/N-1824161
+L3,Paper,Art & Craft Paper,Drawing Pads & Sketchbooks,https://www.officedepot.com/b/drawing-pads-and-sketchbooks/N-1824176
+L3,Paper,Art & Craft Paper,Iron-on Transfers,https://www.officedepot.com/b/craft-and-tissue-paper/Product_Type--Printable_Iron_On_Transfer/N-1824161
+L2,Paper,Index Cards,,https://www.officedepot.com/b/index-cards/N-1123262
+L2,Paper,Filler & Graph Paper,,https://www.officedepot.com/b/filler-and-graph-paper/N-549821
+L3,Paper,Filler & Graph Paper,Filler Paper,https://www.officedepot.com/b/filler-paper/N-549823
+L3,Paper,Filler & Graph Paper,Graph Paper,https://www.officedepot.com/b/graph-paper/N-549824
+L2,Paper,Register & Thermal Paper Rolls,,https://www.officedepot.com/b/cash-register-and-thermal-rolls/N-530723
+L3,Paper,Register & Thermal Paper Rolls,Calculator Paper Rolls,https://www.officedepot.com/b/calculator-paper-rolls/N-549817
+L3,Paper,Register & Thermal Paper Rolls,Register Paper Rolls,https://www.officedepot.com/b/cash-register-and-thermal-paper-rolls/N-530724
+L2,Paper,Forms,,https://www.officedepot.com/b/business-forms-and-bookkeeping/N-516208
+L2,Paper,Business Card Paper,,https://www.officedepot.com/b/diy-business-cards/N-1159768
+L2,Paper,Paper Buying Guide,,https://www.officedepot.com/l/ideas-center/buying-guides/paper-buying-guide
+L1,Office Supplies,,,https://www.officedepot.com/b/office-supplies/N-1676
+L2,Office Supplies,Shop Office Supplies Deals,,https://www.officedepot.com/l/deal-center/office-supplies-deals
+L2,Office Supplies,Writing Supplies,,https://www.officedepot.com/b/writing-supplies/N-4367
+L3,Office Supplies,Writing Supplies,Correction Fluid & Tape,https://www.officedepot.com/b/correction-fluid-and-tape/N-4404
+L3,Office Supplies,Writing Supplies,Markers,https://www.officedepot.com/b/markers/N-4467
+L3,Office Supplies,Writing Supplies,Pencils,https://www.officedepot.com/b/pencils/N-4504
+L3,Office Supplies,Writing Supplies,Pens,https://www.officedepot.com/b/pens/N-4520
+L2,Office Supplies,Basic Supplies,,https://www.officedepot.com/b/basic-supplies/N-1886
+L3,Office Supplies,Basic Supplies,Paper & Binder Clips,https://www.officedepot.com/b/paper-clips-binder-clips-and-fasteners/N-581682
+L3,Office Supplies,Basic Supplies,Paper Punches & Cutters,https://www.officedepot.com/b/paper-punches-cutters-and-folding-machines/N-658776
+L3,Office Supplies,Basic Supplies,Post-It & Sticky Notes,https://www.officedepot.com/b/sticky-notes-and-flags/N-1563983
+L3,Office Supplies,Basic Supplies,Staplers & Staples,https://www.officedepot.com/b/staplers-and-staples/N-658785
+L3,Office Supplies,Basic Supplies,Scissors,https://www.officedepot.com/b/scissors/N-581693
+L3,Office Supplies,Basic Supplies,Tape & Adhesives,https://www.officedepot.com/b/tape-and-adhesives/N-371557
+L2,Office Supplies,Mailing & Shipping,,https://www.officedepot.com/b/mailing-packing-and-shipping/N-3912
+L3,Office Supplies,Mailing & Shipping,Envelopes,https://www.officedepot.com/b/envelopes/N-514132
+L3,Office Supplies,Mailing & Shipping,Packing Materials,https://www.officedepot.com/b/packing-materials/N-3972
+L3,Office Supplies,Mailing & Shipping,Packing Tape,https://www.officedepot.com/b/packing-tape/N-4009
+L3,Office Supplies,Mailing & Shipping,Shipping & Moving Boxes,https://www.officedepot.com/b/shipping-and-moving-boxes/N-3913
+L2,Office Supplies,Office Shredders,,https://www.officedepot.com/b/shredders/N-509777
+L2,Office Supplies,Filing & Folders,,https://www.officedepot.com/b/filing-and-folders/N-3469
+L3,Office Supplies,Filing & Folders,Expanding File Folders,https://www.officedepot.com/b/expanding-file-folders/N-3507
+L3,Office Supplies,Filing & Folders,File Folders,https://www.officedepot.com/b/file-folders/N-3545
+L3,Office Supplies,Filing & Folders,Hanging File Folders,https://www.officedepot.com/b/hanging-file-folders/N-3628
+L3,Office Supplies,Filing & Folders,Pocket Folders,https://www.officedepot.com/b/pocket-folders/N-1544964
+L2,Office Supplies,Laminating,,https://www.officedepot.com/b/laminating/N-1505116
+L3,Office Supplies,Laminating,Laminating Supplies,https://www.officedepot.com/b/laminating-supplies/N-1505118
+L3,Office Supplies,Laminating,Laminating Machines,https://www.officedepot.com/b/laminating-machines/N-1505117
+L2,Office Supplies,Binders & Accessories,,https://www.officedepot.com/b/binders-and-accessories/N-2155
+L3,Office Supplies,Binders & Accessories,Binders,https://www.officedepot.com/b/binders/N-1035691
+L3,Office Supplies,Binders & Accessories,Dividers & Tabs,https://www.officedepot.com/b/dividers-and-tabs/N-581130
+L3,Office Supplies,Binders & Accessories,Report Covers & Portfolios,https://www.officedepot.com/b/report-covers-and-portfolios/N-567576
+L3,Office Supplies,Binders & Accessories,Sheet Protectors,https://www.officedepot.com/b/sheet-protectors/N-2310
+L2,Office Supplies,Labels & Label Makers,,https://www.officedepot.com/b/labels-and-label-makers/N-1159754
+L3,Office Supplies,Labels & Label Makers,Address Labels,https://www.officedepot.com/b/address-labels/N-1159755
+L3,Office Supplies,Labels & Label Makers,Label Makers,https://www.officedepot.com/b/label-makers/N-1159762
+L3,Office Supplies,Labels & Label Makers,Label Maker Tapes,https://www.officedepot.com/b/label-maker-tapes/N-1159761
+L3,Office Supplies,Labels & Label Makers,Name Badges & Holders,https://www.officedepot.com/b/name-badges-and-holders/N-1159763
+L2,Office Supplies,Bags & Luggage,,https://www.officedepot.com/b/bags-and-luggage/N-2674
+L3,Office Supplies,Bags & Luggage,Backpacks,https://www.officedepot.com/b/backpacks/N-535201
+L3,Office Supplies,Bags & Luggage,Laptop Bags,https://www.officedepot.com/b/laptop-bags/N-535214
+L3,Office Supplies,Bags & Luggage,Lunch Bags,https://www.officedepot.com/b/lunch-bags/N-1510092
+L3,Office Supplies,Bags & Luggage,Totes & Handbags,https://www.officedepot.com/b/totes-and-handbags/N-535209
+L2,Office Supplies,Desk Accessories,,https://www.officedepot.com/b/desk-accessories/N-1170326
+L3,Office Supplies,Desk Accessories,Desk Organizers,https://www.officedepot.com/b/desk-organizers/N-1170330
+L3,Office Supplies,Desk Accessories,Desk Trays,https://www.officedepot.com/b/desk-trays/N-1170332
+L3,Office Supplies,Desk Accessories,Drawer Organizers,https://www.officedepot.com/b/drawer-organizers/N-1170333
+L3,Office Supplies,Desk Accessories,File Organizers,https://www.officedepot.com/b/file-organizers/N-1170334
+L2,Office Supplies,Storage,,https://www.officedepot.com/l/marketing/save-time-and-organize
+L3,Office Supplies,Storage,File Boxes,https://www.officedepot.com/b/file-boxes/N-1123257
+L3,Office Supplies,Storage,Plastic Storage Containers,https://www.officedepot.com/b/plastic-storage-containers/N-1123255
+L3,Office Supplies,Storage,Storage Bins & Baskets,https://www.officedepot.com/b/storage-bins-and-baskets/N-1123253
+L3,Office Supplies,Storage,Storage Drawers & Carts,https://www.officedepot.com/b/storage-drawers-and-carts/N-1123259
+L2,Office Supplies,Calendars & Planners,,https://www.officedepot.com/b/calendars-and-planners/N-1131206
+L2,Office Supplies,Whiteboards,,https://www.officedepot.com/b/whiteboards-and-dry-erase-boards/N-714870
+L1,Art Supplies,,,https://www.officedepot.com/b/art-supplies/N-1824155
+L2,Art Supplies,Coloring & Drawing,,https://www.officedepot.com/b/coloring-and-drawing/N-1824163/
+L3,Art Supplies,Coloring & Drawing,Art Markers,https://www.officedepot.com/b/art-markers/N-1824166/
+L3,Art Supplies,Coloring & Drawing,Art & Drawing Pens,https://www.officedepot.com/b/art-and-drawing-pens/N-1824164/
+L3,Art Supplies,Coloring & Drawing,Coloring & Activity Books,https://www.officedepot.com/b/coloring-and-activity-books/N-1824172/
+L3,Art Supplies,Coloring & Drawing,Crayons,https://www.officedepot.com/b/crayons/N-1824174/
+L3,Art Supplies,Coloring & Drawing,Chalk,https://www.officedepot.com/b/chalk/N-1824168/
+L3,Art Supplies,Coloring & Drawing,Colored Pencils,https://www.officedepot.com/b/colored-pencils/N-1824170/
+L3,Art Supplies,Coloring & Drawing,Drawing Pads & Sketchbooks,https://www.officedepot.com/b/drawing-pads-and-sketchbooks/N-1824176/
+L2,Art Supplies,Crafting,,https://www.officedepot.com/b/crafting/N-1824178/
+L3,Art Supplies,Crafting,Craft Supplies,https://www.officedepot.com/b/craft-supplies/N-1824183/
+L3,Art Supplies,Crafting,Craft Tools & Machines,https://www.officedepot.com/b/craft-tools-and-machines/N-1824185/
+L3,Art Supplies,Crafting,Craft Kits,https://www.officedepot.com/b/craft-kits/N-1824181/
+L3,Art Supplies,Crafting,Stencils & Letters,https://www.officedepot.com/b/stencils-and-letters/N-1824187/
+L3,Art Supplies,Crafting,Stickers,https://www.officedepot.com/b/stickers/N-1824189/
+L3,Art Supplies,Crafting,Clay & Modeling,https://www.officedepot.com/b/clay-and-modeling/N-1824179/
+L2,Art Supplies,Painting Supplies,,https://www.officedepot.com/b/painting-supplies/N-1824191/
+L3,Art Supplies,Painting Supplies,Acrylic & Tempera Paints,https://www.officedepot.com/b/acrylic-and-tempera-paints/N-1824192/
+L3,Art Supplies,Painting Supplies,Paint Brushes,https://www.officedepot.com/b/paint-brushes/N-1824198/
+L3,Art Supplies,Painting Supplies,Oil Pastels & Paint,https://www.officedepot.com/b/oil-pastels-and-paint/N-1824194/
+L3,Art Supplies,Painting Supplies,Paint Accessories,https://www.officedepot.com/b/paint-accessories/N-1824196/
+L3,Art Supplies,Painting Supplies,Watercolor Paint,https://www.officedepot.com/b/watercolor-paint/N-1824200/
+L2,Art Supplies,Art & Craft Paper,,https://www.officedepot.com/b/art-and-craft-paper/N-1824156/
+L3,Art Supplies,Art & Craft Paper,Construction Paper,https://www.officedepot.com/b/construction-paper/N-1824159/
+L3,Art Supplies,Art & Craft Paper,Craft & Tissue Paper,https://www.officedepot.com/b/craft-and-tissue-paper/N-1824161/
+L3,Art Supplies,Art & Craft Paper,Canvas & Art Boards,https://www.officedepot.com/b/canvas-and-art-boards/N-1824157/
+L3,Art Supplies,Art & Craft Paper,Easel Pads,https://www.officedepot.com/b/easel-pads/N-553929/
+L1,Furniture,,,https://www.officedepot.com/b/furniture/N-917
+L2,Furniture,Shop Furniture Deals,,https://www.officedepot.com/l/deal-center/furniture-deals
+L2,Furniture,Chairs & Seating,,https://www.officedepot.com/b/chairs-and-seating/N-593061
+L3,Furniture,Chairs & Seating,Office Chairs,https://www.officedepot.com/b/office-chairs/N-593067
+L3,Furniture,Chairs & Seating,Big & Tall Chairs,https://www.officedepot.com/b/big-and-tall-chairs/N-593062
+L3,Furniture,Chairs & Seating,Gaming Chairs,https://www.officedepot.com/b/gaming-chairs/N-1302556
+L3,Furniture,Chairs & Seating,Task Chairs,https://www.officedepot.com/b/task-chairs/N-593071
+L3,Furniture,Chairs & Seating,Folding Chairs,https://www.officedepot.com/b/folding-chairs/N-593066
+L3,Furniture,Chairs & Seating,Stackable Chairs,https://www.officedepot.com/b/stackable-chairs/N-593069
+L3,Furniture,Chairs & Seating,Chair Mats,https://www.officedepot.com/b/chair-mats/N-1211741
+L3,Furniture,Chairs & Seating,Floor Mats,https://www.officedepot.com/b/floor-mats/N-1211742
+L2,Furniture,School Furniture,,
+L3,Furniture,School Furniture,Student Desks,https://www.officedepot.com/b/student-desks/N-579915
+L3,Furniture,School Furniture,Classroom Seating,https://www.officedepot.com/b/classroom-seating/N-1433512
+L2,Furniture,Furniture Collections,,https://www.officedepot.com/l/furniture/furniture-collections
+L2,Furniture,Ergonomic Furniture,,
+L3,Furniture,Ergonomic Furniture,Ergonomic Office Chairs,https://www.officedepot.com/b/ergonomic-office-chairs/N-593065
+L3,Furniture,Ergonomic Furniture,Standing Desks,https://www.officedepot.com/b/standing-desks/N-715982
+L3,Furniture,Ergonomic Furniture,Anti-Fatigue Mats,https://www.officedepot.com/b/chair-mats-and-floor-mats/Features--Antifatigue/N-1211740
+L3,Furniture,Ergonomic Furniture,Standing Desk Converters,https://www.officedepot.com/b/standing-desk-converters/N-1205513
+L2,Furniture,Desks,,https://www.officedepot.com/b/desks/N-501545
+L3,Furniture,Desks,Computer Desks,https://www.officedepot.com/b/computer-desks/N-579905
+L3,Furniture,Desks,Corner & L-Shaped Desks,https://www.officedepot.com/b/corner-and-l-shaped-desks/N-553865
+L3,Furniture,Desks,Commercial Desks,https://www.officedepot.com/b/commercial-grade-desks/N-501546
+L3,Furniture,Desks,Executive Desks,https://www.officedepot.com/b/executive-desks/N-579907
+L3,Furniture,Desks,Writing Desks,https://www.officedepot.com/b/writing-desks/N-579917
+L3,Furniture,Desks,Portable Desks,https://www.officedepot.com/b/portable-desks/N-579913
+L3,Furniture,Desks,Panel & Cubicle Systems,https://www.officedepot.com/b/cubicle-systems/N-1021716
+L2,Furniture,Storage Solutions,,https://www.officedepot.com/l/marketing/save-time-and-organize
+L3,Furniture,Storage Solutions,File Cabinets,https://www.officedepot.com/b/file-cabinets/N-1141176
+L3,Furniture,Storage Solutions,Bookcases,https://www.officedepot.com/b/bookcases/N-654600
+L3,Furniture,Storage Solutions,Cabinets & Shelving Units,https://www.officedepot.com/b/storage-cabinets-and-shelving-units/N-533590
+L3,Furniture,Storage Solutions,Lockers,https://www.officedepot.com/b/lockers/N-533600
+L2,Furniture,Tables,,https://www.officedepot.com/b/tables/N-501910
+L3,Furniture,Tables,Folding Tables,https://www.officedepot.com/b/folding-tables/N-501917
+L3,Furniture,Tables,Conference Room Tables,https://www.officedepot.com/b/conference-tables/N-501913
+L2,Furniture,Office Decor,,https://www.officedepot.com/b/office-decor/N-504392
+L3,Furniture,Office Decor,Desk Accessories,https://www.officedepot.com/b/desk-accessories/N-1170326
+L3,Furniture,Office Decor,Carts & Stands,https://www.officedepot.com/b/carts-and-stands/N-501476
+L3,Furniture,Office Decor,Lamps & Lighting,https://www.officedepot.com/b/lamps-and-lighting/N-1256962
+L1,Computers & Accessories,,,https://www.officedepot.com/b/computers-and-accessories/N-1461888
+L2,Computers & Accessories,Shop Computers & Accessories Deals,,https://www.officedepot.com/l/deal-center/pc-deals
+L2,Computers & Accessories,Computers,,https://www.officedepot.com/b/computers-and-accessories/N-1461888
+L3,Computers & Accessories,Computers,Laptop Computers,https://www.officedepot.com/b/laptop-computers/N-1462020
+L3,Computers & Accessories,Computers,Desktop Computers,https://www.officedepot.com/b/desktop-computers/N-1461989
+L3,Computers & Accessories,Computers,Business Laptops,https://www.officedepot.com/b/business-laptops/N-1462022
+L3,Computers & Accessories,Computers,Business Desktops,https://www.officedepot.com/b/business-desktops/N-1461993
+L3,Computers & Accessories,Computers,All-in-One Computers,https://www.officedepot.com/b/all-in-one-computers/N-1461990
+L3,Computers & Accessories,Computers,Chromebooks,https://www.officedepot.com/b/chromebooks/N-1462023
+L2,Computers & Accessories,Monitors & Accessories,,https://www.officedepot.com/b/monitors-and-accessories/N-1462029/
+L3,Computers & Accessories,Monitors & Accessories,Computer Monitors,https://www.officedepot.com/b/computer-monitors/N-1462030/
+L3,Computers & Accessories,Monitors & Accessories,Curved Monitors,https://www.officedepot.com/b/monitors-and-accessories/Features--Curved_Screen/N-1462029/
+L3,Computers & Accessories,Monitors & Accessories,Gaming Monitors,https://www.officedepot.com/b/gaming-monitors/N-1569255/
+L3,Computers & Accessories,Monitors & Accessories,Monitor Stands & Arms,https://www.officedepot.com/b/monitor-mounts-and-arms/N-1462033/
+L3,Computers & Accessories,Monitors & Accessories,Projectors,https://www.officedepot.com/b/projectors/N-1123281/
+L2,Computers & Accessories,Computer Accessories,,https://www.officedepot.com/b/computer-accessories/N-1461889
+L3,Computers & Accessories,Computer Accessories,Mice & Keyboards,https://www.officedepot.com/b/mice-and-keyboards/N-1461905
+L3,Computers & Accessories,Computer Accessories,Mousepads & Wrist Rests,https://www.officedepot.com/b/mousepads-and-wrist-rests/N-1461910
+L3,Computers & Accessories,Computer Accessories,Computer Speakers & Headsets,https://www.officedepot.com/b/computer-speakers-and-headsets/N-1461893
+L3,Computers & Accessories,Computer Accessories,Compressed Air Dusters,https://www.officedepot.com/b/compressed-air-dusters/N-1504673
+L3,Computers & Accessories,Computer Accessories,Laptop Accessories,https://www.officedepot.com/b/laptop-accessories/N-1461898
+L2,Computers & Accessories,Printers & Accessories,,https://www.officedepot.com/b/printers/N-1462036
+L3,Computers & Accessories,Printers & Accessories,Laser Printers,https://www.officedepot.com/b/laser-printers/N-1462042
+L3,Computers & Accessories,Printers & Accessories,Inkjet Printers,https://www.officedepot.com/b/inkjet-printers/N-1462040
+L3,Computers & Accessories,Printers & Accessories,All-in-One Printers,https://www.officedepot.com/b/all-in-one-printers/N-1462038
+L2,Computers & Accessories,Data Storage,,
+L3,Computers & Accessories,Data Storage,External Hard Drives,https://www.officedepot.com/b/external-hard-drives/N-1461964
+L3,Computers & Accessories,Data Storage,Internal Hard Drives,https://www.officedepot.com/b/internal-hard-drives/N-1461965
+L3,Computers & Accessories,Data Storage,Solid State Drives,https://www.officedepot.com/b/solid-state-drives/N-1461967
+L3,Computers & Accessories,Data Storage,Blank Media,https://www.officedepot.com/b/media/N-1461968
+L1,Printers,,,https://www.officedepot.com/b/printers/N-1462036
+L2,Printers,Shop Printer Deals,,https://www.officedepot.com/l/deal-center/printer-deals
+L2,Printers,Shop By Use,,
+L3,Printers,Shop By Use,Commercial Printers,https://www.officedepot.com/b/printers/Printer_Use--Commercial/N-1462036
+L3,Printers,Shop By Use,Home Printers,https://www.officedepot.com/b/printers/Printer_Use--Home_Office/N-1462036
+L3,Printers,Shop By Use,Office Printers,https://www.officedepot.com/b/printers/Printer_Use--Medium_Business/Printer_Use--Small_Business/N-1462036
+L2,Printers,Printers By Brand,,
+L3,Printers,Printers By Brand,Brother Printers,https://www.officedepot.com/b/printers/Brand--Brother/N-1462036
+L3,Printers,Printers By Brand,Canon Printers,https://www.officedepot.com/b/printers/Brand--Canon/N-1462036
+L3,Printers,Printers By Brand,Epson Printers,https://www.officedepot.com/b/printers/Brand--Epson/N-1462036
+L3,Printers,Printers By Brand,HP Printers,https://www.officedepot.com/b/printers/Brand--HP/N-1462036
+L3,Printers,Printers By Brand,Lexmark Printers,https://www.officedepot.com/b/printers/Brand--Lexmark/N-1462036
+L3,Printers,Printers By Brand,Xerox Printers,https://www.officedepot.com/b/printers/Brand--Xerox/N-1462036
+L2,Printers,Shop By Functionality,,
+L3,Printers,Shop By Functionality,Black & White Printers,https://www.officedepot.com/b/printers/Print_Color--Black_White/N-1462036
+L3,Printers,Shop By Functionality,Color Printers,https://www.officedepot.com/b/printers/Print_Color--Color/N-1462036
+L3,Printers,Shop By Functionality,Duplex Printers,https://www.officedepot.com/b/printers/Duplex_Printing--Automatic/Duplex_Printing--Manual/N-1462036
+L3,Printers,Shop By Functionality,Photo Printers,https://www.officedepot.com/b/photo-printers/N-1462380
+L3,Printers,Shop By Functionality,Portable Printers,https://www.officedepot.com/b/printers/Features--Portable/N-1462036
+L3,Printers,Shop By Functionality,Supertank Printers,https://www.officedepot.com/b/supertank-printers/N-1462045
+L3,Printers,Shop By Functionality,Wide Format Printers,https://www.officedepot.com/b/printers/N-1462036
+L3,Printers,Shop By Functionality,Wireless Printers,https://www.officedepot.com/b/printers/Features--Wireless/N-1462036
+L2,Printers,Ink & Toner By Brand,,
+L3,Printers,Ink & Toner By Brand,Brother Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Brother/N-1462019
+L3,Printers,Ink & Toner By Brand,Canon Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Canon/N-1462019
+L3,Printers,Ink & Toner By Brand,Epson Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Epson/N-1462019
+L3,Printers,Ink & Toner By Brand,HP Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--HP/N-1462019
+L3,Printers,Ink & Toner By Brand,Lexmark Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Lexmark/N-1462019
+L3,Printers,Ink & Toner By Brand,Xerox Ink & Toner,https://www.officedepot.com/b/ink-and-toner/Brand--Xerox/N-1462019
+L2,Printers,Shop By Type,,
+L3,Printers,Shop By Type,All-In-One Printers,https://www.officedepot.com/b/all-in-one-printers/N-1462038
+L3,Printers,Shop By Type,Dot Matrix Printers,https://www.officedepot.com/b/dot-matrix-printers/N-1462039
+L3,Printers,Shop By Type,Inkjet Printers,https://www.officedepot.com/b/inkjet-printers/N-1462040
+L3,Printers,Shop By Type,Large Format Printers,https://www.officedepot.com/b/large-format-printers/N-1462041
+L3,Printers,Shop By Type,Laser Printers,https://www.officedepot.com/b/laser-printers/N-1462042
+L3,Printers,Shop By Type,LED Printers,https://www.officedepot.com/b/led-printers/N-1462043
+L3,Printers,Shop By Type,Thermal Printers,https://www.officedepot.com/b/thermal-printers/N-1462046
+L2,Printers,Printer Accessories,,https://www.officedepot.com/b/printer-accessories/N-1462044
+L3,Printers,Printer Accessories,Printer Cables,https://www.officedepot.com/b/computer-cables/Device_Supported--Printer/N-648907
+L3,Printers,Printer Accessories,Printer Ink & Toner,https://www.officedepot.com/l/ink-and-toner
+L3,Printers,Printer Accessories,Printer Paper,https://www.officedepot.com/b/copy-and-multipurpose-paper/N-530730/
+L2,Printers,Scanners,,https://www.officedepot.com/b/scanners/N-1040464/
+L3,Printers,Scanners,Document Scanners,https://www.officedepot.com/b/scanners/Scanner_Type--Document/N-1040464
+L3,Printers,Scanners,Photo Scanners,https://www.officedepot.com/b/scanners/Scanner_Type--Photo/N-1040464
+L3,Printers,Scanners,Receipt Scanners,https://www.officedepot.com/b/scanners/Scanner_Type--Receipt/N-1040464
+L1,Electronics,,,https://www.officedepot.com/b/electronics/N-9021
+L2,Electronics,Shop Electronics Deals,,https://www.officedepot.com/b/electronics/Featured_Items--On_Sale/N-9021
+L2,Electronics,Computers,,https://www.officedepot.com/l/tech/shop-pcs
+L3,Electronics,Computers,Laptop Computers,https://www.officedepot.com/b/laptop-computers/N-1462020
+L3,Electronics,Computers,Desktop Computers,https://www.officedepot.com/b/desktop-computers/N-1461989
+L3,Electronics,Computers,All-in-One Computers,https://www.officedepot.com/b/all-in-one-computers/N-1461990
+L3,Electronics,Computers,Business Desktops,https://www.officedepot.com/b/business-desktops/N-1461993
+L3,Electronics,Computers,Monitors & Accessories,https://www.officedepot.com/b/monitors-and-accessories/N-1462029
+L2,Electronics,Office Equipment,,https://www.officedepot.com/b/office-equipment/N-509740
+L3,Electronics,Office Equipment,Scanners,https://www.officedepot.com/b/scanners/N-1040464
+L3,Electronics,Office Equipment,Shredders,https://www.officedepot.com/b/shredders/N-509777
+L3,Electronics,Office Equipment,Calculators,https://www.officedepot.com/b/calculators/N-509745
+L3,Electronics,Office Equipment,Projectors,https://www.officedepot.com/b/projectors/N-1123281/
+L3,Electronics,Office Equipment,Time Clocks,https://www.officedepot.com/b/time-clocks/N-509784
+L2,Electronics,Phones & Accessories,,https://www.officedepot.com/b/phones-and-accessories/N-509793
+L3,Electronics,Phones & Accessories,Multi-Line Phones,https://www.officedepot.com/b/multi-line-phones/N-509810
+L3,Electronics,Phones & Accessories,Teleconferencing,https://www.officedepot.com/b/teleconferencing/N-509806
+L3,Electronics,Phones & Accessories,Cell Phone Accessories,https://www.officedepot.com/b/cell-phone-accessories/N-509794
+L3,Electronics,Phones & Accessories,Single-Line Phones,https://www.officedepot.com/b/single-line-phones/N-509829
+L3,Electronics,Phones & Accessories,VoIP Phones & Systems,https://www.officedepot.com/b/voip/N-509807
+L2,Electronics,TVs & Home Theater,,https://www.officedepot.com/b/tvs-and-home-theater/N-509401
+L3,Electronics,TVs & Home Theater,Media Streaming Devices,https://www.officedepot.com/b/media-streaming-devices/N-510911
+L3,Electronics,TVs & Home Theater,TVs,https://www.officedepot.com/b/tvs/N-509465
+L3,Electronics,TVs & Home Theater,TV & Home Theater Accessories,https://www.officedepot.com/b/tv-and-home-theater-accessories/N-509458
+L3,Electronics,TVs & Home Theater,Video Equipment,https://www.officedepot.com/b/video-equipment/N-509470
+L3,Electronics,TVs & Home Theater,Audio Devices,https://www.officedepot.com/b/audio-devices/N-651017
+L2,Electronics,Networking & Cables,,https://www.officedepot.com/b/networking-and-cables/N-509688
+L3,Electronics,Networking & Cables,Wireless Networking,https://www.officedepot.com/b/wireless-networking/N-509733
+L3,Electronics,Networking & Cables,Network Switches & Hubs,https://www.officedepot.com/b/network-switches-and-hubs/N-509719
+L3,Electronics,Networking & Cables,Cables,https://www.officedepot.com/b/cables/N-509689
+L3,Electronics,Networking & Cables,Cable Management,https://www.officedepot.com/b/cable-management/N-509693
+L3,Electronics,Networking & Cables,USB Hubs & Adapters,https://www.officedepot.com/b/usb-hubs-adapters-and-switches/N-509728
+L2,Electronics,Batteries & Power Protection,,https://www.officedepot.com/b/batteries-and-power-protection/N-509475
+L3,Electronics,Batteries & Power Protection,Alkaline Batteries,https://www.officedepot.com/b/alkaline-batteries/N-509485
+L3,Electronics,Batteries & Power Protection,Lithium Batteries,https://www.officedepot.com/b/lithium-batteries/N-509496
+L3,Electronics,Batteries & Power Protection,UPS Battery Backup,https://www.officedepot.com/b/ups-battery-backup/N-509510
+L3,Electronics,Batteries & Power Protection,Chargers & Adapters,https://www.officedepot.com/b/chargers-and-adapters/N-509492
+L3,Electronics,Batteries & Power Protection,Rechargeable Batteries,https://www.officedepot.com/b/rechargeable-batteries/N-509504
+L2,Electronics,Audio,,https://www.officedepot.com/b/audio/N-552805
+L3,Electronics,Audio,Headphones,https://www.officedepot.com/b/headphones/N-552818
+L3,Electronics,Audio,Home Audio,https://www.officedepot.com/b/home-audio/N-633847
+L3,Electronics,Audio,Wireless Speakers,https://www.officedepot.com/b/wireless-and-bluetooth-speakers/N-696204
+L3,Electronics,Audio,Audio Accessories,https://www.officedepot.com/b/audio-accessories/N-552815
+L3,Electronics,Audio,Docks & Radios,https://www.officedepot.com/b/docks-and-radios/N-633852
+L2,Electronics,More Ways to Shop,,
+L3,Electronics,More Ways to Shop,Smart Home,https://www.officedepot.com/b/smart-home/N-734014
+L3,Electronics,More Ways to Shop,Cameras & Camcorders,https://www.officedepot.com/b/cameras-and-camcorders/N-509515
+L3,Electronics,More Ways to Shop,Wearable Technology,https://www.officedepot.com/b/wearable-technology/N-573033
+L1,Cleaning,,,https://www.officedepot.com/b/cleaning/N-530552
+L2,Cleaning,Shop Cleaning Deals,,https://www.officedepot.com/l/deal-center/cleaning-breakroom-deals
+L2,Cleaning,Cleaning Supplies,,https://www.officedepot.com/b/cleaning-supplies/N-1477628
+L3,Cleaning,Cleaning Supplies,Cleaning Wipes,https://www.officedepot.com/b/cleaning-wipes/N-1477632
+L3,Cleaning,Cleaning Supplies,All-Purpose Cleaners,https://www.officedepot.com/b/all-purpose-cleaners/N-1477629
+L3,Cleaning,Cleaning Supplies,Dish Detergents,https://www.officedepot.com/b/dish-detergents/N-1477633
+L3,Cleaning,Cleaning Supplies,Bathroom Cleaners,https://www.officedepot.com/b/bathroom-cleaners/N-1477630
+L3,Cleaning,Cleaning Supplies,Glass Cleaners,https://www.officedepot.com/b/glass-cleaners/N-1477636
+L2,Cleaning,Trash Cans & Bags,,https://www.officedepot.com/b/trash-cans-and-bags/N-1170290
+L3,Cleaning,Trash Cans & Bags,Trash Cans,https://www.officedepot.com/b/trash-cans/N-1170293
+L3,Cleaning,Trash Cans & Bags,Trash Bags,https://www.officedepot.com/b/trash-bags/N-1170292
+L3,Cleaning,Trash Cans & Bags,Recycle Bins,https://www.officedepot.com/b/recycle-bins/N-1170291
+L2,Cleaning,Medical Supplies,,https://www.officedepot.com/b/medical-supplies/N-654427
+L3,Cleaning,Medical Supplies,Measuring Devices,https://www.officedepot.com/b/diagnostic/N-1181082
+L3,Cleaning,Medical Supplies,Infection Control,https://www.officedepot.com/b/infection-control/N-1181095
+L3,Cleaning,Medical Supplies,Medical Wear,https://www.officedepot.com/b/medical-wear/N-1181107
+L3,Cleaning,Medical Supplies,Patient Care,https://www.officedepot.com/b/patient-care/N-1181126
+L3,Cleaning,Medical Supplies,Wound Care,https://www.officedepot.com/b/wound-care/N-1181163
+L2,Cleaning,Paper Products,,
+L3,Cleaning,Paper Products,Toilet Paper,https://www.officedepot.com/b/toilet-paper/N-1170289
+L3,Cleaning,Paper Products,Paper Towel Rolls,https://www.officedepot.com/b/paper-towels/Item_Type--Paper_Towel_Roll/N-1170288
+L3,Cleaning,Paper Products,C-Fold Towels,https://www.officedepot.com/b/paper-towels/Fold_Type--C_Fold/N-1170288
+L3,Cleaning,Paper Products,Multifold Towels,https://www.officedepot.com/b/paper-towels/Fold_Type--Multi_Fold/N-1170288
+L3,Cleaning,Paper Products,Facial Tissues,https://www.officedepot.com/b/facial-tissues/N-1170285
+L2,Cleaning,Soaps & Sanitizers,,
+L3,Cleaning,Soaps & Sanitizers,Hand Soap,https://www.officedepot.com/b/hand-soap/N-1170287
+L3,Cleaning,Soaps & Sanitizers,Hand Soap Refills,https://www.officedepot.com/b/hand-soap/Product_Type--Soap_Dispenser_Refill/N-1170287
+L3,Cleaning,Soaps & Sanitizers,Soap Dispensers,https://www.officedepot.com/b/hand-soap/N-1170287
+L3,Cleaning,Soaps & Sanitizers,Hand Sanitizer,https://www.officedepot.com/b/hand-sanitizers/N-1170286
+L2,Cleaning,Safety & Security,,https://www.officedepot.com/b/safety-and-security/N-654510
+L3,Cleaning,Safety & Security,Eye Protection,https://www.officedepot.com/b/eye-protection/N-654523
+L3,Cleaning,Safety & Security,Gloves & Hand Protection,https://www.officedepot.com/b/gloves-and-hand-protection/N-654548
+L3,Cleaning,Safety & Security,Head & Face Protection,https://www.officedepot.com/b/head-and-face-protection/N-654551
+L3,Cleaning,Safety & Security,Respiratory Protection,https://www.officedepot.com/b/respiratory-protection/N-654565
+L2,Cleaning,Cleaning Tools,,https://www.officedepot.com/b/cleaning-tools/N-1176181
+L3,Cleaning,Cleaning Tools,Floor Care,https://www.officedepot.com/b/floor-care/N-1176186
+L3,Cleaning,Cleaning Tools,Dusters,https://www.officedepot.com/b/dusters/N-1176185
+L3,Cleaning,Cleaning Tools,Sponges,https://www.officedepot.com/b/sponges/N-1176188
+L3,Cleaning,Cleaning Tools,Cloths,https://www.officedepot.com/b/cloths/N-1176184
+L2,Cleaning,Air Fresheners,,https://www.officedepot.com/b/air-fresheners/N-1176180
+L3,Cleaning,Air Fresheners,Air Freshener Spray,https://www.officedepot.com/b/air-fresheners/Product_Type--Air_Freshener_Spray/N-1176180
+L3,Cleaning,Air Fresheners,Freshener Refills,https://www.officedepot.com/b/air-fresheners/Product_Type--Air_Freshener_Dispenser_Refill/N-1176180
+L2,Cleaning,Personal Protective Equipment,,https://www.officedepot.com/l/cleaning/personal-protective-equipment
+L1,Breakroom,,,https://www.officedepot.com/b/breakroom/N-530419
+L2,Breakroom,Shop Breakroom Deals,,https://www.officedepot.com/l/deal-center/cleaning-breakroom-deals
+L2,Breakroom,Coffee & Coffee Supplies,,https://www.officedepot.com/b/coffee-and-coffee-supplies/N-1154872
+L3,Breakroom,Coffee & Coffee Supplies,Coffee,https://www.officedepot.com/b/coffee/N-1154874
+L3,Breakroom,Coffee & Coffee Supplies,Coffee Makers,https://www.officedepot.com/b/coffee-makers/N-1176154
+L3,Breakroom,Coffee & Coffee Supplies,Creamers,https://www.officedepot.com/b/creamers/N-1154878
+L3,Breakroom,Coffee & Coffee Supplies,Sugar & Sweeteners,https://www.officedepot.com/b/sugar-and-sweeteners/N-1154881
+L3,Breakroom,Coffee & Coffee Supplies,Hot Cups & Lids,https://www.officedepot.com/b/hot-cups-and-lids/N-1154879
+L2,Breakroom,"Cups, Plates & Cutlery",,https://www.officedepot.com/b/cups-plates-and-cutlery/N-1176169
+L3,Breakroom,"Cups, Plates & Cutlery",Cups,https://www.officedepot.com/b/cups/N-1176172
+L3,Breakroom,"Cups, Plates & Cutlery",Plates,https://www.officedepot.com/b/plates/N-1176177
+L3,Breakroom,"Cups, Plates & Cutlery",Cutlery,https://www.officedepot.com/b/cutlery/N-1176173
+L3,Breakroom,"Cups, Plates & Cutlery",Cooking Utensils,https://www.officedepot.com/b/cooking-utensils/N-1176171
+L3,Breakroom,"Cups, Plates & Cutlery",Bowls,https://www.officedepot.com/b/bowls/N-1176170
+L2,Breakroom,Fresh & Frozen Food,,https://www.officedepot.com/b/fresh-and-frozen-foods/N-1418020
+L3,Breakroom,Fresh & Frozen Food,Bakery & Breads,https://www.officedepot.com/b/bakery-and-breads/N-1418021
+L3,Breakroom,Fresh & Frozen Food,Breakfast & Cereal,https://www.officedepot.com/b/breakfast-and-cereal/N-1418022
+L3,Breakroom,Fresh & Frozen Food,Dairy,https://www.officedepot.com/b/dairy/N-1418023
+L3,Breakroom,Fresh & Frozen Food,Frozen Meals & Snacks,https://www.officedepot.com/b/frozen-meals-and-snacks/N-1418024
+L3,Breakroom,Fresh & Frozen Food,Fruits & Vegetables,https://www.officedepot.com/b/fruits-and-vegetables/N-1418025
+L2,Breakroom,Beverages,,https://www.officedepot.com/b/beverages/N-1154865
+L3,Breakroom,Beverages,Water,https://www.officedepot.com/b/water/N-1154871
+L3,Breakroom,Beverages,Soda,https://www.officedepot.com/b/soda/N-1154869
+L3,Breakroom,Beverages,Juice,https://www.officedepot.com/b/juice/N-1154868
+L3,Breakroom,Beverages,Tea,https://www.officedepot.com/b/tea/N-1154870
+L3,Breakroom,Beverages,Energy & Nutrition Drinks,https://www.officedepot.com/b/energy-and-nutrition-drinks/N-1154866
+L2,Breakroom,Candy & Snacks,,https://www.officedepot.com/b/candy-and-snacks/N-1418009
+L3,Breakroom,Candy & Snacks,Chips & Pretzels,https://www.officedepot.com/b/chips-and-pretzels/N-1418010
+L3,Breakroom,Candy & Snacks,Chocolate & Caramels,https://www.officedepot.com/b/chocolate-and-caramels/N-1418011
+L3,Breakroom,Candy & Snacks,Cookies,https://www.officedepot.com/b/cookies/N-1418012
+L3,Breakroom,Candy & Snacks,Crackers,https://www.officedepot.com/b/crackers/N-1418013
+L3,Breakroom,Candy & Snacks,Gum & Mints,https://www.officedepot.com/b/gum-and-mints/N-1418015
+L2,Breakroom,Appliances,,https://www.officedepot.com/b/appliances/N-530420
+L3,Breakroom,Appliances,Heating & Cooling,https://www.officedepot.com/b/heating-and-cooling/N-1176144
+L3,Breakroom,Appliances,Kitchen,https://www.officedepot.com/b/kitchen/N-1176150
+L3,Breakroom,Appliances,Laundry,https://www.officedepot.com/b/laundry/N-1176164
+L1,Mailing & Shipping,,,https://www.officedepot.com/b/mailing-packing-and-shipping/N-3912
+L2,Mailing & Shipping,Shop Mailing & Shipping Deals,,https://www.officedepot.com/b/mailing-packing-and-shipping/Featured_Items--On_Sale/N-3912
+L2,Mailing & Shipping,Envelopes,,https://www.officedepot.com/b/envelopes/N-514132
+L3,Mailing & Shipping,Envelopes,Business Envelopes,https://www.officedepot.com/b/business-envelopes/N-514133
+L3,Mailing & Shipping,Envelopes,Catalog Envelopes,https://www.officedepot.com/b/catalog-envelopes/N-514135
+L3,Mailing & Shipping,Envelopes,Tax Envelopes,https://www.officedepot.com/b/tax-envelopes/N-1013810
+L3,Mailing & Shipping,Envelopes,Invitation Envelopes,https://www.officedepot.com/b/invitation-envelopes/N-887332
+L3,Mailing & Shipping,Envelopes,Booklet Envelopes,https://www.officedepot.com/b/booklet-envelopes/N-887330
+L3,Mailing & Shipping,Envelopes,Window Envelopes,https://www.officedepot.com/b/window-envelopes/N-887333
+L3,Mailing & Shipping,Envelopes,Coin Envelopes,https://www.officedepot.com/b/coin-envelopes/N-887331
+L2,Mailing & Shipping,Mailers,,https://www.officedepot.com/b/mailers/N-530021
+L3,Mailing & Shipping,Mailers,Bubble Mailers,https://www.officedepot.com/b/bubble-mailers/N-1012421
+L3,Mailing & Shipping,Mailers,Flat Mailers,https://www.officedepot.com/b/flat-mailers/N-1012422
+L3,Mailing & Shipping,Mailers,Mailing Tubes,https://www.officedepot.com/b/mailing-tubes/N-530025
+L3,Mailing & Shipping,Mailers,Corrugated Mailers,https://www.officedepot.com/b/corrugated-mailers/N-530023
+L3,Mailing & Shipping,Mailers,Padded Mailers,https://www.officedepot.com/b/padded-mailers/N-1012423
+L3,Mailing & Shipping,Mailers,Poly Mailers,https://www.officedepot.com/b/poly-mailers/N-1199130
+L2,Mailing & Shipping,Labels,,https://www.officedepot.com/b/labels-and-tags/N-3950
+L3,Mailing & Shipping,Labels,Address Labels,https://www.officedepot.com/b/address-labels/N-3951
+L3,Mailing & Shipping,Labels,Shipping Labels,https://www.officedepot.com/b/shipping-labels/N-1159764
+L3,Mailing & Shipping,Labels,Packing List Envelopes,https://www.officedepot.com/b/packing-list-envelopes/N-1012420
+L2,Mailing & Shipping,Shipping & Moving Boxes,,https://www.officedepot.com/b/shipping-and-moving-boxes/N-3913
+L3,Mailing & Shipping,Shipping & Moving Boxes,Shipping Boxes,https://www.officedepot.com/b/shipping-boxes/N-3914
+L3,Mailing & Shipping,Shipping & Moving Boxes,Moving Boxes,https://www.officedepot.com/b/moving-boxes/N-530206
+L3,Mailing & Shipping,Shipping & Moving Boxes,Storage Boxes,https://www.officedepot.com/b/shipping-and-moving-boxes/Usage--Storage/N-3913
+L2,Mailing & Shipping,Packing Tape,,https://www.officedepot.com/b/packing-tape/N-4009
+L3,Mailing & Shipping,Packing Tape,Shipping Tape,https://www.officedepot.com/b/packing-tape/Usage--Shipping/N-4009
+L3,Mailing & Shipping,Packing Tape,Moving Tape,https://www.officedepot.com/b/packing-tape/Usage--Moving/N-4009
+L3,Mailing & Shipping,Packing Tape,Storage Tape,https://www.officedepot.com/b/packing-tape/Usage--Storage/N-4009
+L3,Mailing & Shipping,Packing Tape,Tape Dispensers,https://www.officedepot.com/b/packing-tape/Product_Type--Industrial_Tape_Dispenser/N-4009
+L2,Mailing & Shipping,Packing Materials,,https://www.officedepot.com/b/packing-materials/N-3972
+L3,Mailing & Shipping,Packing Materials,Bubble Rolls & Wrap,https://www.officedepot.com/b/bubble-rolls-and-wrap/N-3973
+L3,Mailing & Shipping,Packing Materials,Packing Peanuts,https://www.officedepot.com/b/packing-peanuts/N-530215
+L3,Mailing & Shipping,Packing Materials,Packing Papers,https://www.officedepot.com/b/packing-papers/N-3988
+L3,Mailing & Shipping,Packing Materials,Corrugated Sheets & Rolls,https://www.officedepot.com/b/corrugated-sheets-and-rolls/N-1012430
+L2,Mailing & Shipping,Postage Stamps,,https://www.officedepot.com/b/postage-stamps/N-543624
+L2,Mailing & Shipping,Mailroom Equipment,,https://www.officedepot.com/b/mailroom-equipment/N-530211
+L3,Mailing & Shipping,Mailroom Equipment,Postal Scales,https://www.officedepot.com/b/postal-scales/N-1012428
+L3,Mailing & Shipping,Mailroom Equipment,Mail Sorters,https://www.officedepot.com/b/mail-sorters/N-1012426
+L2,Mailing & Shipping,Industrial Shipping Supplies,,https://www.officedepot.com/b/industrial-shipping-supplies/N-1012408
+L3,Mailing & Shipping,Industrial Shipping Supplies,Industrial Tape,https://www.officedepot.com/b/industrial-tape/N-1012438
+L3,Mailing & Shipping,Industrial Shipping Supplies,Shrink-Wrap,https://www.officedepot.com/b/shrink-wrap/N-1012416
+L3,Mailing & Shipping,Industrial Shipping Supplies,Inspection & Shipping Tags,https://www.officedepot.com/b/inspection-and-shipping-tags/N-1012412
+L3,Mailing & Shipping,Industrial Shipping Supplies,Hand Trucks & Dollies,https://www.officedepot.com/b/hand-trucks-and-dollies/N-1012410
+L3,Mailing & Shipping,Industrial Shipping Supplies,"Utility Knives, Cutters & Blades",https://www.officedepot.com/b/utility-knives-cutters-and-blades/N-1012418
+L3,Mailing & Shipping,Industrial Shipping Supplies,Shipping Straps,https://www.officedepot.com/b/strapping-materials-and-twine/N-1012417
+L2,Mailing & Shipping,Poly Bags,,https://www.officedepot.com/b/poly-bags/N-4045
+L2,Mailing & Shipping,Custom Mailing Labels,,https://www.officedepot.com/b/custom-mailing-labels/N-1212303
+L2,Mailing & Shipping,Moving Solutions,,https://www.officedepot.com/l/marketing/moving-solutions/
+L2,Mailing & Shipping,Shipping Solutions,,https://www.officedepot.com/l/ideas-center/find-solutions/shipping-solutions

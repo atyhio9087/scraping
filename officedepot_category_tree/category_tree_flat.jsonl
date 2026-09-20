@@ -1,0 +1,480 @@
+{"level": "L1", "l1": "School Supplies", "l2": "", "l3": "", "url": "https://www.officedepot.com/l/school-supplies"}
+{"level": "L2", "l1": "School Supplies", "l2": "Shop All Back-to-School", "l3": "", "url": "https://www.officedepot.com/l/school-supplies"}
+{"level": "L2", "l1": "School Supplies", "l2": "Shop By Grade", "l3": "", "url": "https://www.officedepot.com/l/school-supplies"}
+{"level": "L3", "l1": "School Supplies", "l2": "Shop By Grade", "l3": "Pre-K", "url": "https://www.officedepot.com/l/school-supplies/prek"}
+{"level": "L3", "l1": "School Supplies", "l2": "Shop By Grade", "l3": "K-5", "url": "https://www.officedepot.com/l/school-supplies/k-5th-grade"}
+{"level": "L3", "l1": "School Supplies", "l2": "Shop By Grade", "l3": "6-8", "url": "https://www.officedepot.com/l/school-supplies/6th-8th-grade"}
+{"level": "L3", "l1": "School Supplies", "l2": "Shop By Grade", "l3": "9-12", "url": "https://www.officedepot.com/l/school-supplies/9th-12th-grade"}
+{"level": "L3", "l1": "School Supplies", "l2": "Shop By Grade", "l3": "College", "url": "https://www.officedepot.com/l/school-supplies/college-supplies"}
+{"level": "L2", "l1": "School Supplies", "l2": "Arts & Crafts", "l3": "", "url": "https://www.officedepot.com/b/art-supplies/N-1824155"}
+{"level": "L3", "l1": "School Supplies", "l2": "Arts & Crafts", "l3": "Art Markers", "url": "https://www.officedepot.com/b/art-markers/N-1824166"}
+{"level": "L3", "l1": "School Supplies", "l2": "Arts & Crafts", "l3": "Colored Pencils", "url": "https://www.officedepot.com/b/colored-pencils/N-1824170"}
+{"level": "L3", "l1": "School Supplies", "l2": "Arts & Crafts", "l3": "Construction Paper", "url": "https://www.officedepot.com/b/construction-paper/N-1824159"}
+{"level": "L3", "l1": "School Supplies", "l2": "Arts & Crafts", "l3": "Crayons", "url": "https://www.officedepot.com/b/crayons/N-1824174"}
+{"level": "L3", "l1": "School Supplies", "l2": "Arts & Crafts", "l3": "Glue", "url": "https://www.officedepot.com/b/glue-and-adhesives/N-371558"}
+{"level": "L2", "l1": "School Supplies", "l2": "School Electronics", "l3": "", "url": "https://www.officedepot.com/l/school-supplies/school-electronics"}
+{"level": "L3", "l1": "School Supplies", "l2": "School Electronics", "l3": "Calculators", "url": "https://www.officedepot.com/b/calculators/N-509745"}
+{"level": "L3", "l1": "School Supplies", "l2": "School Electronics", "l3": "Earbuds & Headphones", "url": "https://www.officedepot.com/b/headphones/N-552818"}
+{"level": "L3", "l1": "School Supplies", "l2": "School Electronics", "l3": "Flash Drives", "url": "https://www.officedepot.com/b/usb-flash-drives/N-1461987"}
+{"level": "L3", "l1": "School Supplies", "l2": "School Electronics", "l3": "Hard Drives", "url": "https://www.officedepot.com/b/external-hard-drives/N-1461964"}
+{"level": "L2", "l1": "School Supplies", "l2": "School Backpacks & Lunch Bags", "l3": "", "url": "https://www.officedepot.com/b/backpacks-and-lunch-bags/N-1155042"}
+{"level": "L3", "l1": "School Supplies", "l2": "School Backpacks & Lunch Bags", "l3": "Lunch Bags", "url": "https://www.officedepot.com/b/lunch-bags/N-1510092"}
+{"level": "L3", "l1": "School Supplies", "l2": "School Backpacks & Lunch Bags", "l3": "School Backpacks", "url": "https://www.officedepot.com/b/backpacks/N-535201"}
+{"level": "L3", "l1": "School Supplies", "l2": "School Backpacks & Lunch Bags", "l3": "Water Bottles & Cups", "url": "https://www.officedepot.com/b/water-bottles/N-1211738"}
+{"level": "L2", "l1": "School Supplies", "l2": "Folders & Binders", "l3": "", "url": "https://www.officedepot.com/b/folders-and-binders/N-1155061"}
+{"level": "L3", "l1": "School Supplies", "l2": "Folders & Binders", "l3": "Binders", "url": "https://www.officedepot.com/b/binders/N-1035691"}
+{"level": "L3", "l1": "School Supplies", "l2": "Folders & Binders", "l3": "Dividers", "url": "https://www.officedepot.com/b/dividers/N-581131"}
+{"level": "L3", "l1": "School Supplies", "l2": "Folders & Binders", "l3": "File Folders", "url": "https://www.officedepot.com/b/file-folders/N-3545"}
+{"level": "L3", "l1": "School Supplies", "l2": "Folders & Binders", "l3": "Pocket Folders", "url": "https://www.officedepot.com/b/pocket-folders/N-1544964"}
+{"level": "L3", "l1": "School Supplies", "l2": "Folders & Binders", "l3": "Sheet Protectors", "url": "https://www.officedepot.com/b/sheet-protectors/N-2310"}
+{"level": "L2", "l1": "School Supplies", "l2": "Writing", "l3": "", "url": "https://www.officedepot.com/b/writing-supplies/N-4367"}
+{"level": "L3", "l1": "School Supplies", "l2": "Writing", "l3": "Correction Fluid", "url": "https://www.officedepot.com/b/correction-fluid/N-4405"}
+{"level": "L3", "l1": "School Supplies", "l2": "Writing", "l3": "Erasers", "url": "https://www.officedepot.com/b/erasers/N-4420"}
+{"level": "L3", "l1": "School Supplies", "l2": "Writing", "l3": "Highlighters", "url": "https://www.officedepot.com/b/highlighters/N-4473"}
+{"level": "L3", "l1": "School Supplies", "l2": "Writing", "l3": "Pencils", "url": "https://www.officedepot.com/b/pencils/N-4504"}
+{"level": "L3", "l1": "School Supplies", "l2": "Writing", "l3": "Pens", "url": "https://www.officedepot.com/b/pens/N-4520"}
+{"level": "L2", "l1": "School Supplies", "l2": "Teacher Supplies", "l3": "", "url": "https://www.officedepot.com/b/teacher-supplies/N-1186205"}
+{"level": "L2", "l1": "School Supplies", "l2": "Teacher Deals & Discounts", "l3": "", "url": "https://www.officedepot.com/l/id-me/teachers"}
+{"level": "L2", "l1": "School Supplies", "l2": "Basic School Supplies", "l3": "", "url": "https://www.officedepot.com/b/basic-school-supplies/N-1155045"}
+{"level": "L3", "l1": "School Supplies", "l2": "Basic School Supplies", "l3": "Pencil Cases", "url": "https://www.officedepot.com/b/pencil-cases/N-1156638"}
+{"level": "L3", "l1": "School Supplies", "l2": "Basic School Supplies", "l3": "Pencil Sharpeners", "url": "https://www.officedepot.com/b/pencil-sharpeners/N-4493"}
+{"level": "L3", "l1": "School Supplies", "l2": "Basic School Supplies", "l3": "Protractors", "url": "https://www.officedepot.com/b/protractors/N-590395"}
+{"level": "L3", "l1": "School Supplies", "l2": "Basic School Supplies", "l3": "Rulers", "url": "https://www.officedepot.com/b/rulers/N-581690"}
+{"level": "L3", "l1": "School Supplies", "l2": "Basic School Supplies", "l3": "Scissors", "url": "https://www.officedepot.com/b/scissors/N-581693"}
+{"level": "L3", "l1": "School Supplies", "l2": "Basic School Supplies", "l3": "Staples & Staplers", "url": "https://www.officedepot.com/b/staplers-and-staples/N-658785"}
+{"level": "L3", "l1": "School Supplies", "l2": "Basic School Supplies", "l3": "Tape", "url": "https://www.officedepot.com/b/office-tape/N-371573"}
+{"level": "L2", "l1": "School Supplies", "l2": "Notebooks & Paper", "l3": "", "url": "https://www.officedepot.com/b/notebooks-and-paper/N-1155070"}
+{"level": "L3", "l1": "School Supplies", "l2": "Notebooks & Paper", "l3": "Composition Books", "url": "https://www.officedepot.com/b/composition-books/N-530742"}
+{"level": "L3", "l1": "School Supplies", "l2": "Notebooks & Paper", "l3": "Graph Paper", "url": "https://www.officedepot.com/b/graph-paper/N-549824"}
+{"level": "L3", "l1": "School Supplies", "l2": "Notebooks & Paper", "l3": "Index Cards", "url": "https://www.officedepot.com/b/index-cards/N-1123261"}
+{"level": "L3", "l1": "School Supplies", "l2": "Notebooks & Paper", "l3": "Loose Leaf Paper", "url": "https://www.officedepot.com/b/filler-paper/N-549823"}
+{"level": "L3", "l1": "School Supplies", "l2": "Notebooks & Paper", "l3": "Notebooks", "url": "https://www.officedepot.com/b/spiral-and-wireless-notebooks/N-530745"}
+{"level": "L2", "l1": "School Supplies", "l2": "Academic Year Planners", "l3": "", "url": "https://www.officedepot.com/b/planners/Calendar_Type--Academic_Year/N-1131212"}
+{"level": "L2", "l1": "School Supplies", "l2": "Featured Brands", "l3": "", "url": ""}
+{"level": "L3", "l1": "School Supplies", "l2": "Featured Brands", "l3": "Crayola", "url": "https://www.officedepot.com/b/art-supplies/Brand--Crayola/N-1824155/"}
+{"level": "L3", "l1": "School Supplies", "l2": "Featured Brands", "l3": "Texas Instruments", "url": "https://www.officedepot.com/b/calculators/Brand--Texas_Instruments/N-509745/"}
+{"level": "L3", "l1": "School Supplies", "l2": "Featured Brands", "l3": "Elmers", "url": "https://www.officedepot.com/b/glue/Brand--Elmer/N-371558/"}
+{"level": "L3", "l1": "School Supplies", "l2": "Featured Brands", "l3": "Ticonderoga", "url": "https://www.officedepot.com/b/pencils/Brand--Ticonderoga/N-4504/"}
+{"level": "L1", "l1": "Ink & Toner", "l2": "", "l3": "", "url": "https://www.officedepot.com/l/ink-and-toner"}
+{"level": "L2", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "", "url": "https://www.officedepot.com/l/ink-and-toner"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Brother Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Brother/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Canon Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Canon/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Epson Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Epson/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "HP Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--HP/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Lexmark Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Lexmark/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Xerox Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Xerox/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Samsung Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Samsung/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Dell Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Dell/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Oki Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Oki/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Ricoh Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Ricoh/N-1462019"}
+{"level": "L3", "l1": "Ink & Toner", "l2": "Ink & Toner By Brand", "l3": "Office Depot Brand Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Office_Depot/N-1462019"}
+{"level": "L1", "l1": "Paper", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/paper/N-530715"}
+{"level": "L2", "l1": "Paper", "l2": "Shop Paper Deals", "l3": "", "url": "https://www.officedepot.com/l/paper/paper-deals"}
+{"level": "L2", "l1": "Paper", "l2": "Copy & Printer Paper", "l3": "", "url": "https://www.officedepot.com/b/copy-and-printer-paper/N-530728"}
+{"level": "L3", "l1": "Paper", "l2": "Copy & Printer Paper", "l3": "Copy & Multipurpose Paper", "url": "https://www.officedepot.com/b/copy-and-multipurpose-paper/N-530730"}
+{"level": "L3", "l1": "Paper", "l2": "Copy & Printer Paper", "l3": "Colored Paper", "url": "https://www.officedepot.com/b/colored-paper/N-530729"}
+{"level": "L3", "l1": "Paper", "l2": "Copy & Printer Paper", "l3": "Inkjet Printer Paper", "url": "https://www.officedepot.com/b/inkjet-printer-paper/N-530731"}
+{"level": "L3", "l1": "Paper", "l2": "Copy & Printer Paper", "l3": "Laser Printer Paper", "url": "https://www.officedepot.com/b/laser-printer-paper/N-530732"}
+{"level": "L2", "l1": "Paper", "l2": "Photo & Presentation", "l3": "", "url": "https://www.officedepot.com/b/photo-and-presentation-paper/N-530747"}
+{"level": "L3", "l1": "Paper", "l2": "Photo & Presentation", "l3": "Brochure Paper", "url": "https://www.officedepot.com/b/brochure-and-presentation-paper/N-530748"}
+{"level": "L3", "l1": "Paper", "l2": "Photo & Presentation", "l3": "Cardstock", "url": "https://www.officedepot.com/b/cover-and-card-stock/N-549819"}
+{"level": "L3", "l1": "Paper", "l2": "Photo & Presentation", "l3": "Commercial Printing Paper", "url": "https://www.officedepot.com/b/commercial-printing-paper/N-1251127"}
+{"level": "L3", "l1": "Paper", "l2": "Photo & Presentation", "l3": "Photo Printer Paper", "url": "https://www.officedepot.com/b/photo-printer-paper/N-530749"}
+{"level": "L3", "l1": "Paper", "l2": "Photo & Presentation", "l3": "Stationery & Resume Paper", "url": "https://www.officedepot.com/b/stationery-and-resume-paper/N-549831"}
+{"level": "L3", "l1": "Paper", "l2": "Photo & Presentation", "l3": "Wide Format Paper", "url": "https://www.officedepot.com/b/wide-format-paper/N-530751"}
+{"level": "L2", "l1": "Paper", "l2": "Notebooks & Pads", "l3": "", "url": "https://www.officedepot.com/b/notebooks-and-pads/N-530741"}
+{"level": "L3", "l1": "Paper", "l2": "Notebooks & Pads", "l3": "Composition Books", "url": "https://www.officedepot.com/b/composition-books/N-530742"}
+{"level": "L3", "l1": "Paper", "l2": "Notebooks & Pads", "l3": "Discbound Notebooks", "url": "https://www.officedepot.com/b/discbound-note-taking-systems/N-1012166"}
+{"level": "L3", "l1": "Paper", "l2": "Notebooks & Pads", "l3": "Journals & Diaries", "url": "https://www.officedepot.com/b/journals-and-diaries/N-606538"}
+{"level": "L3", "l1": "Paper", "l2": "Notebooks & Pads", "l3": "Spiral Notebooks", "url": "https://www.officedepot.com/b/spiral-and-wireless-notebooks/N-530745"}
+{"level": "L3", "l1": "Paper", "l2": "Notebooks & Pads", "l3": "Writing Pads", "url": "https://www.officedepot.com/b/writing-pads/N-549829"}
+{"level": "L2", "l1": "Paper", "l2": "Post-It & Sticky Notes", "l3": "", "url": "https://www.officedepot.com/b/sticky-notes/N-1563986"}
+{"level": "L2", "l1": "Paper", "l2": "Art & Craft Paper", "l3": "", "url": "https://www.officedepot.com/b/art-and-craft-paper/N-1824156"}
+{"level": "L3", "l1": "Paper", "l2": "Art & Craft Paper", "l3": "Construction Paper", "url": "https://www.officedepot.com/b/construction-paper/N-1824159"}
+{"level": "L3", "l1": "Paper", "l2": "Art & Craft Paper", "l3": "Craft & Tissue Paper", "url": "https://www.officedepot.com/b/craft-and-tissue-paper/N-1824161"}
+{"level": "L3", "l1": "Paper", "l2": "Art & Craft Paper", "l3": "Drawing Pads & Sketchbooks", "url": "https://www.officedepot.com/b/drawing-pads-and-sketchbooks/N-1824176"}
+{"level": "L3", "l1": "Paper", "l2": "Art & Craft Paper", "l3": "Iron-on Transfers", "url": "https://www.officedepot.com/b/craft-and-tissue-paper/Product_Type--Printable_Iron_On_Transfer/N-1824161"}
+{"level": "L2", "l1": "Paper", "l2": "Index Cards", "l3": "", "url": "https://www.officedepot.com/b/index-cards/N-1123262"}
+{"level": "L2", "l1": "Paper", "l2": "Filler & Graph Paper", "l3": "", "url": "https://www.officedepot.com/b/filler-and-graph-paper/N-549821"}
+{"level": "L3", "l1": "Paper", "l2": "Filler & Graph Paper", "l3": "Filler Paper", "url": "https://www.officedepot.com/b/filler-paper/N-549823"}
+{"level": "L3", "l1": "Paper", "l2": "Filler & Graph Paper", "l3": "Graph Paper", "url": "https://www.officedepot.com/b/graph-paper/N-549824"}
+{"level": "L2", "l1": "Paper", "l2": "Register & Thermal Paper Rolls", "l3": "", "url": "https://www.officedepot.com/b/cash-register-and-thermal-rolls/N-530723"}
+{"level": "L3", "l1": "Paper", "l2": "Register & Thermal Paper Rolls", "l3": "Calculator Paper Rolls", "url": "https://www.officedepot.com/b/calculator-paper-rolls/N-549817"}
+{"level": "L3", "l1": "Paper", "l2": "Register & Thermal Paper Rolls", "l3": "Register Paper Rolls", "url": "https://www.officedepot.com/b/cash-register-and-thermal-paper-rolls/N-530724"}
+{"level": "L2", "l1": "Paper", "l2": "Forms", "l3": "", "url": "https://www.officedepot.com/b/business-forms-and-bookkeeping/N-516208"}
+{"level": "L2", "l1": "Paper", "l2": "Business Card Paper", "l3": "", "url": "https://www.officedepot.com/b/diy-business-cards/N-1159768"}
+{"level": "L2", "l1": "Paper", "l2": "Paper Buying Guide", "l3": "", "url": "https://www.officedepot.com/l/ideas-center/buying-guides/paper-buying-guide"}
+{"level": "L1", "l1": "Office Supplies", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/office-supplies/N-1676"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Shop Office Supplies Deals", "l3": "", "url": "https://www.officedepot.com/l/deal-center/office-supplies-deals"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Writing Supplies", "l3": "", "url": "https://www.officedepot.com/b/writing-supplies/N-4367"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Writing Supplies", "l3": "Correction Fluid & Tape", "url": "https://www.officedepot.com/b/correction-fluid-and-tape/N-4404"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Writing Supplies", "l3": "Markers", "url": "https://www.officedepot.com/b/markers/N-4467"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Writing Supplies", "l3": "Pencils", "url": "https://www.officedepot.com/b/pencils/N-4504"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Writing Supplies", "l3": "Pens", "url": "https://www.officedepot.com/b/pens/N-4520"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Basic Supplies", "l3": "", "url": "https://www.officedepot.com/b/basic-supplies/N-1886"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Basic Supplies", "l3": "Paper & Binder Clips", "url": "https://www.officedepot.com/b/paper-clips-binder-clips-and-fasteners/N-581682"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Basic Supplies", "l3": "Paper Punches & Cutters", "url": "https://www.officedepot.com/b/paper-punches-cutters-and-folding-machines/N-658776"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Basic Supplies", "l3": "Post-It & Sticky Notes", "url": "https://www.officedepot.com/b/sticky-notes-and-flags/N-1563983"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Basic Supplies", "l3": "Staplers & Staples", "url": "https://www.officedepot.com/b/staplers-and-staples/N-658785"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Basic Supplies", "l3": "Scissors", "url": "https://www.officedepot.com/b/scissors/N-581693"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Basic Supplies", "l3": "Tape & Adhesives", "url": "https://www.officedepot.com/b/tape-and-adhesives/N-371557"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Mailing & Shipping", "l3": "", "url": "https://www.officedepot.com/b/mailing-packing-and-shipping/N-3912"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Mailing & Shipping", "l3": "Envelopes", "url": "https://www.officedepot.com/b/envelopes/N-514132"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Mailing & Shipping", "l3": "Packing Materials", "url": "https://www.officedepot.com/b/packing-materials/N-3972"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Mailing & Shipping", "l3": "Packing Tape", "url": "https://www.officedepot.com/b/packing-tape/N-4009"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Mailing & Shipping", "l3": "Shipping & Moving Boxes", "url": "https://www.officedepot.com/b/shipping-and-moving-boxes/N-3913"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Office Shredders", "l3": "", "url": "https://www.officedepot.com/b/shredders/N-509777"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Filing & Folders", "l3": "", "url": "https://www.officedepot.com/b/filing-and-folders/N-3469"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Filing & Folders", "l3": "Expanding File Folders", "url": "https://www.officedepot.com/b/expanding-file-folders/N-3507"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Filing & Folders", "l3": "File Folders", "url": "https://www.officedepot.com/b/file-folders/N-3545"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Filing & Folders", "l3": "Hanging File Folders", "url": "https://www.officedepot.com/b/hanging-file-folders/N-3628"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Filing & Folders", "l3": "Pocket Folders", "url": "https://www.officedepot.com/b/pocket-folders/N-1544964"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Laminating", "l3": "", "url": "https://www.officedepot.com/b/laminating/N-1505116"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Laminating", "l3": "Laminating Supplies", "url": "https://www.officedepot.com/b/laminating-supplies/N-1505118"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Laminating", "l3": "Laminating Machines", "url": "https://www.officedepot.com/b/laminating-machines/N-1505117"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Binders & Accessories", "l3": "", "url": "https://www.officedepot.com/b/binders-and-accessories/N-2155"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Binders & Accessories", "l3": "Binders", "url": "https://www.officedepot.com/b/binders/N-1035691"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Binders & Accessories", "l3": "Dividers & Tabs", "url": "https://www.officedepot.com/b/dividers-and-tabs/N-581130"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Binders & Accessories", "l3": "Report Covers & Portfolios", "url": "https://www.officedepot.com/b/report-covers-and-portfolios/N-567576"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Binders & Accessories", "l3": "Sheet Protectors", "url": "https://www.officedepot.com/b/sheet-protectors/N-2310"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Labels & Label Makers", "l3": "", "url": "https://www.officedepot.com/b/labels-and-label-makers/N-1159754"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Labels & Label Makers", "l3": "Address Labels", "url": "https://www.officedepot.com/b/address-labels/N-1159755"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Labels & Label Makers", "l3": "Label Makers", "url": "https://www.officedepot.com/b/label-makers/N-1159762"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Labels & Label Makers", "l3": "Label Maker Tapes", "url": "https://www.officedepot.com/b/label-maker-tapes/N-1159761"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Labels & Label Makers", "l3": "Name Badges & Holders", "url": "https://www.officedepot.com/b/name-badges-and-holders/N-1159763"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Bags & Luggage", "l3": "", "url": "https://www.officedepot.com/b/bags-and-luggage/N-2674"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Bags & Luggage", "l3": "Backpacks", "url": "https://www.officedepot.com/b/backpacks/N-535201"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Bags & Luggage", "l3": "Laptop Bags", "url": "https://www.officedepot.com/b/laptop-bags/N-535214"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Bags & Luggage", "l3": "Lunch Bags", "url": "https://www.officedepot.com/b/lunch-bags/N-1510092"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Bags & Luggage", "l3": "Totes & Handbags", "url": "https://www.officedepot.com/b/totes-and-handbags/N-535209"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Desk Accessories", "l3": "", "url": "https://www.officedepot.com/b/desk-accessories/N-1170326"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Desk Accessories", "l3": "Desk Organizers", "url": "https://www.officedepot.com/b/desk-organizers/N-1170330"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Desk Accessories", "l3": "Desk Trays", "url": "https://www.officedepot.com/b/desk-trays/N-1170332"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Desk Accessories", "l3": "Drawer Organizers", "url": "https://www.officedepot.com/b/drawer-organizers/N-1170333"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Desk Accessories", "l3": "File Organizers", "url": "https://www.officedepot.com/b/file-organizers/N-1170334"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Storage", "l3": "", "url": "https://www.officedepot.com/l/marketing/save-time-and-organize"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Storage", "l3": "File Boxes", "url": "https://www.officedepot.com/b/file-boxes/N-1123257"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Storage", "l3": "Plastic Storage Containers", "url": "https://www.officedepot.com/b/plastic-storage-containers/N-1123255"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Storage", "l3": "Storage Bins & Baskets", "url": "https://www.officedepot.com/b/storage-bins-and-baskets/N-1123253"}
+{"level": "L3", "l1": "Office Supplies", "l2": "Storage", "l3": "Storage Drawers & Carts", "url": "https://www.officedepot.com/b/storage-drawers-and-carts/N-1123259"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Calendars & Planners", "l3": "", "url": "https://www.officedepot.com/b/calendars-and-planners/N-1131206"}
+{"level": "L2", "l1": "Office Supplies", "l2": "Whiteboards", "l3": "", "url": "https://www.officedepot.com/b/whiteboards-and-dry-erase-boards/N-714870"}
+{"level": "L1", "l1": "Art Supplies", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/art-supplies/N-1824155"}
+{"level": "L2", "l1": "Art Supplies", "l2": "Coloring & Drawing", "l3": "", "url": "https://www.officedepot.com/b/coloring-and-drawing/N-1824163/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Coloring & Drawing", "l3": "Art Markers", "url": "https://www.officedepot.com/b/art-markers/N-1824166/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Coloring & Drawing", "l3": "Art & Drawing Pens", "url": "https://www.officedepot.com/b/art-and-drawing-pens/N-1824164/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Coloring & Drawing", "l3": "Coloring & Activity Books", "url": "https://www.officedepot.com/b/coloring-and-activity-books/N-1824172/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Coloring & Drawing", "l3": "Crayons", "url": "https://www.officedepot.com/b/crayons/N-1824174/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Coloring & Drawing", "l3": "Chalk", "url": "https://www.officedepot.com/b/chalk/N-1824168/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Coloring & Drawing", "l3": "Colored Pencils", "url": "https://www.officedepot.com/b/colored-pencils/N-1824170/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Coloring & Drawing", "l3": "Drawing Pads & Sketchbooks", "url": "https://www.officedepot.com/b/drawing-pads-and-sketchbooks/N-1824176/"}
+{"level": "L2", "l1": "Art Supplies", "l2": "Crafting", "l3": "", "url": "https://www.officedepot.com/b/crafting/N-1824178/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Crafting", "l3": "Craft Supplies", "url": "https://www.officedepot.com/b/craft-supplies/N-1824183/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Crafting", "l3": "Craft Tools & Machines", "url": "https://www.officedepot.com/b/craft-tools-and-machines/N-1824185/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Crafting", "l3": "Craft Kits", "url": "https://www.officedepot.com/b/craft-kits/N-1824181/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Crafting", "l3": "Stencils & Letters", "url": "https://www.officedepot.com/b/stencils-and-letters/N-1824187/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Crafting", "l3": "Stickers", "url": "https://www.officedepot.com/b/stickers/N-1824189/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Crafting", "l3": "Clay & Modeling", "url": "https://www.officedepot.com/b/clay-and-modeling/N-1824179/"}
+{"level": "L2", "l1": "Art Supplies", "l2": "Painting Supplies", "l3": "", "url": "https://www.officedepot.com/b/painting-supplies/N-1824191/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Painting Supplies", "l3": "Acrylic & Tempera Paints", "url": "https://www.officedepot.com/b/acrylic-and-tempera-paints/N-1824192/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Painting Supplies", "l3": "Paint Brushes", "url": "https://www.officedepot.com/b/paint-brushes/N-1824198/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Painting Supplies", "l3": "Oil Pastels & Paint", "url": "https://www.officedepot.com/b/oil-pastels-and-paint/N-1824194/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Painting Supplies", "l3": "Paint Accessories", "url": "https://www.officedepot.com/b/paint-accessories/N-1824196/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Painting Supplies", "l3": "Watercolor Paint", "url": "https://www.officedepot.com/b/watercolor-paint/N-1824200/"}
+{"level": "L2", "l1": "Art Supplies", "l2": "Art & Craft Paper", "l3": "", "url": "https://www.officedepot.com/b/art-and-craft-paper/N-1824156/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Art & Craft Paper", "l3": "Construction Paper", "url": "https://www.officedepot.com/b/construction-paper/N-1824159/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Art & Craft Paper", "l3": "Craft & Tissue Paper", "url": "https://www.officedepot.com/b/craft-and-tissue-paper/N-1824161/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Art & Craft Paper", "l3": "Canvas & Art Boards", "url": "https://www.officedepot.com/b/canvas-and-art-boards/N-1824157/"}
+{"level": "L3", "l1": "Art Supplies", "l2": "Art & Craft Paper", "l3": "Easel Pads", "url": "https://www.officedepot.com/b/easel-pads/N-553929/"}
+{"level": "L1", "l1": "Furniture", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/furniture/N-917"}
+{"level": "L2", "l1": "Furniture", "l2": "Shop Furniture Deals", "l3": "", "url": "https://www.officedepot.com/l/deal-center/furniture-deals"}
+{"level": "L2", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "", "url": "https://www.officedepot.com/b/chairs-and-seating/N-593061"}
+{"level": "L3", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "Office Chairs", "url": "https://www.officedepot.com/b/office-chairs/N-593067"}
+{"level": "L3", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "Big & Tall Chairs", "url": "https://www.officedepot.com/b/big-and-tall-chairs/N-593062"}
+{"level": "L3", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "Gaming Chairs", "url": "https://www.officedepot.com/b/gaming-chairs/N-1302556"}
+{"level": "L3", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "Task Chairs", "url": "https://www.officedepot.com/b/task-chairs/N-593071"}
+{"level": "L3", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "Folding Chairs", "url": "https://www.officedepot.com/b/folding-chairs/N-593066"}
+{"level": "L3", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "Stackable Chairs", "url": "https://www.officedepot.com/b/stackable-chairs/N-593069"}
+{"level": "L3", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "Chair Mats", "url": "https://www.officedepot.com/b/chair-mats/N-1211741"}
+{"level": "L3", "l1": "Furniture", "l2": "Chairs & Seating", "l3": "Floor Mats", "url": "https://www.officedepot.com/b/floor-mats/N-1211742"}
+{"level": "L2", "l1": "Furniture", "l2": "School Furniture", "l3": "", "url": ""}
+{"level": "L3", "l1": "Furniture", "l2": "School Furniture", "l3": "Student Desks", "url": "https://www.officedepot.com/b/student-desks/N-579915"}
+{"level": "L3", "l1": "Furniture", "l2": "School Furniture", "l3": "Classroom Seating", "url": "https://www.officedepot.com/b/classroom-seating/N-1433512"}
+{"level": "L2", "l1": "Furniture", "l2": "Furniture Collections", "l3": "", "url": "https://www.officedepot.com/l/furniture/furniture-collections"}
+{"level": "L2", "l1": "Furniture", "l2": "Ergonomic Furniture", "l3": "", "url": ""}
+{"level": "L3", "l1": "Furniture", "l2": "Ergonomic Furniture", "l3": "Ergonomic Office Chairs", "url": "https://www.officedepot.com/b/ergonomic-office-chairs/N-593065"}
+{"level": "L3", "l1": "Furniture", "l2": "Ergonomic Furniture", "l3": "Standing Desks", "url": "https://www.officedepot.com/b/standing-desks/N-715982"}
+{"level": "L3", "l1": "Furniture", "l2": "Ergonomic Furniture", "l3": "Anti-Fatigue Mats", "url": "https://www.officedepot.com/b/chair-mats-and-floor-mats/Features--Antifatigue/N-1211740"}
+{"level": "L3", "l1": "Furniture", "l2": "Ergonomic Furniture", "l3": "Standing Desk Converters", "url": "https://www.officedepot.com/b/standing-desk-converters/N-1205513"}
+{"level": "L2", "l1": "Furniture", "l2": "Desks", "l3": "", "url": "https://www.officedepot.com/b/desks/N-501545"}
+{"level": "L3", "l1": "Furniture", "l2": "Desks", "l3": "Computer Desks", "url": "https://www.officedepot.com/b/computer-desks/N-579905"}
+{"level": "L3", "l1": "Furniture", "l2": "Desks", "l3": "Corner & L-Shaped Desks", "url": "https://www.officedepot.com/b/corner-and-l-shaped-desks/N-553865"}
+{"level": "L3", "l1": "Furniture", "l2": "Desks", "l3": "Commercial Desks", "url": "https://www.officedepot.com/b/commercial-grade-desks/N-501546"}
+{"level": "L3", "l1": "Furniture", "l2": "Desks", "l3": "Executive Desks", "url": "https://www.officedepot.com/b/executive-desks/N-579907"}
+{"level": "L3", "l1": "Furniture", "l2": "Desks", "l3": "Writing Desks", "url": "https://www.officedepot.com/b/writing-desks/N-579917"}
+{"level": "L3", "l1": "Furniture", "l2": "Desks", "l3": "Portable Desks", "url": "https://www.officedepot.com/b/portable-desks/N-579913"}
+{"level": "L3", "l1": "Furniture", "l2": "Desks", "l3": "Panel & Cubicle Systems", "url": "https://www.officedepot.com/b/cubicle-systems/N-1021716"}
+{"level": "L2", "l1": "Furniture", "l2": "Storage Solutions", "l3": "", "url": "https://www.officedepot.com/l/marketing/save-time-and-organize"}
+{"level": "L3", "l1": "Furniture", "l2": "Storage Solutions", "l3": "File Cabinets", "url": "https://www.officedepot.com/b/file-cabinets/N-1141176"}
+{"level": "L3", "l1": "Furniture", "l2": "Storage Solutions", "l3": "Bookcases", "url": "https://www.officedepot.com/b/bookcases/N-654600"}
+{"level": "L3", "l1": "Furniture", "l2": "Storage Solutions", "l3": "Cabinets & Shelving Units", "url": "https://www.officedepot.com/b/storage-cabinets-and-shelving-units/N-533590"}
+{"level": "L3", "l1": "Furniture", "l2": "Storage Solutions", "l3": "Lockers", "url": "https://www.officedepot.com/b/lockers/N-533600"}
+{"level": "L2", "l1": "Furniture", "l2": "Tables", "l3": "", "url": "https://www.officedepot.com/b/tables/N-501910"}
+{"level": "L3", "l1": "Furniture", "l2": "Tables", "l3": "Folding Tables", "url": "https://www.officedepot.com/b/folding-tables/N-501917"}
+{"level": "L3", "l1": "Furniture", "l2": "Tables", "l3": "Conference Room Tables", "url": "https://www.officedepot.com/b/conference-tables/N-501913"}
+{"level": "L2", "l1": "Furniture", "l2": "Office Decor", "l3": "", "url": "https://www.officedepot.com/b/office-decor/N-504392"}
+{"level": "L3", "l1": "Furniture", "l2": "Office Decor", "l3": "Desk Accessories", "url": "https://www.officedepot.com/b/desk-accessories/N-1170326"}
+{"level": "L3", "l1": "Furniture", "l2": "Office Decor", "l3": "Carts & Stands", "url": "https://www.officedepot.com/b/carts-and-stands/N-501476"}
+{"level": "L3", "l1": "Furniture", "l2": "Office Decor", "l3": "Lamps & Lighting", "url": "https://www.officedepot.com/b/lamps-and-lighting/N-1256962"}
+{"level": "L1", "l1": "Computers & Accessories", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/computers-and-accessories/N-1461888"}
+{"level": "L2", "l1": "Computers & Accessories", "l2": "Shop Computers & Accessories Deals", "l3": "", "url": "https://www.officedepot.com/l/deal-center/pc-deals"}
+{"level": "L2", "l1": "Computers & Accessories", "l2": "Computers", "l3": "", "url": "https://www.officedepot.com/b/computers-and-accessories/N-1461888"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computers", "l3": "Laptop Computers", "url": "https://www.officedepot.com/b/laptop-computers/N-1462020"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computers", "l3": "Desktop Computers", "url": "https://www.officedepot.com/b/desktop-computers/N-1461989"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computers", "l3": "Business Laptops", "url": "https://www.officedepot.com/b/business-laptops/N-1462022"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computers", "l3": "Business Desktops", "url": "https://www.officedepot.com/b/business-desktops/N-1461993"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computers", "l3": "All-in-One Computers", "url": "https://www.officedepot.com/b/all-in-one-computers/N-1461990"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computers", "l3": "Chromebooks", "url": "https://www.officedepot.com/b/chromebooks/N-1462023"}
+{"level": "L2", "l1": "Computers & Accessories", "l2": "Monitors & Accessories", "l3": "", "url": "https://www.officedepot.com/b/monitors-and-accessories/N-1462029/"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Monitors & Accessories", "l3": "Computer Monitors", "url": "https://www.officedepot.com/b/computer-monitors/N-1462030/"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Monitors & Accessories", "l3": "Curved Monitors", "url": "https://www.officedepot.com/b/monitors-and-accessories/Features--Curved_Screen/N-1462029/"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Monitors & Accessories", "l3": "Gaming Monitors", "url": "https://www.officedepot.com/b/gaming-monitors/N-1569255/"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Monitors & Accessories", "l3": "Monitor Stands & Arms", "url": "https://www.officedepot.com/b/monitor-mounts-and-arms/N-1462033/"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Monitors & Accessories", "l3": "Projectors", "url": "https://www.officedepot.com/b/projectors/N-1123281/"}
+{"level": "L2", "l1": "Computers & Accessories", "l2": "Computer Accessories", "l3": "", "url": "https://www.officedepot.com/b/computer-accessories/N-1461889"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computer Accessories", "l3": "Mice & Keyboards", "url": "https://www.officedepot.com/b/mice-and-keyboards/N-1461905"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computer Accessories", "l3": "Mousepads & Wrist Rests", "url": "https://www.officedepot.com/b/mousepads-and-wrist-rests/N-1461910"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computer Accessories", "l3": "Computer Speakers & Headsets", "url": "https://www.officedepot.com/b/computer-speakers-and-headsets/N-1461893"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computer Accessories", "l3": "Compressed Air Dusters", "url": "https://www.officedepot.com/b/compressed-air-dusters/N-1504673"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Computer Accessories", "l3": "Laptop Accessories", "url": "https://www.officedepot.com/b/laptop-accessories/N-1461898"}
+{"level": "L2", "l1": "Computers & Accessories", "l2": "Printers & Accessories", "l3": "", "url": "https://www.officedepot.com/b/printers/N-1462036"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Printers & Accessories", "l3": "Laser Printers", "url": "https://www.officedepot.com/b/laser-printers/N-1462042"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Printers & Accessories", "l3": "Inkjet Printers", "url": "https://www.officedepot.com/b/inkjet-printers/N-1462040"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Printers & Accessories", "l3": "All-in-One Printers", "url": "https://www.officedepot.com/b/all-in-one-printers/N-1462038"}
+{"level": "L2", "l1": "Computers & Accessories", "l2": "Data Storage", "l3": "", "url": ""}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Data Storage", "l3": "External Hard Drives", "url": "https://www.officedepot.com/b/external-hard-drives/N-1461964"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Data Storage", "l3": "Internal Hard Drives", "url": "https://www.officedepot.com/b/internal-hard-drives/N-1461965"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Data Storage", "l3": "Solid State Drives", "url": "https://www.officedepot.com/b/solid-state-drives/N-1461967"}
+{"level": "L3", "l1": "Computers & Accessories", "l2": "Data Storage", "l3": "Blank Media", "url": "https://www.officedepot.com/b/media/N-1461968"}
+{"level": "L1", "l1": "Printers", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/printers/N-1462036"}
+{"level": "L2", "l1": "Printers", "l2": "Shop Printer Deals", "l3": "", "url": "https://www.officedepot.com/l/deal-center/printer-deals"}
+{"level": "L2", "l1": "Printers", "l2": "Shop By Use", "l3": "", "url": ""}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Use", "l3": "Commercial Printers", "url": "https://www.officedepot.com/b/printers/Printer_Use--Commercial/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Use", "l3": "Home Printers", "url": "https://www.officedepot.com/b/printers/Printer_Use--Home_Office/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Use", "l3": "Office Printers", "url": "https://www.officedepot.com/b/printers/Printer_Use--Medium_Business/Printer_Use--Small_Business/N-1462036"}
+{"level": "L2", "l1": "Printers", "l2": "Printers By Brand", "l3": "", "url": ""}
+{"level": "L3", "l1": "Printers", "l2": "Printers By Brand", "l3": "Brother Printers", "url": "https://www.officedepot.com/b/printers/Brand--Brother/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Printers By Brand", "l3": "Canon Printers", "url": "https://www.officedepot.com/b/printers/Brand--Canon/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Printers By Brand", "l3": "Epson Printers", "url": "https://www.officedepot.com/b/printers/Brand--Epson/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Printers By Brand", "l3": "HP Printers", "url": "https://www.officedepot.com/b/printers/Brand--HP/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Printers By Brand", "l3": "Lexmark Printers", "url": "https://www.officedepot.com/b/printers/Brand--Lexmark/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Printers By Brand", "l3": "Xerox Printers", "url": "https://www.officedepot.com/b/printers/Brand--Xerox/N-1462036"}
+{"level": "L2", "l1": "Printers", "l2": "Shop By Functionality", "l3": "", "url": ""}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Functionality", "l3": "Black & White Printers", "url": "https://www.officedepot.com/b/printers/Print_Color--Black_White/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Functionality", "l3": "Color Printers", "url": "https://www.officedepot.com/b/printers/Print_Color--Color/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Functionality", "l3": "Duplex Printers", "url": "https://www.officedepot.com/b/printers/Duplex_Printing--Automatic/Duplex_Printing--Manual/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Functionality", "l3": "Photo Printers", "url": "https://www.officedepot.com/b/photo-printers/N-1462380"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Functionality", "l3": "Portable Printers", "url": "https://www.officedepot.com/b/printers/Features--Portable/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Functionality", "l3": "Supertank Printers", "url": "https://www.officedepot.com/b/supertank-printers/N-1462045"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Functionality", "l3": "Wide Format Printers", "url": "https://www.officedepot.com/b/printers/N-1462036"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Functionality", "l3": "Wireless Printers", "url": "https://www.officedepot.com/b/printers/Features--Wireless/N-1462036"}
+{"level": "L2", "l1": "Printers", "l2": "Ink & Toner By Brand", "l3": "", "url": ""}
+{"level": "L3", "l1": "Printers", "l2": "Ink & Toner By Brand", "l3": "Brother Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Brother/N-1462019"}
+{"level": "L3", "l1": "Printers", "l2": "Ink & Toner By Brand", "l3": "Canon Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Canon/N-1462019"}
+{"level": "L3", "l1": "Printers", "l2": "Ink & Toner By Brand", "l3": "Epson Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Epson/N-1462019"}
+{"level": "L3", "l1": "Printers", "l2": "Ink & Toner By Brand", "l3": "HP Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--HP/N-1462019"}
+{"level": "L3", "l1": "Printers", "l2": "Ink & Toner By Brand", "l3": "Lexmark Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Lexmark/N-1462019"}
+{"level": "L3", "l1": "Printers", "l2": "Ink & Toner By Brand", "l3": "Xerox Ink & Toner", "url": "https://www.officedepot.com/b/ink-and-toner/Brand--Xerox/N-1462019"}
+{"level": "L2", "l1": "Printers", "l2": "Shop By Type", "l3": "", "url": ""}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Type", "l3": "All-In-One Printers", "url": "https://www.officedepot.com/b/all-in-one-printers/N-1462038"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Type", "l3": "Dot Matrix Printers", "url": "https://www.officedepot.com/b/dot-matrix-printers/N-1462039"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Type", "l3": "Inkjet Printers", "url": "https://www.officedepot.com/b/inkjet-printers/N-1462040"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Type", "l3": "Large Format Printers", "url": "https://www.officedepot.com/b/large-format-printers/N-1462041"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Type", "l3": "Laser Printers", "url": "https://www.officedepot.com/b/laser-printers/N-1462042"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Type", "l3": "LED Printers", "url": "https://www.officedepot.com/b/led-printers/N-1462043"}
+{"level": "L3", "l1": "Printers", "l2": "Shop By Type", "l3": "Thermal Printers", "url": "https://www.officedepot.com/b/thermal-printers/N-1462046"}
+{"level": "L2", "l1": "Printers", "l2": "Printer Accessories", "l3": "", "url": "https://www.officedepot.com/b/printer-accessories/N-1462044"}
+{"level": "L3", "l1": "Printers", "l2": "Printer Accessories", "l3": "Printer Cables", "url": "https://www.officedepot.com/b/computer-cables/Device_Supported--Printer/N-648907"}
+{"level": "L3", "l1": "Printers", "l2": "Printer Accessories", "l3": "Printer Ink & Toner", "url": "https://www.officedepot.com/l/ink-and-toner"}
+{"level": "L3", "l1": "Printers", "l2": "Printer Accessories", "l3": "Printer Paper", "url": "https://www.officedepot.com/b/copy-and-multipurpose-paper/N-530730/"}
+{"level": "L2", "l1": "Printers", "l2": "Scanners", "l3": "", "url": "https://www.officedepot.com/b/scanners/N-1040464/"}
+{"level": "L3", "l1": "Printers", "l2": "Scanners", "l3": "Document Scanners", "url": "https://www.officedepot.com/b/scanners/Scanner_Type--Document/N-1040464"}
+{"level": "L3", "l1": "Printers", "l2": "Scanners", "l3": "Photo Scanners", "url": "https://www.officedepot.com/b/scanners/Scanner_Type--Photo/N-1040464"}
+{"level": "L3", "l1": "Printers", "l2": "Scanners", "l3": "Receipt Scanners", "url": "https://www.officedepot.com/b/scanners/Scanner_Type--Receipt/N-1040464"}
+{"level": "L1", "l1": "Electronics", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/electronics/N-9021"}
+{"level": "L2", "l1": "Electronics", "l2": "Shop Electronics Deals", "l3": "", "url": "https://www.officedepot.com/b/electronics/Featured_Items--On_Sale/N-9021"}
+{"level": "L2", "l1": "Electronics", "l2": "Computers", "l3": "", "url": "https://www.officedepot.com/l/tech/shop-pcs"}
+{"level": "L3", "l1": "Electronics", "l2": "Computers", "l3": "Laptop Computers", "url": "https://www.officedepot.com/b/laptop-computers/N-1462020"}
+{"level": "L3", "l1": "Electronics", "l2": "Computers", "l3": "Desktop Computers", "url": "https://www.officedepot.com/b/desktop-computers/N-1461989"}
+{"level": "L3", "l1": "Electronics", "l2": "Computers", "l3": "All-in-One Computers", "url": "https://www.officedepot.com/b/all-in-one-computers/N-1461990"}
+{"level": "L3", "l1": "Electronics", "l2": "Computers", "l3": "Business Desktops", "url": "https://www.officedepot.com/b/business-desktops/N-1461993"}
+{"level": "L3", "l1": "Electronics", "l2": "Computers", "l3": "Monitors & Accessories", "url": "https://www.officedepot.com/b/monitors-and-accessories/N-1462029"}
+{"level": "L2", "l1": "Electronics", "l2": "Office Equipment", "l3": "", "url": "https://www.officedepot.com/b/office-equipment/N-509740"}
+{"level": "L3", "l1": "Electronics", "l2": "Office Equipment", "l3": "Scanners", "url": "https://www.officedepot.com/b/scanners/N-1040464"}
+{"level": "L3", "l1": "Electronics", "l2": "Office Equipment", "l3": "Shredders", "url": "https://www.officedepot.com/b/shredders/N-509777"}
+{"level": "L3", "l1": "Electronics", "l2": "Office Equipment", "l3": "Calculators", "url": "https://www.officedepot.com/b/calculators/N-509745"}
+{"level": "L3", "l1": "Electronics", "l2": "Office Equipment", "l3": "Projectors", "url": "https://www.officedepot.com/b/projectors/N-1123281/"}
+{"level": "L3", "l1": "Electronics", "l2": "Office Equipment", "l3": "Time Clocks", "url": "https://www.officedepot.com/b/time-clocks/N-509784"}
+{"level": "L2", "l1": "Electronics", "l2": "Phones & Accessories", "l3": "", "url": "https://www.officedepot.com/b/phones-and-accessories/N-509793"}
+{"level": "L3", "l1": "Electronics", "l2": "Phones & Accessories", "l3": "Multi-Line Phones", "url": "https://www.officedepot.com/b/multi-line-phones/N-509810"}
+{"level": "L3", "l1": "Electronics", "l2": "Phones & Accessories", "l3": "Teleconferencing", "url": "https://www.officedepot.com/b/teleconferencing/N-509806"}
+{"level": "L3", "l1": "Electronics", "l2": "Phones & Accessories", "l3": "Cell Phone Accessories", "url": "https://www.officedepot.com/b/cell-phone-accessories/N-509794"}
+{"level": "L3", "l1": "Electronics", "l2": "Phones & Accessories", "l3": "Single-Line Phones", "url": "https://www.officedepot.com/b/single-line-phones/N-509829"}
+{"level": "L3", "l1": "Electronics", "l2": "Phones & Accessories", "l3": "VoIP Phones & Systems", "url": "https://www.officedepot.com/b/voip/N-509807"}
+{"level": "L2", "l1": "Electronics", "l2": "TVs & Home Theater", "l3": "", "url": "https://www.officedepot.com/b/tvs-and-home-theater/N-509401"}
+{"level": "L3", "l1": "Electronics", "l2": "TVs & Home Theater", "l3": "Media Streaming Devices", "url": "https://www.officedepot.com/b/media-streaming-devices/N-510911"}
+{"level": "L3", "l1": "Electronics", "l2": "TVs & Home Theater", "l3": "TVs", "url": "https://www.officedepot.com/b/tvs/N-509465"}
+{"level": "L3", "l1": "Electronics", "l2": "TVs & Home Theater", "l3": "TV & Home Theater Accessories", "url": "https://www.officedepot.com/b/tv-and-home-theater-accessories/N-509458"}
+{"level": "L3", "l1": "Electronics", "l2": "TVs & Home Theater", "l3": "Video Equipment", "url": "https://www.officedepot.com/b/video-equipment/N-509470"}
+{"level": "L3", "l1": "Electronics", "l2": "TVs & Home Theater", "l3": "Audio Devices", "url": "https://www.officedepot.com/b/audio-devices/N-651017"}
+{"level": "L2", "l1": "Electronics", "l2": "Networking & Cables", "l3": "", "url": "https://www.officedepot.com/b/networking-and-cables/N-509688"}
+{"level": "L3", "l1": "Electronics", "l2": "Networking & Cables", "l3": "Wireless Networking", "url": "https://www.officedepot.com/b/wireless-networking/N-509733"}
+{"level": "L3", "l1": "Electronics", "l2": "Networking & Cables", "l3": "Network Switches & Hubs", "url": "https://www.officedepot.com/b/network-switches-and-hubs/N-509719"}
+{"level": "L3", "l1": "Electronics", "l2": "Networking & Cables", "l3": "Cables", "url": "https://www.officedepot.com/b/cables/N-509689"}
+{"level": "L3", "l1": "Electronics", "l2": "Networking & Cables", "l3": "Cable Management", "url": "https://www.officedepot.com/b/cable-management/N-509693"}
+{"level": "L3", "l1": "Electronics", "l2": "Networking & Cables", "l3": "USB Hubs & Adapters", "url": "https://www.officedepot.com/b/usb-hubs-adapters-and-switches/N-509728"}
+{"level": "L2", "l1": "Electronics", "l2": "Batteries & Power Protection", "l3": "", "url": "https://www.officedepot.com/b/batteries-and-power-protection/N-509475"}
+{"level": "L3", "l1": "Electronics", "l2": "Batteries & Power Protection", "l3": "Alkaline Batteries", "url": "https://www.officedepot.com/b/alkaline-batteries/N-509485"}
+{"level": "L3", "l1": "Electronics", "l2": "Batteries & Power Protection", "l3": "Lithium Batteries", "url": "https://www.officedepot.com/b/lithium-batteries/N-509496"}
+{"level": "L3", "l1": "Electronics", "l2": "Batteries & Power Protection", "l3": "UPS Battery Backup", "url": "https://www.officedepot.com/b/ups-battery-backup/N-509510"}
+{"level": "L3", "l1": "Electronics", "l2": "Batteries & Power Protection", "l3": "Chargers & Adapters", "url": "https://www.officedepot.com/b/chargers-and-adapters/N-509492"}
+{"level": "L3", "l1": "Electronics", "l2": "Batteries & Power Protection", "l3": "Rechargeable Batteries", "url": "https://www.officedepot.com/b/rechargeable-batteries/N-509504"}
+{"level": "L2", "l1": "Electronics", "l2": "Audio", "l3": "", "url": "https://www.officedepot.com/b/audio/N-552805"}
+{"level": "L3", "l1": "Electronics", "l2": "Audio", "l3": "Headphones", "url": "https://www.officedepot.com/b/headphones/N-552818"}
+{"level": "L3", "l1": "Electronics", "l2": "Audio", "l3": "Home Audio", "url": "https://www.officedepot.com/b/home-audio/N-633847"}
+{"level": "L3", "l1": "Electronics", "l2": "Audio", "l3": "Wireless Speakers", "url": "https://www.officedepot.com/b/wireless-and-bluetooth-speakers/N-696204"}
+{"level": "L3", "l1": "Electronics", "l2": "Audio", "l3": "Audio Accessories", "url": "https://www.officedepot.com/b/audio-accessories/N-552815"}
+{"level": "L3", "l1": "Electronics", "l2": "Audio", "l3": "Docks & Radios", "url": "https://www.officedepot.com/b/docks-and-radios/N-633852"}
+{"level": "L2", "l1": "Electronics", "l2": "More Ways to Shop", "l3": "", "url": ""}
+{"level": "L3", "l1": "Electronics", "l2": "More Ways to Shop", "l3": "Smart Home", "url": "https://www.officedepot.com/b/smart-home/N-734014"}
+{"level": "L3", "l1": "Electronics", "l2": "More Ways to Shop", "l3": "Cameras & Camcorders", "url": "https://www.officedepot.com/b/cameras-and-camcorders/N-509515"}
+{"level": "L3", "l1": "Electronics", "l2": "More Ways to Shop", "l3": "Wearable Technology", "url": "https://www.officedepot.com/b/wearable-technology/N-573033"}
+{"level": "L1", "l1": "Cleaning", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/cleaning/N-530552"}
+{"level": "L2", "l1": "Cleaning", "l2": "Shop Cleaning Deals", "l3": "", "url": "https://www.officedepot.com/l/deal-center/cleaning-breakroom-deals"}
+{"level": "L2", "l1": "Cleaning", "l2": "Cleaning Supplies", "l3": "", "url": "https://www.officedepot.com/b/cleaning-supplies/N-1477628"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Supplies", "l3": "Cleaning Wipes", "url": "https://www.officedepot.com/b/cleaning-wipes/N-1477632"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Supplies", "l3": "All-Purpose Cleaners", "url": "https://www.officedepot.com/b/all-purpose-cleaners/N-1477629"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Supplies", "l3": "Dish Detergents", "url": "https://www.officedepot.com/b/dish-detergents/N-1477633"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Supplies", "l3": "Bathroom Cleaners", "url": "https://www.officedepot.com/b/bathroom-cleaners/N-1477630"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Supplies", "l3": "Glass Cleaners", "url": "https://www.officedepot.com/b/glass-cleaners/N-1477636"}
+{"level": "L2", "l1": "Cleaning", "l2": "Trash Cans & Bags", "l3": "", "url": "https://www.officedepot.com/b/trash-cans-and-bags/N-1170290"}
+{"level": "L3", "l1": "Cleaning", "l2": "Trash Cans & Bags", "l3": "Trash Cans", "url": "https://www.officedepot.com/b/trash-cans/N-1170293"}
+{"level": "L3", "l1": "Cleaning", "l2": "Trash Cans & Bags", "l3": "Trash Bags", "url": "https://www.officedepot.com/b/trash-bags/N-1170292"}
+{"level": "L3", "l1": "Cleaning", "l2": "Trash Cans & Bags", "l3": "Recycle Bins", "url": "https://www.officedepot.com/b/recycle-bins/N-1170291"}
+{"level": "L2", "l1": "Cleaning", "l2": "Medical Supplies", "l3": "", "url": "https://www.officedepot.com/b/medical-supplies/N-654427"}
+{"level": "L3", "l1": "Cleaning", "l2": "Medical Supplies", "l3": "Measuring Devices", "url": "https://www.officedepot.com/b/diagnostic/N-1181082"}
+{"level": "L3", "l1": "Cleaning", "l2": "Medical Supplies", "l3": "Infection Control", "url": "https://www.officedepot.com/b/infection-control/N-1181095"}
+{"level": "L3", "l1": "Cleaning", "l2": "Medical Supplies", "l3": "Medical Wear", "url": "https://www.officedepot.com/b/medical-wear/N-1181107"}
+{"level": "L3", "l1": "Cleaning", "l2": "Medical Supplies", "l3": "Patient Care", "url": "https://www.officedepot.com/b/patient-care/N-1181126"}
+{"level": "L3", "l1": "Cleaning", "l2": "Medical Supplies", "l3": "Wound Care", "url": "https://www.officedepot.com/b/wound-care/N-1181163"}
+{"level": "L2", "l1": "Cleaning", "l2": "Paper Products", "l3": "", "url": ""}
+{"level": "L3", "l1": "Cleaning", "l2": "Paper Products", "l3": "Toilet Paper", "url": "https://www.officedepot.com/b/toilet-paper/N-1170289"}
+{"level": "L3", "l1": "Cleaning", "l2": "Paper Products", "l3": "Paper Towel Rolls", "url": "https://www.officedepot.com/b/paper-towels/Item_Type--Paper_Towel_Roll/N-1170288"}
+{"level": "L3", "l1": "Cleaning", "l2": "Paper Products", "l3": "C-Fold Towels", "url": "https://www.officedepot.com/b/paper-towels/Fold_Type--C_Fold/N-1170288"}
+{"level": "L3", "l1": "Cleaning", "l2": "Paper Products", "l3": "Multifold Towels", "url": "https://www.officedepot.com/b/paper-towels/Fold_Type--Multi_Fold/N-1170288"}
+{"level": "L3", "l1": "Cleaning", "l2": "Paper Products", "l3": "Facial Tissues", "url": "https://www.officedepot.com/b/facial-tissues/N-1170285"}
+{"level": "L2", "l1": "Cleaning", "l2": "Soaps & Sanitizers", "l3": "", "url": ""}
+{"level": "L3", "l1": "Cleaning", "l2": "Soaps & Sanitizers", "l3": "Hand Soap", "url": "https://www.officedepot.com/b/hand-soap/N-1170287"}
+{"level": "L3", "l1": "Cleaning", "l2": "Soaps & Sanitizers", "l3": "Hand Soap Refills", "url": "https://www.officedepot.com/b/hand-soap/Product_Type--Soap_Dispenser_Refill/N-1170287"}
+{"level": "L3", "l1": "Cleaning", "l2": "Soaps & Sanitizers", "l3": "Soap Dispensers", "url": "https://www.officedepot.com/b/hand-soap/N-1170287"}
+{"level": "L3", "l1": "Cleaning", "l2": "Soaps & Sanitizers", "l3": "Hand Sanitizer", "url": "https://www.officedepot.com/b/hand-sanitizers/N-1170286"}
+{"level": "L2", "l1": "Cleaning", "l2": "Safety & Security", "l3": "", "url": "https://www.officedepot.com/b/safety-and-security/N-654510"}
+{"level": "L3", "l1": "Cleaning", "l2": "Safety & Security", "l3": "Eye Protection", "url": "https://www.officedepot.com/b/eye-protection/N-654523"}
+{"level": "L3", "l1": "Cleaning", "l2": "Safety & Security", "l3": "Gloves & Hand Protection", "url": "https://www.officedepot.com/b/gloves-and-hand-protection/N-654548"}
+{"level": "L3", "l1": "Cleaning", "l2": "Safety & Security", "l3": "Head & Face Protection", "url": "https://www.officedepot.com/b/head-and-face-protection/N-654551"}
+{"level": "L3", "l1": "Cleaning", "l2": "Safety & Security", "l3": "Respiratory Protection", "url": "https://www.officedepot.com/b/respiratory-protection/N-654565"}
+{"level": "L2", "l1": "Cleaning", "l2": "Cleaning Tools", "l3": "", "url": "https://www.officedepot.com/b/cleaning-tools/N-1176181"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Tools", "l3": "Floor Care", "url": "https://www.officedepot.com/b/floor-care/N-1176186"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Tools", "l3": "Dusters", "url": "https://www.officedepot.com/b/dusters/N-1176185"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Tools", "l3": "Sponges", "url": "https://www.officedepot.com/b/sponges/N-1176188"}
+{"level": "L3", "l1": "Cleaning", "l2": "Cleaning Tools", "l3": "Cloths", "url": "https://www.officedepot.com/b/cloths/N-1176184"}
+{"level": "L2", "l1": "Cleaning", "l2": "Air Fresheners", "l3": "", "url": "https://www.officedepot.com/b/air-fresheners/N-1176180"}
+{"level": "L3", "l1": "Cleaning", "l2": "Air Fresheners", "l3": "Air Freshener Spray", "url": "https://www.officedepot.com/b/air-fresheners/Product_Type--Air_Freshener_Spray/N-1176180"}
+{"level": "L3", "l1": "Cleaning", "l2": "Air Fresheners", "l3": "Freshener Refills", "url": "https://www.officedepot.com/b/air-fresheners/Product_Type--Air_Freshener_Dispenser_Refill/N-1176180"}
+{"level": "L2", "l1": "Cleaning", "l2": "Personal Protective Equipment", "l3": "", "url": "https://www.officedepot.com/l/cleaning/personal-protective-equipment"}
+{"level": "L1", "l1": "Breakroom", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/breakroom/N-530419"}
+{"level": "L2", "l1": "Breakroom", "l2": "Shop Breakroom Deals", "l3": "", "url": "https://www.officedepot.com/l/deal-center/cleaning-breakroom-deals"}
+{"level": "L2", "l1": "Breakroom", "l2": "Coffee & Coffee Supplies", "l3": "", "url": "https://www.officedepot.com/b/coffee-and-coffee-supplies/N-1154872"}
+{"level": "L3", "l1": "Breakroom", "l2": "Coffee & Coffee Supplies", "l3": "Coffee", "url": "https://www.officedepot.com/b/coffee/N-1154874"}
+{"level": "L3", "l1": "Breakroom", "l2": "Coffee & Coffee Supplies", "l3": "Coffee Makers", "url": "https://www.officedepot.com/b/coffee-makers/N-1176154"}
+{"level": "L3", "l1": "Breakroom", "l2": "Coffee & Coffee Supplies", "l3": "Creamers", "url": "https://www.officedepot.com/b/creamers/N-1154878"}
+{"level": "L3", "l1": "Breakroom", "l2": "Coffee & Coffee Supplies", "l3": "Sugar & Sweeteners", "url": "https://www.officedepot.com/b/sugar-and-sweeteners/N-1154881"}
+{"level": "L3", "l1": "Breakroom", "l2": "Coffee & Coffee Supplies", "l3": "Hot Cups & Lids", "url": "https://www.officedepot.com/b/hot-cups-and-lids/N-1154879"}
+{"level": "L2", "l1": "Breakroom", "l2": "Cups, Plates & Cutlery", "l3": "", "url": "https://www.officedepot.com/b/cups-plates-and-cutlery/N-1176169"}
+{"level": "L3", "l1": "Breakroom", "l2": "Cups, Plates & Cutlery", "l3": "Cups", "url": "https://www.officedepot.com/b/cups/N-1176172"}
+{"level": "L3", "l1": "Breakroom", "l2": "Cups, Plates & Cutlery", "l3": "Plates", "url": "https://www.officedepot.com/b/plates/N-1176177"}
+{"level": "L3", "l1": "Breakroom", "l2": "Cups, Plates & Cutlery", "l3": "Cutlery", "url": "https://www.officedepot.com/b/cutlery/N-1176173"}
+{"level": "L3", "l1": "Breakroom", "l2": "Cups, Plates & Cutlery", "l3": "Cooking Utensils", "url": "https://www.officedepot.com/b/cooking-utensils/N-1176171"}
+{"level": "L3", "l1": "Breakroom", "l2": "Cups, Plates & Cutlery", "l3": "Bowls", "url": "https://www.officedepot.com/b/bowls/N-1176170"}
+{"level": "L2", "l1": "Breakroom", "l2": "Fresh & Frozen Food", "l3": "", "url": "https://www.officedepot.com/b/fresh-and-frozen-foods/N-1418020"}
+{"level": "L3", "l1": "Breakroom", "l2": "Fresh & Frozen Food", "l3": "Bakery & Breads", "url": "https://www.officedepot.com/b/bakery-and-breads/N-1418021"}
+{"level": "L3", "l1": "Breakroom", "l2": "Fresh & Frozen Food", "l3": "Breakfast & Cereal", "url": "https://www.officedepot.com/b/breakfast-and-cereal/N-1418022"}
+{"level": "L3", "l1": "Breakroom", "l2": "Fresh & Frozen Food", "l3": "Dairy", "url": "https://www.officedepot.com/b/dairy/N-1418023"}
+{"level": "L3", "l1": "Breakroom", "l2": "Fresh & Frozen Food", "l3": "Frozen Meals & Snacks", "url": "https://www.officedepot.com/b/frozen-meals-and-snacks/N-1418024"}
+{"level": "L3", "l1": "Breakroom", "l2": "Fresh & Frozen Food", "l3": "Fruits & Vegetables", "url": "https://www.officedepot.com/b/fruits-and-vegetables/N-1418025"}
+{"level": "L2", "l1": "Breakroom", "l2": "Beverages", "l3": "", "url": "https://www.officedepot.com/b/beverages/N-1154865"}
+{"level": "L3", "l1": "Breakroom", "l2": "Beverages", "l3": "Water", "url": "https://www.officedepot.com/b/water/N-1154871"}
+{"level": "L3", "l1": "Breakroom", "l2": "Beverages", "l3": "Soda", "url": "https://www.officedepot.com/b/soda/N-1154869"}
+{"level": "L3", "l1": "Breakroom", "l2": "Beverages", "l3": "Juice", "url": "https://www.officedepot.com/b/juice/N-1154868"}
+{"level": "L3", "l1": "Breakroom", "l2": "Beverages", "l3": "Tea", "url": "https://www.officedepot.com/b/tea/N-1154870"}
+{"level": "L3", "l1": "Breakroom", "l2": "Beverages", "l3": "Energy & Nutrition Drinks", "url": "https://www.officedepot.com/b/energy-and-nutrition-drinks/N-1154866"}
+{"level": "L2", "l1": "Breakroom", "l2": "Candy & Snacks", "l3": "", "url": "https://www.officedepot.com/b/candy-and-snacks/N-1418009"}
+{"level": "L3", "l1": "Breakroom", "l2": "Candy & Snacks", "l3": "Chips & Pretzels", "url": "https://www.officedepot.com/b/chips-and-pretzels/N-1418010"}
+{"level": "L3", "l1": "Breakroom", "l2": "Candy & Snacks", "l3": "Chocolate & Caramels", "url": "https://www.officedepot.com/b/chocolate-and-caramels/N-1418011"}
+{"level": "L3", "l1": "Breakroom", "l2": "Candy & Snacks", "l3": "Cookies", "url": "https://www.officedepot.com/b/cookies/N-1418012"}
+{"level": "L3", "l1": "Breakroom", "l2": "Candy & Snacks", "l3": "Crackers", "url": "https://www.officedepot.com/b/crackers/N-1418013"}
+{"level": "L3", "l1": "Breakroom", "l2": "Candy & Snacks", "l3": "Gum & Mints", "url": "https://www.officedepot.com/b/gum-and-mints/N-1418015"}
+{"level": "L2", "l1": "Breakroom", "l2": "Appliances", "l3": "", "url": "https://www.officedepot.com/b/appliances/N-530420"}
+{"level": "L3", "l1": "Breakroom", "l2": "Appliances", "l3": "Heating & Cooling", "url": "https://www.officedepot.com/b/heating-and-cooling/N-1176144"}
+{"level": "L3", "l1": "Breakroom", "l2": "Appliances", "l3": "Kitchen", "url": "https://www.officedepot.com/b/kitchen/N-1176150"}
+{"level": "L3", "l1": "Breakroom", "l2": "Appliances", "l3": "Laundry", "url": "https://www.officedepot.com/b/laundry/N-1176164"}
+{"level": "L1", "l1": "Mailing & Shipping", "l2": "", "l3": "", "url": "https://www.officedepot.com/b/mailing-packing-and-shipping/N-3912"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Shop Mailing & Shipping Deals", "l3": "", "url": "https://www.officedepot.com/b/mailing-packing-and-shipping/Featured_Items--On_Sale/N-3912"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Envelopes", "l3": "", "url": "https://www.officedepot.com/b/envelopes/N-514132"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Envelopes", "l3": "Business Envelopes", "url": "https://www.officedepot.com/b/business-envelopes/N-514133"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Envelopes", "l3": "Catalog Envelopes", "url": "https://www.officedepot.com/b/catalog-envelopes/N-514135"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Envelopes", "l3": "Tax Envelopes", "url": "https://www.officedepot.com/b/tax-envelopes/N-1013810"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Envelopes", "l3": "Invitation Envelopes", "url": "https://www.officedepot.com/b/invitation-envelopes/N-887332"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Envelopes", "l3": "Booklet Envelopes", "url": "https://www.officedepot.com/b/booklet-envelopes/N-887330"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Envelopes", "l3": "Window Envelopes", "url": "https://www.officedepot.com/b/window-envelopes/N-887333"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Envelopes", "l3": "Coin Envelopes", "url": "https://www.officedepot.com/b/coin-envelopes/N-887331"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Mailers", "l3": "", "url": "https://www.officedepot.com/b/mailers/N-530021"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Mailers", "l3": "Bubble Mailers", "url": "https://www.officedepot.com/b/bubble-mailers/N-1012421"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Mailers", "l3": "Flat Mailers", "url": "https://www.officedepot.com/b/flat-mailers/N-1012422"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Mailers", "l3": "Mailing Tubes", "url": "https://www.officedepot.com/b/mailing-tubes/N-530025"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Mailers", "l3": "Corrugated Mailers", "url": "https://www.officedepot.com/b/corrugated-mailers/N-530023"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Mailers", "l3": "Padded Mailers", "url": "https://www.officedepot.com/b/padded-mailers/N-1012423"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Mailers", "l3": "Poly Mailers", "url": "https://www.officedepot.com/b/poly-mailers/N-1199130"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Labels", "l3": "", "url": "https://www.officedepot.com/b/labels-and-tags/N-3950"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Labels", "l3": "Address Labels", "url": "https://www.officedepot.com/b/address-labels/N-3951"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Labels", "l3": "Shipping Labels", "url": "https://www.officedepot.com/b/shipping-labels/N-1159764"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Labels", "l3": "Packing List Envelopes", "url": "https://www.officedepot.com/b/packing-list-envelopes/N-1012420"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Shipping & Moving Boxes", "l3": "", "url": "https://www.officedepot.com/b/shipping-and-moving-boxes/N-3913"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Shipping & Moving Boxes", "l3": "Shipping Boxes", "url": "https://www.officedepot.com/b/shipping-boxes/N-3914"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Shipping & Moving Boxes", "l3": "Moving Boxes", "url": "https://www.officedepot.com/b/moving-boxes/N-530206"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Shipping & Moving Boxes", "l3": "Storage Boxes", "url": "https://www.officedepot.com/b/shipping-and-moving-boxes/Usage--Storage/N-3913"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Packing Tape", "l3": "", "url": "https://www.officedepot.com/b/packing-tape/N-4009"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Packing Tape", "l3": "Shipping Tape", "url": "https://www.officedepot.com/b/packing-tape/Usage--Shipping/N-4009"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Packing Tape", "l3": "Moving Tape", "url": "https://www.officedepot.com/b/packing-tape/Usage--Moving/N-4009"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Packing Tape", "l3": "Storage Tape", "url": "https://www.officedepot.com/b/packing-tape/Usage--Storage/N-4009"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Packing Tape", "l3": "Tape Dispensers", "url": "https://www.officedepot.com/b/packing-tape/Product_Type--Industrial_Tape_Dispenser/N-4009"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Packing Materials", "l3": "", "url": "https://www.officedepot.com/b/packing-materials/N-3972"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Packing Materials", "l3": "Bubble Rolls & Wrap", "url": "https://www.officedepot.com/b/bubble-rolls-and-wrap/N-3973"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Packing Materials", "l3": "Packing Peanuts", "url": "https://www.officedepot.com/b/packing-peanuts/N-530215"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Packing Materials", "l3": "Packing Papers", "url": "https://www.officedepot.com/b/packing-papers/N-3988"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Packing Materials", "l3": "Corrugated Sheets & Rolls", "url": "https://www.officedepot.com/b/corrugated-sheets-and-rolls/N-1012430"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Postage Stamps", "l3": "", "url": "https://www.officedepot.com/b/postage-stamps/N-543624"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Mailroom Equipment", "l3": "", "url": "https://www.officedepot.com/b/mailroom-equipment/N-530211"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Mailroom Equipment", "l3": "Postal Scales", "url": "https://www.officedepot.com/b/postal-scales/N-1012428"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Mailroom Equipment", "l3": "Mail Sorters", "url": "https://www.officedepot.com/b/mail-sorters/N-1012426"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Industrial Shipping Supplies", "l3": "", "url": "https://www.officedepot.com/b/industrial-shipping-supplies/N-1012408"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Industrial Shipping Supplies", "l3": "Industrial Tape", "url": "https://www.officedepot.com/b/industrial-tape/N-1012438"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Industrial Shipping Supplies", "l3": "Shrink-Wrap", "url": "https://www.officedepot.com/b/shrink-wrap/N-1012416"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Industrial Shipping Supplies", "l3": "Inspection & Shipping Tags", "url": "https://www.officedepot.com/b/inspection-and-shipping-tags/N-1012412"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Industrial Shipping Supplies", "l3": "Hand Trucks & Dollies", "url": "https://www.officedepot.com/b/hand-trucks-and-dollies/N-1012410"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Industrial Shipping Supplies", "l3": "Utility Knives, Cutters & Blades", "url": "https://www.officedepot.com/b/utility-knives-cutters-and-blades/N-1012418"}
+{"level": "L3", "l1": "Mailing & Shipping", "l2": "Industrial Shipping Supplies", "l3": "Shipping Straps", "url": "https://www.officedepot.com/b/strapping-materials-and-twine/N-1012417"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Poly Bags", "l3": "", "url": "https://www.officedepot.com/b/poly-bags/N-4045"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Custom Mailing Labels", "l3": "", "url": "https://www.officedepot.com/b/custom-mailing-labels/N-1212303"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Moving Solutions", "l3": "", "url": "https://www.officedepot.com/l/marketing/moving-solutions/"}
+{"level": "L2", "l1": "Mailing & Shipping", "l2": "Shipping Solutions", "l3": "", "url": "https://www.officedepot.com/l/ideas-center/find-solutions/shipping-solutions"}
