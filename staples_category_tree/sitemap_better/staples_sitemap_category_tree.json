@@ -1,0 +1,3101 @@
+[
+  {
+    "bolded": "Printer Ink Cartridges & Toner Finder",
+    "url": "https://www.staples.com/printer-ink-cartridges-toner-finder/cat_SC43",
+    "note": "Entire L1 is an interactive finder tool, not a standard category tree -- see per-brand notes.",
+    "children": [
+      {
+        "text": "HP",
+        "url": "https://www.staples.com/hp/cat_CG812",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Epson Ink & Toner",
+        "url": "https://www.staples.com/Epson-ink-cartridges-toner-cartridges/cat_CG782",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Canon Ink & Toner",
+        "url": "https://www.staples.com/Canon-ink-cartridges-toner-cartridges/cat_CG703",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Brother Ink & Toner",
+        "url": "https://www.staples.com/Brother-ink-cartridges-toner-cartridges/cat_CG628",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Lexmark Ink & Toner",
+        "url": "https://www.staples.com/Lexmark-ink-cartridges-toner-cartridges/cat_CG554",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Samsung Ink & Toner",
+        "url": "https://www.staples.com/Samsung-ink-cartridges-toner-cartridges/cat_CG682",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Dell Ink & Toner",
+        "url": "https://www.staples.com/Dell-ink-cartridges-toner-cartridges/cat_CG883",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Toshiba Ink & Toner",
+        "url": "https://www.staples.com/Toshiba-ink-cartridges-toner-cartridges/cat_CG711",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Xerox Toner & Ink",
+        "url": "https://www.staples.com/Xerox-ink-cartridges-toner-cartridges/cat_CG620",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Sharp Ink & Toner",
+        "url": "https://www.staples.com/Sharp-ink-cartridges-toner-cartridges/cat_CG817",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "OKI",
+        "url": "https://www.staples.com/oki/cat_CG778",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      },
+      {
+        "text": "Ricoh Ink & Toner",
+        "url": "https://www.staples.com/Ricoh/cat_CG704",
+        "children": [],
+        "note": "Interactive 'cartridge finder' tool page (enter your printer/cartridge model), not a static browsable category -- no crawlable subcategory links. Confirmed directly on HP and Epson; the other 10 brand pages share the identical cat_CG code pattern and page template under this same 'Finder' L1, so treated the same way without individually re-fetching each one."
+      }
+    ]
+  },
+  {
+    "bolded": "Shipping, Packing & Mailing Supplies",
+    "url": "https://www.staples.com/Shipping-Packing-Mailing-Supplies/cat_SC5585",
+    "children": [
+      {
+        "text": "Packing Tape",
+        "url": "https://www.staples.com/Packing-Tape/cat_CL140631",
+        "children": [],
+        "note": "Terminal product listing page (CL) -- assumed from CL code, matches pattern."
+      },
+      {
+        "text": "Packing Tape Dispensers",
+        "url": "https://www.staples.com/Packing-Tape-Dispensers/cat_CL350620",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Shipping Boxes",
+        "url": "https://www.staples.com/Shipping-Boxes/cat_CL213835",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Corrugated Boxes & Pads",
+        "url": "https://www.staples.com/Corrugated-Boxes-Pads/cat_DP350125",
+        "children": [
+          {
+            "text": "Corrugated Mailers",
+            "url": "https://www.staples.com/Corrugated-Mailers/cat_CL141997",
+            "children": []
+          },
+          {
+            "text": "Shippers",
+            "url": "https://www.staples.com/Shippers/cat_CL350280",
+            "children": []
+          },
+          {
+            "text": "Layer Pads",
+            "url": "https://www.staples.com/Layer-Pads/cat_CL350281",
+            "children": []
+          },
+          {
+            "text": "Shipping Boxes",
+            "url": "https://www.staples.com/Shipping-Boxes/cat_CL213835",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above."
+          }
+        ]
+      },
+      {
+        "text": "Mailers",
+        "url": "https://www.staples.com/Mailers/cat_CL142648",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Cushioning & Void Fill",
+        "url": "https://www.staples.com/Cushioning-Void-Fill/cat_DP350126",
+        "children": [
+          {
+            "text": "Packing Peanuts",
+            "url": "https://www.staples.com/Packing-Peanuts/cat_CL141645",
+            "children": []
+          },
+          {
+            "text": "Bubble Rolls",
+            "url": "https://www.staples.com/Bubble-Rolls/cat_CL350310",
+            "children": []
+          },
+          {
+            "text": "Foam Rolls",
+            "url": "https://www.staples.com/Foam-Rolls/cat_CL350311",
+            "children": []
+          },
+          {
+            "text": "Packing Paper Rolls",
+            "url": "https://www.staples.com/Packing-Paper-Rolls/cat_CL350314",
+            "children": []
+          },
+          {
+            "text": "Packing Paper Sheets",
+            "url": "https://www.staples.com/Packing-Paper-Sheets/cat_CL350315",
+            "children": []
+          },
+          {
+            "text": "Cushioning Sheets",
+            "url": "https://www.staples.com/Cushioning-Sheets/cat_CL350312",
+            "children": []
+          },
+          {
+            "text": "Cushioning Bags & Sleeves",
+            "url": "https://www.staples.com/Cushioning-Bags-Sleeves/cat_CL350313",
+            "children": []
+          },
+          {
+            "text": "Air Pillows & Inflatable Packaging",
+            "url": "https://www.staples.com/Air-Pillows-Inflatable-Packaging/cat_CL350317",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Postal Scales & Meters",
+        "url": "https://www.staples.com/Postal-Scales-Meters/cat_CL141867",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Literature & Mail Sorters",
+        "url": "https://www.staples.com/Literature-Mail-Sorters/cat_CL141866",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Poly Bags",
+        "url": "https://www.staples.com/Poly-Bags/cat_CL350297",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Strapping & Strapping Equipment",
+        "url": "https://www.staples.com/Strapping-Strapping-Equipment/cat_DP350130",
+        "children": [
+          {
+            "text": "Strapping Carts",
+            "url": "https://www.staples.com/strapping-carts/cat_CL350295",
+            "children": []
+          },
+          {
+            "text": "Strapping",
+            "url": "https://www.staples.com/Strapping/cat_CL350293",
+            "children": []
+          },
+          {
+            "text": "Seals & Buckles",
+            "url": "https://www.staples.com/Seals-Buckles/cat_CL350282",
+            "children": []
+          },
+          {
+            "text": "Strapping Tools",
+            "url": "https://www.staples.com/Strapping-Tools/cat_CL350294",
+            "children": []
+          },
+          {
+            "text": "Pallet Cones",
+            "url": "https://www.staples.com/pallet-cones/cat_CL350690",
+            "children": []
+          },
+          {
+            "text": "Strapping Machines",
+            "url": "https://www.staples.com/Strapping-Supplies/cat_CL141878",
+            "children": []
+          },
+          {
+            "text": "Edge Protectors",
+            "url": "https://www.staples.com/Edge-Protectors/cat_CL218877",
+            "children": []
+          },
+          {
+            "text": "Rope, String & Twine",
+            "url": "https://www.staples.com/Rope-String-Twine/cat_CL141640",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Paper Folding Machines & Joggers",
+        "url": "https://www.staples.com/Paper-Folding-Machines-Joggers/cat_CL140639",
+        "children": [],
+        "note": "Terminal (CL)."
+      }
+    ]
+  },
+  {
+    "bolded": "Office Supplies",
+    "url": "https://www.staples.com/Office-Supplies/cat_SC1",
+    "children": [
+      {
+        "text": "Binders",
+        "url": "https://www.staples.com/Binders/cat_CL167205",
+        "children": [],
+        "note": "Terminal product listing page (CL) -- confirmed."
+      },
+      {
+        "text": "Desk Organizers & Accessories",
+        "url": "https://www.staples.com/Desk-Organizers-Accessories/cat_CG22",
+        "children": [
+          {
+            "text": "Wall Files",
+            "url": "https://www.staples.com/Wall-Files/cat_CL142107",
+            "children": []
+          },
+          {
+            "text": "Business Card Holders & Files",
+            "url": "https://www.staples.com/Business-Card-Holders-Files/cat_CL163092",
+            "children": []
+          },
+          {
+            "text": "Bookends",
+            "url": "https://www.staples.com/Bookends/cat_CL142117",
+            "children": []
+          },
+          {
+            "text": "Desk Pads",
+            "url": "https://www.staples.com/Desk-Pads/cat_CL140589",
+            "children": []
+          },
+          {
+            "text": "Drawer Organizers",
+            "url": "https://www.staples.com/Drawer-Organizers/cat_CL163265",
+            "children": []
+          },
+          {
+            "text": "File Organizers",
+            "url": "https://www.staples.com/File-Organizers/cat_CL354546",
+            "children": []
+          },
+          {
+            "text": "Book & Document Holders",
+            "url": "https://www.staples.com/Book-Document-Holders/cat_CL354545",
+            "children": []
+          },
+          {
+            "text": "Desk Organizer Sets",
+            "url": "https://www.staples.com/Desk-Organizer-Sets/cat_CL140986",
+            "children": []
+          },
+          {
+            "text": "File Sorters",
+            "url": "https://www.staples.com/File-Sorters/cat_CL163317",
+            "children": []
+          },
+          {
+            "text": "Magazine Holders",
+            "url": "https://www.staples.com/Magazine-Holders/cat_CL160476",
+            "children": []
+          },
+          {
+            "text": "Desk Organizers",
+            "url": "https://www.staples.com/Desk-Organizers/cat_CL140991",
+            "children": []
+          },
+          {
+            "text": "Letter & Desktop Trays",
+            "url": "https://www.staples.com/Letter-Desktop-Trays/cat_CL142133",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Folders & Filing",
+        "url": "https://www.staples.com/Folders-Filing/cat_CG3539",
+        "children": [
+          {
+            "text": "File Folders",
+            "url": "https://www.staples.com/File-Folders/cat_CL141669",
+            "children": []
+          },
+          {
+            "text": "Hanging File Folders",
+            "url": "https://www.staples.com/Hanging-File-Folders/cat_CL140599",
+            "children": []
+          },
+          {
+            "text": "Accordion Folders",
+            "url": "https://www.staples.com/Accordion-Folders/cat_CL220757",
+            "children": []
+          },
+          {
+            "text": "Classification Folders",
+            "url": "https://www.staples.com/Classification-Folders/cat_CL142831",
+            "children": []
+          },
+          {
+            "text": "File Pockets & Jackets",
+            "url": "https://www.staples.com/File-Pockets-Jackets/cat_CL161019",
+            "children": []
+          },
+          {
+            "text": "File Sorters",
+            "url": "https://www.staples.com/File-Sorters/cat_CL163317",
+            "children": []
+          },
+          {
+            "text": "File Storage",
+            "url": "https://www.staples.com/File-Storage/cat_CL165731",
+            "children": []
+          },
+          {
+            "text": "Filing Accessories",
+            "url": "https://www.staples.com/Filing-Accessories/cat_CL158855",
+            "children": []
+          },
+          {
+            "text": "Pocket Folders",
+            "url": "https://www.staples.com/Pocket-Folders/cat_CL140674",
+            "children": []
+          },
+          {
+            "text": "Presentation Books",
+            "url": "https://www.staples.com/Presentation-Books/cat_CL162165",
+            "children": []
+          },
+          {
+            "text": "Report Covers",
+            "url": "https://www.staples.com/Report-Covers/cat_CL130501",
+            "children": []
+          },
+          {
+            "text": "Filing Cabinets",
+            "url": "https://www.staples.com/File-Cabinets/cat_CL70401",
+            "children": []
+          },
+          {
+            "text": "Wall Files",
+            "url": null,
+            "children": [],
+            "note": "BROKEN on-site -- href resolves to /null."
+          },
+          {
+            "text": "Desk & Paper Trays",
+            "url": "https://www.staples.com/Letter-Desktop-Trays/cat_CL142133",
+            "children": []
+          },
+          {
+            "text": "File Organizers",
+            "url": "https://www.staples.com/File-Organizers/cat_CL354546",
+            "children": []
+          },
+          {
+            "text": "Literature & Mail Sorters",
+            "url": "https://www.staples.com/Literature-Mail-Sorters/cat_CL141866",
+            "children": []
+          },
+          {
+            "text": "Labels",
+            "url": "https://www.staples.com/Labels/cat_CL142725",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Office Basics",
+        "url": "https://www.staples.com/Office-Basics/cat_CG1036",
+        "children": [
+          {
+            "text": "Office Supply Kits",
+            "url": "https://www.staples.com/Office-Supply-Kits/cat_CL354685",
+            "children": []
+          },
+          {
+            "text": "Binder & Paper Clips",
+            "url": "https://www.staples.com/Clips-Fasteners/cat_CL10102",
+            "children": []
+          },
+          {
+            "text": "Rubber Bands",
+            "url": "https://www.staples.com/Rubber-Bands/cat_CL163579",
+            "children": []
+          },
+          {
+            "text": "Post-it & Sticky Notes",
+            "url": "https://www.staples.com/Post-it-Sticky-Notes/cat_CL165755",
+            "children": []
+          },
+          {
+            "text": "Staplers",
+            "url": "https://www.staples.com/Staplers/cat_CL10700",
+            "children": []
+          },
+          {
+            "text": "Staples",
+            "url": "https://www.staples.com/Staples/cat_CL10704",
+            "children": []
+          },
+          {
+            "text": "Scissors",
+            "url": "https://www.staples.com/Scissors/cat_CL10504",
+            "children": []
+          },
+          {
+            "text": "Rulers & Measuring Devices",
+            "url": "https://www.staples.com/Rulers-Measuring-Devices/cat_CL10503",
+            "children": []
+          },
+          {
+            "text": "Clear Tape",
+            "url": "https://www.staples.com/Clear-Tape/cat_CL10003",
+            "children": []
+          },
+          {
+            "text": "Tape Dispensers",
+            "url": "https://www.staples.com/Tape-Dispensers/cat_CL215666",
+            "children": []
+          },
+          {
+            "text": "Clipboards",
+            "url": "https://www.staples.com/Clipboards/cat_CL140606",
+            "children": []
+          },
+          {
+            "text": "Hole Punches",
+            "url": "https://www.staples.com/Paper-Punches/cat_CL160904",
+            "children": []
+          },
+          {
+            "text": "Paper Cutters",
+            "url": "https://www.staples.com/Paper-Trimmers/cat_CL167637",
+            "children": []
+          },
+          {
+            "text": "Calculators",
+            "url": "https://www.staples.com/Calculators/cat_CG3981",
+            "children": [
+              {
+                "text": "Basic Calculators",
+                "url": "https://www.staples.com/Basic-Calculators/cat_CL90000",
+                "children": []
+              },
+              {
+                "text": "Scientific Calculators",
+                "url": "https://www.staples.com/Scientific-Calculators/cat_CL90002",
+                "children": []
+              },
+              {
+                "text": "Graphing Calculators",
+                "url": "https://www.staples.com/Graphing-Calculators/cat_CL90003",
+                "children": []
+              },
+              {
+                "text": "Financial Calculators",
+                "url": "https://www.staples.com/Financial-Calculators/cat_CL140514",
+                "children": []
+              },
+              {
+                "text": "Calculator Accessories",
+                "url": "https://www.staples.com/Calculator-Accessories/cat_CL30100",
+                "children": []
+              },
+              {
+                "text": "Printing Calculators",
+                "url": "https://www.staples.com/Printing-Calculators/cat_CL90001",
+                "children": []
+              },
+              {
+                "text": "Industry Specific Calculators",
+                "url": "https://www.staples.com/Industry-Specific-Calculators/cat_CL215227",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Thumb Tacks & Push Pins",
+            "url": "https://www.staples.com/Thumb-Tacks-Push-Pins/cat_CL354692",
+            "children": []
+          },
+          {
+            "text": "Paper Fasteners",
+            "url": "https://www.staples.com/Paper-Fasteners/cat_CL354691",
+            "children": []
+          },
+          {
+            "text": "Staple Removers",
+            "url": "https://www.staples.com/Staple-Removers/cat_CL140862",
+            "children": []
+          },
+          {
+            "text": "TRU RED Business Essentials",
+            "url": "https://www.staples.com/tru-red/cat_SC350051",
+            "children": [],
+            "note": "Brand marketing hub page, not a clean category tree -- narrative/promo content only, no subcategory links. Treated as terminal/out-of-scope for hierarchy purposes."
+          },
+          {
+            "text": "Writing Supplies",
+            "url": "https://www.staples.com/Writing-Supplies/cat_CG11",
+            "children": [
+              {
+                "text": "Pens",
+                "url": "https://www.staples.com/Pens/cat_CL110001",
+                "children": []
+              },
+              {
+                "text": "Pencils",
+                "url": "https://www.staples.com/Pencils/cat_CL110200",
+                "children": []
+              },
+              {
+                "text": "Markers",
+                "url": "https://www.staples.com/Markers/cat_CL140896",
+                "children": []
+              },
+              {
+                "text": "Highlighters",
+                "url": "https://www.staples.com/Highlighters/cat_CL158890",
+                "children": []
+              },
+              {
+                "text": "Correction Fluid & Tape",
+                "url": "https://www.staples.com/Correction-White-Out/cat_CL350630",
+                "children": []
+              },
+              {
+                "text": "Erasers",
+                "url": "https://www.staples.com/Erasers/cat_CL140615",
+                "children": []
+              },
+              {
+                "text": "Pencil Sharpeners",
+                "url": "https://www.staples.com/Pencil-Sharpeners/cat_CL110300",
+                "children": []
+              },
+              {
+                "text": "Pencil Cases & Pouches",
+                "url": "https://www.staples.com/Pencil-Cases-Pouches/cat_CL141253",
+                "children": []
+              },
+              {
+                "text": "Stylus & Smart Pens",
+                "url": "https://www.staples.com/Stylus-Smart-Pens/cat_CL166408",
+                "children": []
+              },
+              {
+                "text": "Art & School Markers",
+                "url": "https://www.staples.com/Art-School-Markers/cat_CL221591",
+                "children": []
+              },
+              {
+                "text": "Dry Erase Markers",
+                "url": "https://www.staples.com/Dry-Erase-Markers/cat_CL140896/c0z1c",
+                "children": []
+              },
+              {
+                "text": "Permanent Markers",
+                "url": "https://www.staples.com/Permanent-Markers/cat_CL140896/c0y30",
+                "children": []
+              },
+              {
+                "text": "Wet Erase Markers",
+                "url": "https://www.staples.com/Wet-Erase-Markers/cat_CL140896/c15in",
+                "children": []
+              },
+              {
+                "text": "#2 Pencils",
+                "url": "https://www.staples.com/Pencils/cat_CL110200/6ozw8",
+                "children": []
+              },
+              {
+                "text": "Fountain Pens",
+                "url": "https://www.staples.com/fountain-pens/cat_CL110001/8wksb",
+                "children": []
+              },
+              {
+                "text": "Notebooks, Notepads & Journals",
+                "url": "https://www.staples.com/notebooks-notepads/cat_CG3783",
+                "children": [],
+                "note": "non-CL (CG) -- not yet expanded."
+              },
+              {
+                "text": "Sticky Notes",
+                "url": "https://www.staples.com/Post-it-Sticky-Notes/cat_CL165755",
+                "children": []
+              },
+              {
+                "text": "Loose Leaf Paper",
+                "url": "https://www.staples.com/Loose-Leaf-Graph-Paper/cat_CL161811",
+                "children": []
+              },
+              {
+                "text": "Desk Organizers & Accessories",
+                "url": "https://www.staples.com/Desk-Organizers-Accessories/cat_CG22",
+                "children": [],
+                "note": "cross-reference to the sibling L2 above -- not re-expanded here."
+              },
+              {
+                "text": "TRU RED Pens by Staples",
+                "url": "https://www.staples.com/TRU-RED-Pens/cat_CL110001/5en3l",
+                "children": []
+              },
+              {
+                "text": "Staples Gel Pens",
+                "url": "https://www.staples.com/Staples-Gel-Pens/cat_CL110001/006y1-87vuv",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Paper",
+            "url": "https://www.staples.com/Stationery-Invitations/cat_CG350061",
+            "children": [],
+            "note": "cross-reference to 'Stationery & Invitations', already a full L2 under the separate 'Paper' L1 -- not re-expanded here."
+          },
+          {
+            "text": "Envelopes",
+            "url": "https://www.staples.com/Envelopes/cat_CL142681",
+            "children": []
+          },
+          {
+            "text": "Index Cards",
+            "url": "https://www.staples.com/Index-Cards/cat_CL214476",
+            "children": []
+          },
+          {
+            "text": "Folders & Filing",
+            "url": "https://www.staples.com/Folders-Filing/cat_CG3539",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above -- not re-expanded here."
+          },
+          {
+            "text": "Desk Accessories",
+            "url": "https://www.staples.com/Desk-Organizers-Accessories/cat_CG22",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above -- not re-expanded here."
+          },
+          {
+            "text": "Post-it Sticky Flags & Tabs",
+            "url": "https://www.staples.com/Post-it-Sticky-Flags-Tabs/cat_CL165756",
+            "children": []
+          },
+          {
+            "text": "Post-it and Sticky Notes Dispensers",
+            "url": "https://www.staples.com/Post-it-and-Sticky-Notes-Dispensers/cat_CL165757",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Tape, Fasteners & Adhesives",
+        "url": "https://www.staples.com/Tape-Fasteners-Adhesives/cat_CG3745",
+        "children": [
+          {
+            "text": "Tape Dispensers",
+            "url": "https://www.staples.com/Tape-Dispensers/cat_CL215666",
+            "children": []
+          },
+          {
+            "text": "Adhesive Dots & Tape Runners",
+            "url": "https://www.staples.com/Adhesive-Dots-Tape-Runners/cat_CL354675",
+            "children": []
+          },
+          {
+            "text": "Glue & Glue Sticks",
+            "url": "https://www.staples.com/Glue-Glue-Sticks/cat_CL166024",
+            "children": []
+          },
+          {
+            "text": "Mounting",
+            "url": "https://www.staples.com/Mounting/cat_DP10541",
+            "children": [],
+            "note": "Hybrid: this DP page is ITSELF a product listing (80 items) and additionally offers further popular-category tiles -- not yet individually expanded."
+          },
+          {
+            "text": "Hot Glue Sticks & Guns",
+            "url": "https://www.staples.com/Hot-Glue-Sticks-Guns/cat_CL354680",
+            "children": []
+          },
+          {
+            "text": "Tape",
+            "url": "https://www.staples.com/Adhesives-Tape/cat_DP100",
+            "children": [],
+            "note": "Hybrid: this DP page is ITSELF a product listing (80 items) and additionally offers further popular-category tiles -- not yet individually expanded."
+          }
+        ]
+      },
+      {
+        "text": "Storage & Organization",
+        "url": "https://www.staples.com/Storage-Organization/cat_CG3633",
+        "children": [
+          {
+            "text": "School Supplies",
+            "url": "https://www.staples.com/School-Supplies/cat_SC350235",
+            "children": [],
+            "note": "cross-reference to the separate 'School Supplies' L1 -- not expanded here."
+          },
+          {
+            "text": "Storage Containers & Boxes",
+            "url": "https://www.staples.com/Storage-Containers-Boxes/cat_CL215127",
+            "children": []
+          },
+          {
+            "text": "Plastic Storage Containers",
+            "url": "https://www.staples.com/Plastic-Storage-Containers-Boxes/cat_CL215127/9fmhm",
+            "children": []
+          },
+          {
+            "text": "Storage Drawers",
+            "url": "https://www.staples.com/Storage-Drawers/cat_CL140604",
+            "children": []
+          },
+          {
+            "text": "Storage Bins",
+            "url": "https://www.staples.com/Storage-Bins/cat_CL354710",
+            "children": []
+          },
+          {
+            "text": "File Boxes",
+            "url": "https://www.staples.com/File-Storage/cat_CL165731",
+            "children": []
+          },
+          {
+            "text": "Filing Cabinets",
+            "url": "https://www.staples.com/File-Cabinets/cat_CL70401",
+            "children": []
+          },
+          {
+            "text": "Desk Organizers",
+            "url": "https://www.staples.com/Desk-Organizers-Accessories/cat_CG22",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above -- not re-expanded here."
+          },
+          {
+            "text": "Desk Drawer Organizers",
+            "url": "https://www.staples.com/Drawer-Organizers/cat_CL163265",
+            "children": []
+          },
+          {
+            "text": "Storage Furniture",
+            "url": "https://www.staples.com/storage-furniture/cat_CG3392",
+            "children": [],
+            "note": "Renders the same subcategory set as its parent 'Storage & Organization' -- redundant/self-referential, not separately expanded."
+          },
+          {
+            "text": "Bookshelves",
+            "url": "https://www.staples.com/Bookcases-Bookshelves/cat_CL166206",
+            "children": []
+          },
+          {
+            "text": "Storage Cubes",
+            "url": "https://www.staples.com/storage-cubes/cat_CL16202",
+            "children": []
+          },
+          {
+            "text": "Storage Cabinets",
+            "url": "https://www.staples.com/Storage-Cabinets/cat_CL140910",
+            "children": []
+          },
+          {
+            "text": "Closet Storage & Organization",
+            "url": "https://www.staples.com/Closet-Storage-Organizers/cat_CL215220",
+            "children": []
+          },
+          {
+            "text": "Shelving",
+            "url": "https://www.staples.com/Shelving/cat_CL140911",
+            "children": []
+          },
+          {
+            "text": "Classroom Storage",
+            "url": "https://www.staples.com/Classroom-Storage-Organization/cat_CL207294",
+            "children": []
+          },
+          {
+            "text": "Carts & Stands",
+            "url": "https://www.staples.com/carts-stands/cat_CG3721",
+            "children": [],
+            "note": "Terminal product listing page (54 items) despite the CG code -- another CL-heuristic exception."
+          },
+          {
+            "text": "Label Makers & Tapes",
+            "url": "https://www.staples.com/Label-Makers-Tapes/cat_CG3619",
+            "children": [],
+            "note": "cross-reference to the L2 of the same name under 'Shredders, Projectors & Office Machines' -- not expanded here."
+          },
+          {
+            "text": "Binders",
+            "url": "https://www.staples.com/Binders/cat_CL167205",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above."
+          },
+          {
+            "text": "Folders & Filing",
+            "url": "https://www.staples.com/Folders-Filing/cat_CG3539",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above -- not re-expanded here."
+          },
+          {
+            "text": "Labels",
+            "url": "https://www.staples.com/Labels/cat_CL142725",
+            "children": []
+          },
+          {
+            "text": "Shredders",
+            "url": "https://www.staples.com/Shredders/cat_CL141980",
+            "children": []
+          },
+          {
+            "text": "Moving Supplies",
+            "url": "https://www.staples.com/Moving-Supplies/cat_CL221465",
+            "children": []
+          },
+          {
+            "text": "Cardboard Boxes",
+            "url": "https://www.staples.com/Shipping-Boxes/cat_CL213835",
+            "children": []
+          },
+          {
+            "text": "Bubble Roll Cushioning",
+            "url": "https://www.staples.com/Bubble-Rolls/cat_CL350310",
+            "children": []
+          },
+          {
+            "text": "Literature & Mail Sorters",
+            "url": "https://www.staples.com/Literature-Mail-Sorters/cat_CL141866",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bolded": "Paper",
+    "url": "https://www.staples.com/Paper/cat_SC1676",
+    "children": [
+      {
+        "text": "Copy & Printer Paper",
+        "url": "https://www.staples.com/Copy-Printer-Paper/cat_CL140691",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Notebooks",
+        "url": "https://www.staples.com/Notebooks/cat_CL165557",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Notepads",
+        "url": "https://www.staples.com/Notepads/cat_CL220835",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Journals & Diaries",
+        "url": "https://www.staples.com/Journals-Diaries/cat_CL166390",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Fine Business & Resume Papers",
+        "url": "https://www.staples.com/Fine-Business-Resume-Papers/cat_CL221518",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Card Stock",
+        "url": "https://www.staples.com/Card-Stock/cat_CL214438",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Stationery & Invitations",
+        "url": "https://www.staples.com/Stationery-Invitations/cat_CG350061",
+        "children": [
+          {
+            "text": "Custom Appointment Cards",
+            "url": "https://www.staples.com/Custom-Appointment-Cards/cat_CL167856",
+            "children": []
+          },
+          {
+            "text": "Invitations",
+            "url": "https://www.staples.com/Invitations/cat_CL163311",
+            "children": []
+          },
+          {
+            "text": "Table Tents",
+            "url": "https://www.staples.com/Table-Tents/cat_CL206126",
+            "children": []
+          },
+          {
+            "text": "Note Cards & Postcards",
+            "url": "https://www.staples.com/Note-Cards-Postcards/cat_CL140789",
+            "children": []
+          },
+          {
+            "text": "Greeting Cards",
+            "url": "https://www.staples.com/Greeting-Cards/cat_CL215596",
+            "children": []
+          },
+          {
+            "text": "Stationery",
+            "url": "https://www.staples.com/Stationery/cat_CL164333",
+            "children": []
+          },
+          {
+            "text": "Holiday Cards",
+            "url": "https://www.staples.com/Holiday-Cards/cat_CL163313",
+            "children": []
+          },
+          {
+            "text": "Wedding Invitations & Kits",
+            "url": "https://www.staples.com/Wedding-Invitations-Kits/cat_CL163312",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Forms & Recordkeeping",
+        "url": "https://www.staples.com/Forms-Recordkeeping/cat_CG3717",
+        "children": [
+          {
+            "text": "Medical Forms",
+            "url": "https://www.staples.com/Medical-Forms/cat_CL214615",
+            "children": []
+          },
+          {
+            "text": "Business Forms",
+            "url": "https://www.staples.com/Business-Forms/cat_CL141007",
+            "children": []
+          },
+          {
+            "text": "Accounting & Record Journals",
+            "url": "https://www.staples.com/Accounting-Record-Journals/cat_CL100501",
+            "children": []
+          },
+          {
+            "text": "Digital Legal Forms",
+            "url": "https://www.staples.com/Digital-Legal-Forms/cat_CL216640",
+            "children": []
+          },
+          {
+            "text": "HR Forms",
+            "url": "https://www.staples.com/HR-Forms/cat_CL164585",
+            "children": []
+          },
+          {
+            "text": "Tax Forms",
+            "url": "https://www.staples.com/Tax-Forms/cat_CL168347",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Index Cards",
+        "url": "https://www.staples.com/Index-Cards/cat_CL214476",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Post-it & Sticky Notes",
+        "url": "https://www.staples.com/Post-it-Sticky-Notes/cat_CG3861",
+        "children": [
+          {
+            "text": "Sticky Notes",
+            "url": "https://www.staples.com/Post-it-Sticky-Notes/cat_CL165755",
+            "children": []
+          },
+          {
+            "text": "Post-it Notes",
+            "url": "https://www.staples.com/Post-it-Post-it-Sticky-Notes/cat_CL165755/006ou",
+            "children": []
+          },
+          {
+            "text": "Sticky Tabs & Flags",
+            "url": "https://www.staples.com/Post-it-Sticky-Flags-Tabs/cat_CL165756",
+            "children": []
+          },
+          {
+            "text": "Pop-Up Sticky Note Dispensers",
+            "url": "https://www.staples.com/Post-it-and-Sticky-Notes-Dispensers/cat_CL165757",
+            "children": []
+          },
+          {
+            "text": "Pop-up Sticky Notes",
+            "url": "https://www.staples.com/pop-up-sticky-notes/cat_CL165755/ixc7w",
+            "children": []
+          },
+          {
+            "text": "Sticky Easel Pads",
+            "url": "https://www.staples.com/self-stick-easel-pads/cat_CL140915/9ot1l",
+            "children": []
+          },
+          {
+            "text": "Calendars",
+            "url": "https://www.staples.com/Calendars/cat_CL166389",
+            "children": []
+          },
+          {
+            "text": "Dry Erase Calendar Boards",
+            "url": "https://www.staples.com/Calendar-In-Out-Boards/cat_CL142105",
+            "children": []
+          },
+          {
+            "text": "Planners & Personal Organizers",
+            "url": "https://www.staples.com/Planners-Personal-Organizers/cat_CL166388",
+            "children": []
+          },
+          {
+            "text": "Desk Pads",
+            "url": "https://www.staples.com/Desk-Pads/cat_CL140589",
+            "children": []
+          },
+          {
+            "text": "Writing Supplies",
+            "url": "https://www.staples.com/Writing-Supplies/cat_CG11",
+            "children": [],
+            "note": "cross-reference to the L2 already built under Office Supplies."
+          },
+          {
+            "text": "Notepads",
+            "url": "https://www.staples.com/Notepads/cat_CL220835",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above."
+          },
+          {
+            "text": "Notebooks",
+            "url": "https://www.staples.com/Notebooks/cat_CL165557",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above."
+          },
+          {
+            "text": "Journals",
+            "url": "https://www.staples.com/Journals-Diaries/cat_CL166390",
+            "children": [],
+            "note": "cross-reference to the sibling L2 above."
+          },
+          {
+            "text": "Dry Erase & Whiteboards",
+            "url": "https://www.staples.com/Dry-Erase-Whiteboards/cat_CL166382",
+            "children": []
+          },
+          {
+            "text": "Bulletin Boards",
+            "url": "https://www.staples.com/Bulletin-Boards/cat_CL142403",
+            "children": []
+          },
+          {
+            "text": "Thumb Tacks & Push Pins",
+            "url": "https://www.staples.com/Thumb-Tacks-Push-Pins/cat_CL354692",
+            "children": []
+          },
+          {
+            "text": "Desk Drawer Organizers",
+            "url": "https://www.staples.com/Drawer-Organizers/cat_CL163265",
+            "children": []
+          },
+          {
+            "text": "Desk Organizer Sets",
+            "url": "https://www.staples.com/Desk-Organizer-Sets/cat_CL140986",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Post-it Brand Shop",
+        "url": "https://www.staples.com/deals/Post-it-Brand-Shop/BI1577479",
+        "children": [
+          {
+            "text": "Post-it Super Sticky",
+            "url": "https://www.staples.com/Post-it-Super-Sticky-Post-it-Sticky-Notes/cat_CL165755/006ou-6cb9y",
+            "children": []
+          },
+          {
+            "text": "Post-it Notes",
+            "url": "https://www.staples.com/Post-it-Post-it-Sticky-Notes/cat_CL165755/006ou",
+            "children": []
+          },
+          {
+            "text": "Post-it Pop Up Notes",
+            "url": "https://www.staples.com/pop-up-post-it-notes/cat_CL165755/006ou-ixc7w",
+            "children": []
+          },
+          {
+            "text": "Post-it Pop Up Dispensers",
+            "url": "https://www.staples.com/Post-it-Post-it-and-Sticky-Notes-Dispensers/cat_CL165757/006ou",
+            "children": []
+          },
+          {
+            "text": "Post-it Easel Pads",
+            "url": "https://www.staples.com/Post-it-Easel-Pads/cat_CL140915/006ou",
+            "children": []
+          },
+          {
+            "text": "Post-it Easy Erase Surface",
+            "url": "https://www.staples.com/Post-it-Dry-Erase-Whiteboards/cat_CL166382/006ou",
+            "children": []
+          },
+          {
+            "text": "Post-it Flags & Tabs",
+            "url": "https://www.staples.com/Post-it-Post-it-Sticky-Flags-Tabs/cat_CL165756/006ou",
+            "children": []
+          },
+          {
+            "text": "Post-it Transparent Notes",
+            "url": "https://www.staples.com/Post-it-Clear-Post-it-Sticky-Notes/cat_CL165755/006ou-5yduo",
+            "children": []
+          },
+          {
+            "text": "Post-it Recycled Notes",
+            "url": "https://www.staples.com/Post-it-All-Eco-ID-qualified-Post-it-Sticky-Notes/cat_CL165755/006ou-4y1ll",
+            "children": []
+          },
+          {
+            "text": "Post-it Value Packs",
+            "url": "https://www.staples.com/zq9zq9Post-it-Sticky-Notes/cat_CL165755/006ou-becppwyes0",
+            "children": []
+          }
+        ],
+        "note": "Brand microsite (all product-filtered CL variants of Post-it Sticky Notes) -- not a marketing-only hub like TRU RED."
+      },
+      {
+        "text": "Copy & Multipurpose Paper",
+        "url": "https://www.staples.com/Copy-Printer-Paper/cat_CL140691",
+        "children": [],
+        "note": "This /deals/ link actually redirects straight to 'Copy & Printer Paper' (cat_CL140691) -- duplicate of the sibling L2 above, not a separate node."
+      }
+    ]
+  },
+  {
+    "bolded": "Cleaning Supplies",
+    "url": "https://www.staples.com/cleaning-supplies/cat_SC1683",
+    "children": [
+      {
+        "text": "Janitorial Paper Dispensers",
+        "url": "https://www.staples.com/Janitorial-Paper-Dispensers/cat_CG3930",
+        "children": [
+          {
+            "text": "Paper Towels",
+            "url": "https://www.staples.com/Paper-Towels/cat_CL141826",
+            "children": []
+          },
+          {
+            "text": "Toilet Paper",
+            "url": "https://www.staples.com/Toilet-Paper-Bath-Tissue/cat_CL141829",
+            "children": []
+          },
+          {
+            "text": "Tissues",
+            "url": "https://www.staples.com/Facial-Tissue/cat_CL141828",
+            "children": []
+          },
+          {
+            "text": "Napkins",
+            "url": "https://www.staples.com/Napkins/cat_CL141827",
+            "children": []
+          },
+          {
+            "text": "Toilet Seat Covers",
+            "url": "https://www.staples.com/Toilet-Seat-Covers/cat_CL220927",
+            "children": []
+          },
+          {
+            "text": "Paper Towel Dispensers",
+            "url": "https://www.staples.com/Paper-Towel-Dispensers/cat_CL350640",
+            "children": []
+          },
+          {
+            "text": "Toilet Paper Dispensers",
+            "url": "https://www.staples.com/Toilet-Paper-Dispensers/cat_CL350641",
+            "children": []
+          },
+          {
+            "text": "Napkin Dispensers",
+            "url": "https://www.staples.com/Napkin-Dispensers/cat_CL350646",
+            "children": []
+          },
+          {
+            "text": "Toilet Seat Cover Dispensers",
+            "url": "https://www.staples.com/Toilet-Seat-Cover-Dispensers/cat_CL350642",
+            "children": []
+          },
+          {
+            "text": "Hand Dryers",
+            "url": "https://www.staples.com/Hand-Dryers/cat_CL210355",
+            "children": []
+          },
+          {
+            "text": "Period Care",
+            "url": "https://www.staples.com/lp/period-care",
+            "children": [],
+            "note": "landing page, not a cat_ URL."
+          }
+        ]
+      },
+      {
+        "text": "Cleaning Chemicals & Wipes",
+        "url": "https://www.staples.com/Cleaning-Chemicals-Disinfectants/cat_CG3668",
+        "children": [
+          {
+            "text": "Adhesive Removers",
+            "url": null,
+            "children": [],
+            "note": "BROKEN on-site -- href is a malformed internal search/directory link, not a real category page."
+          },
+          {
+            "text": "All-Purpose Cleaners",
+            "url": "https://www.staples.com/All-Purpose-Cleaners-Spray-Cleaning-Chemicals/cat_CL142820/k2zyw",
+            "children": []
+          },
+          {
+            "text": "Carpet Care",
+            "url": "https://www.staples.com/Carpet-Care/cat_CL220880",
+            "children": []
+          },
+          {
+            "text": "Hard Floor Care",
+            "url": "https://www.staples.com/Hard-Floor-Care/cat_CL220977",
+            "children": []
+          },
+          {
+            "text": "Degreasers",
+            "url": "https://www.staples.com/cleaners-degreasers/cat_CL142820/ral7u",
+            "children": []
+          },
+          {
+            "text": "Dilution Control Chemicals",
+            "url": "https://www.staples.com/Dilution-Control-Chemicals/cat_CL350595",
+            "children": []
+          },
+          {
+            "text": "Dishwashing Detergent",
+            "url": "https://www.staples.com/Dish-Soap/cat_CL215693",
+            "children": []
+          },
+          {
+            "text": "Disinfectant",
+            "url": "https://www.staples.com/Disinfectant-Cleaning-Chemicals/cat_CL142820/8uucw",
+            "children": []
+          },
+          {
+            "text": "Disinfection Wipes",
+            "url": "https://www.staples.com/Disinfectant-Wipes/cat_CL220881",
+            "children": []
+          },
+          {
+            "text": "Drain Cleaners",
+            "url": "https://www.staples.com/drain-cleaner/cat_CL142820/sowzn",
+            "children": []
+          },
+          {
+            "text": "Furniture Cleaners",
+            "url": "https://www.staples.com/Furniture-Wood-Polish-Cleaning-Chemicals/cat_CL142820/swxsa",
+            "children": []
+          },
+          {
+            "text": "Glass Cleaners",
+            "url": "https://www.staples.com/window-glass-cleaner-cleaning-chemicals/cat_CL142820/521tw",
+            "children": []
+          },
+          {
+            "text": "Laundry Detergent",
+            "url": "https://www.staples.com/Laundry-Detergent/cat_CL168322",
+            "children": [],
+            "note": "cross-reference to the sibling L2 below."
+          },
+          {
+            "text": "Odor Control",
+            "url": "https://www.staples.com/Air-Fresheners-Deodorizers/cat_CL142818",
+            "children": []
+          },
+          {
+            "text": "Restroom Cleaners",
+            "url": "https://www.staples.com/toilet-bathroom-cleaner-cleaning-chemicals/cat_CL142820/ba6du",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Hand Sanitizer",
+        "url": "https://www.staples.com/Hand-Sanitizer/cat_CL220928",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Hand Soaps & Sanitizers",
+        "url": "https://www.staples.com/Hand-Soaps-Sanitizers/cat_CG3931",
+        "children": [],
+        "note": "Confirmed non-terminal (10 further sub-tiles via popular-category-card widget), not yet individually extracted/expanded."
+      },
+      {
+        "text": "Natural Cleaning Supplies",
+        "url": "https://www.staples.com/natural-cleaning-supplies/cat_CG350171",
+        "children": [],
+        "note": "DATA QUALITY FLAG: page shows 6 product-image tiles (Cleaners & Sprays, Dishwashing Detergent, Paper Towels, Recycled Facial Tissues, Hand Soap, Bath Tissue) but none carry a real href -- likely an Instacart-partnered widget with JS-only click handlers. No crawlable subcategory links could be extracted."
+      },
+      {
+        "text": "Waste & Recycling",
+        "url": "https://www.staples.com/Waste-Recycling-Products/cat_CG2827",
+        "children": [
+          {
+            "text": "Trash Bags",
+            "url": "https://www.staples.com/Trash-Bags/cat_CL141923",
+            "children": []
+          },
+          {
+            "text": "Waste Receptacle Lids & Accessories",
+            "url": "https://www.staples.com/Waste-Receptacle-Lids-Accessories/cat_CL350740",
+            "children": []
+          },
+          {
+            "text": "Trash Cans & Recycling Bins",
+            "url": "https://www.staples.com/Trash-Cans-Recycling-Bins/cat_CL141928",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Laundry Detergent",
+        "url": "https://www.staples.com/Laundry-Detergent/cat_CL168322",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Cleaning Tools",
+        "url": "https://www.staples.com/Cleaning-Tools/cat_CG3928",
+        "children": [
+          {
+            "text": "Squeegees",
+            "url": "https://www.staples.com/Squeegees/cat_CL204491",
+            "children": []
+          },
+          {
+            "text": "Cleaning Cloths & Rags",
+            "url": "https://www.staples.com/Cleaning-Cloths-Rags/cat_CL220907",
+            "children": []
+          },
+          {
+            "text": "Cleaning Brushes & Toilet Plungers",
+            "url": "https://www.staples.com/Cleaning-Brushes-Toilet-Plungers/cat_CL220905",
+            "children": []
+          },
+          {
+            "text": "Cleaning Carts, Caddies & Accessories",
+            "url": "https://www.staples.com/Cleaning-Carts-Caddies-Accessories/cat_DP353666",
+            "children": [],
+            "note": "non-CL (DP) -- not yet expanded."
+          },
+          {
+            "text": "Spray Bottles & Sprayers",
+            "url": "https://www.staples.com/Spray-Bottles-Sprayers/cat_CL216655",
+            "children": []
+          },
+          {
+            "text": "Mops, Brooms & Dustpans",
+            "url": "https://www.staples.com/Mops-Brooms-Dustpans/cat_DP353665",
+            "children": [],
+            "note": "non-CL (DP) -- not yet expanded."
+          },
+          {
+            "text": "Dusters",
+            "url": "https://www.staples.com/Dusters/cat_CL165592",
+            "children": []
+          },
+          {
+            "text": "Sponges & Scrubbers",
+            "url": "https://www.staples.com/Sponges-Scrubbers/cat_CL142819",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bolded": "Furniture",
+    "url": "https://www.staples.com/Furniture-Chairs-Cabinets/cat_SC2",
+    "children": [
+      {
+        "text": "Chairs & Seating",
+        "url": "https://www.staples.com/Chairs-Seating/cat_CG32",
+        "note": null,
+        "children": [
+          {
+            "text": "Office Chairs",
+            "url": "https://www.staples.com/Office-Chairs/cat_CL166253",
+            "children": []
+          },
+          {
+            "text": "Staples Chair Center",
+            "url": "https://www.staples.com/lp/sbg-chair-center",
+            "children": []
+          },
+          {
+            "text": "Gaming Chairs",
+            "url": "https://www.staples.com/Gaming-Office-Chairs/cat_CL166253/pfrhu",
+            "children": []
+          },
+          {
+            "text": "Chair Mats",
+            "url": "https://www.staples.com/Chair-Mats/cat_CL70205",
+            "children": []
+          },
+          {
+            "text": "Accent & Waiting Room Chairs",
+            "url": "https://www.staples.com/Accent-Waiting-Room-Chairs/cat_CL70203",
+            "children": []
+          },
+          {
+            "text": "Chair Parts & Accessories",
+            "url": "https://www.staples.com/Chair-Parts-Accessories/cat_CL141955",
+            "children": []
+          },
+          {
+            "text": "Dining Chairs",
+            "url": "https://www.staples.com/Dining-Chairs/cat_CL166181",
+            "children": []
+          },
+          {
+            "text": "Stacking & Folding Chairs",
+            "url": "https://www.staples.com/Stacking-Folding-Chairs/cat_CL166358",
+            "children": []
+          },
+          {
+            "text": "Big and Tall Chairs",
+            "url": "https://www.staples.com/Big-Tall-Office-Chairs/cat_CL166253/936hb",
+            "children": []
+          },
+          {
+            "text": "Kids Seating",
+            "url": "https://www.staples.com/Kids-Seating/cat_CL210316",
+            "children": []
+          },
+          {
+            "text": "Recliners, Gliders & Rockers",
+            "url": "https://www.staples.com/Recliners-Gliders-Rockers/cat_CL210580",
+            "children": []
+          },
+          {
+            "text": "Workplace 2.0",
+            "url": "https://www.staples.com/Workplace2-0/cat_CL350275",
+            "children": []
+          },
+          {
+            "text": "Sofas, Loveseats & Sectionals",
+            "url": "https://www.staples.com/Sofas-Loveseats-Sectionals/cat_CL215551",
+            "children": []
+          },
+          {
+            "text": "Benches & Beam Seating",
+            "url": "https://www.staples.com/Benches-Beam-Seating/cat_CL163750",
+            "children": []
+          },
+          {
+            "text": "Foot Rests",
+            "url": "https://www.staples.com/Foot-Rests/cat_CL161892",
+            "children": []
+          },
+          {
+            "text": "Ottomans",
+            "url": "https://www.staples.com/Ottomans/cat_CL161807",
+            "children": []
+          },
+          {
+            "text": "Drafting Chairs & Office Stools",
+            "url": "https://www.staples.com/Drafting-Chairs-Office-Stools/cat_CL166357",
+            "children": []
+          },
+          {
+            "text": "Counter & Bar Stools",
+            "url": "https://www.staples.com/Counter-Bar-Stools/cat_CL166182",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "File Cabinets",
+        "url": "https://www.staples.com/File-Cabinets/cat_CL70401",
+        "note": "Terminal product listing page (confirmed) -- no further subcategory level.",
+        "children": []
+      },
+      {
+        "text": "Bookcases & Bookshelves",
+        "url": "https://www.staples.com/Bookcases-Bookshelves/cat_CL166206",
+        "note": "Terminal product listing page (confirmed) -- no further subcategory level.",
+        "children": []
+      },
+      {
+        "text": "Kids Seating",
+        "url": "https://www.staples.com/kids-seating/cat_DP10543",
+        "note": "DATA QUALITY FLAG: this page renders the exact same subcategory chip row as 'Chairs & Seating' (cat_CG32) rather than a kids-seating-specific list -- likely a thin/legacy landing page. The actual Kids Seating product category is one of these children: https://www.staples.com/Kids-Seating/cat_CL210316",
+        "children": [
+          {
+            "text": "Office Chairs",
+            "url": "https://www.staples.com/Office-Chairs/cat_CL166253",
+            "children": []
+          },
+          {
+            "text": "Staples Chair Center",
+            "url": "https://www.staples.com/lp/sbg-chair-center",
+            "children": []
+          },
+          {
+            "text": "Gaming Chairs",
+            "url": "https://www.staples.com/Gaming-Office-Chairs/cat_CL166253/pfrhu",
+            "children": []
+          },
+          {
+            "text": "Chair Mats",
+            "url": "https://www.staples.com/Chair-Mats/cat_CL70205",
+            "children": []
+          },
+          {
+            "text": "Accent & Waiting Room Chairs",
+            "url": "https://www.staples.com/Accent-Waiting-Room-Chairs/cat_CL70203",
+            "children": []
+          },
+          {
+            "text": "Chair Parts & Accessories",
+            "url": "https://www.staples.com/Chair-Parts-Accessories/cat_CL141955",
+            "children": []
+          },
+          {
+            "text": "Dining Chairs",
+            "url": "https://www.staples.com/Dining-Chairs/cat_CL166181",
+            "children": []
+          },
+          {
+            "text": "Stacking & Folding Chairs",
+            "url": "https://www.staples.com/Stacking-Folding-Chairs/cat_CL166358",
+            "children": []
+          },
+          {
+            "text": "Big and Tall Chairs",
+            "url": "https://www.staples.com/Big-Tall-Office-Chairs/cat_CL166253/936hb",
+            "children": []
+          },
+          {
+            "text": "Kids Seating",
+            "url": "https://www.staples.com/Kids-Seating/cat_CL210316",
+            "children": []
+          },
+          {
+            "text": "Recliners, Gliders & Rockers",
+            "url": "https://www.staples.com/Recliners-Gliders-Rockers/cat_CL210580",
+            "children": []
+          },
+          {
+            "text": "Workplace 2.0",
+            "url": "https://www.staples.com/Workplace2-0/cat_CL350275",
+            "children": []
+          },
+          {
+            "text": "Sofas, Loveseats & Sectionals",
+            "url": "https://www.staples.com/Sofas-Loveseats-Sectionals/cat_CL215551",
+            "children": []
+          },
+          {
+            "text": "Benches & Beam Seating",
+            "url": "https://www.staples.com/Benches-Beam-Seating/cat_CL163750",
+            "children": []
+          },
+          {
+            "text": "Foot Rests",
+            "url": "https://www.staples.com/Foot-Rests/cat_CL161892",
+            "children": []
+          },
+          {
+            "text": "Ottomans",
+            "url": "https://www.staples.com/Ottomans/cat_CL161807",
+            "children": []
+          },
+          {
+            "text": "Drafting Chairs & Office Stools",
+            "url": "https://www.staples.com/Drafting-Chairs-Office-Stools/cat_CL166357",
+            "children": []
+          },
+          {
+            "text": "Counter & Bar Stools",
+            "url": "https://www.staples.com/Counter-Bar-Stools/cat_CL166182",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Desks",
+        "url": "https://www.staples.com/desks/cat_CG33",
+        "note": null,
+        "children": [
+          {
+            "text": "All Office Desks",
+            "url": "https://www.staples.com/Office-Desks/cat_CL210795",
+            "children": []
+          },
+          {
+            "text": "Computer Desks",
+            "url": "https://www.staples.com/Computer-Office-Desks/cat_CL210795/663ea",
+            "children": []
+          },
+          {
+            "text": "L-Shaped Desks",
+            "url": "https://www.staples.com/l-shaped-office-desks/cat_CL210795/zuqi9",
+            "children": []
+          },
+          {
+            "text": "Standing Desks",
+            "url": "https://www.staples.com/Sit-Stand-Desks/cat_CL215523",
+            "children": []
+          },
+          {
+            "text": "Executive Desks",
+            "url": "https://www.staples.com/executive-office-desks/cat_CL210795/66lo4",
+            "children": []
+          },
+          {
+            "text": "Gaming Desks",
+            "url": "https://www.staples.com/gaming-office-desks/cat_CL210795/854pp",
+            "children": []
+          },
+          {
+            "text": "Corner Desks",
+            "url": "https://www.staples.com/corner-office-desks/cat_CL210795/cy1zd",
+            "children": []
+          },
+          {
+            "text": "Writing Desks",
+            "url": "https://www.staples.com/writing-office-desks/cat_CL210795/5ytib",
+            "children": []
+          },
+          {
+            "text": "Standing Desk Converters",
+            "url": "https://www.staples.com/sit-stand-desk-converters/cat_CL215523/6brcs",
+            "children": []
+          },
+          {
+            "text": "Desk Hutches",
+            "url": "https://www.staples.com/Hutches/cat_CL353865",
+            "children": []
+          },
+          {
+            "text": "Workstations & Cubicles",
+            "url": "https://www.staples.com/Cubicle-Panel-Workstations/cat_CL164285",
+            "children": []
+          },
+          {
+            "text": "Desk Components",
+            "url": "https://www.staples.com/Desk-Components/cat_CL353870",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Home & Office Tables",
+        "url": "https://www.staples.com/home-office-tables/cat_CG39",
+        "note": "DATA QUALITY FLAG: the 'Storage Furniture' chip on this page has a broken href (resolves to https://www.staples.com/null on the live site) -- excluded as a usable link.",
+        "children": [
+          {
+            "text": "Folding Tables",
+            "url": "https://www.staples.com/Folding-Tables/cat_CL166212",
+            "children": []
+          },
+          {
+            "text": "Banquet Tables",
+            "url": "https://www.staples.com/folding-banquet-tables/cat_CL166212/xtbmp",
+            "children": []
+          },
+          {
+            "text": "Conference Room Tables",
+            "url": "https://www.staples.com/Conference-Room-Tables/cat_CL70700",
+            "children": []
+          },
+          {
+            "text": "Breakroom, Restaurant & Dining Tables",
+            "url": "https://www.staples.com/Breakroom-Dining-Tables/cat_CL210327",
+            "children": []
+          },
+          {
+            "text": "Dining Table & Chair Sets",
+            "url": "https://www.staples.com/breakroom-dining-table-chair-sets/cat_CL210327/5mzr5",
+            "children": []
+          },
+          {
+            "text": "Training Room Tables",
+            "url": "https://www.staples.com/Training-Room-Tables/cat_CL142481",
+            "children": []
+          },
+          {
+            "text": "Accent & Coffee Tables",
+            "url": "https://www.staples.com/Accent-Coffee-Tables/cat_CL161009",
+            "children": []
+          },
+          {
+            "text": "Specialty & Drafting Tables",
+            "url": "https://www.staples.com/Specialty-Drafting-Tables/cat_CL140724",
+            "children": []
+          },
+          {
+            "text": "Classroom & Kids' Tables",
+            "url": "https://www.staples.com/Classroom-Kids-Tables/cat_CL210315",
+            "children": []
+          },
+          {
+            "text": "Desk & Table Tops",
+            "url": "https://www.staples.com/Table-Tops/cat_CL210330",
+            "children": []
+          },
+          {
+            "text": "Table Bases",
+            "url": "https://www.staples.com/Table-Bases/cat_CL354625",
+            "children": []
+          },
+          {
+            "text": "Desks",
+            "url": "https://www.staples.com/desks/cat_CG33",
+            "children": []
+          },
+          {
+            "text": "Patio Furniture",
+            "url": "https://www.staples.com/Patio-Furniture/cat_CL213655",
+            "children": []
+          },
+          {
+            "text": "Stacking & Folding Chairs",
+            "url": "https://www.staples.com/Stacking-Folding-Chairs/cat_CL166358",
+            "children": []
+          },
+          {
+            "text": "Accent Chairs",
+            "url": "https://www.staples.com/Accent-Waiting-Room-Chairs/cat_CL70203",
+            "children": []
+          },
+          {
+            "text": "Décor & Lighting",
+            "url": "https://www.staples.com/Decor/cat_CG853",
+            "children": [
+              {
+                "text": "Wall Art",
+                "url": "https://www.staples.com/Wall-Art-Decor/cat_DP1567",
+                "children": [],
+                "note": "unverified code (DP) -- not yet checked for further children"
+              },
+              {
+                "text": "Lamps & Lighting",
+                "url": "https://www.staples.com/Lighting-Lamps/cat_CG35",
+                "children": [],
+                "note": "non-CL (CG) -- not yet expanded"
+              },
+              {
+                "text": "Light Bulbs",
+                "url": "https://www.staples.com/Light-Bulbs/cat_CL165713",
+                "children": []
+              },
+              {
+                "text": "Mirrors",
+                "url": "https://www.staples.com/Mirrors/cat_CL163751",
+                "children": []
+              },
+              {
+                "text": "Frames",
+                "url": "https://www.staples.com/Picture-Frames-Photo-Albums/cat_CL161523",
+                "children": []
+              },
+              {
+                "text": "Coat Racks & Hooks",
+                "url": "https://www.staples.com/Coat-Trees-Stands-Hooks/cat_CL167079",
+                "children": []
+              },
+              {
+                "text": "Clocks",
+                "url": "https://www.staples.com/Clocks-Timers/cat_CL161533",
+                "children": []
+              },
+              {
+                "text": "Weather Instruments",
+                "url": "https://www.staples.com/Weather-Instruments/cat_CL166884",
+                "children": []
+              },
+              {
+                "text": "Artificial Plants & Flowers",
+                "url": "https://www.staples.com/Artificial-Plants-Flowers/cat_CL162194",
+                "children": []
+              },
+              {
+                "text": "Decorative Area Rugs",
+                "url": "https://www.staples.com/Rugs/cat_CL167008",
+                "children": []
+              },
+              {
+                "text": "Floor Mats",
+                "url": "https://www.staples.com/Floor-Mats/cat_CL214671",
+                "children": []
+              },
+              {
+                "text": "Storage Baskets",
+                "url": "https://www.staples.com/Storage-Baskets/cat_CL354705",
+                "children": []
+              },
+              {
+                "text": "Storage Bins",
+                "url": "https://www.staples.com/Storage-Bins/cat_CL354710",
+                "children": []
+              },
+              {
+                "text": "Jewelry Boxes & Displays",
+                "url": "https://www.staples.com/Jewelry-Boxes-Cases/cat_CL204509",
+                "children": []
+              },
+              {
+                "text": "Party Decor & Supplies",
+                "url": "https://www.staples.com/party-supplies-decor/cat_CG3363",
+                "children": [],
+                "note": "non-CL (CG) -- not yet expanded"
+              },
+              {
+                "text": "Seasonal Décor",
+                "url": "https://www.staples.com/Seasonal-Decor/cat_CL21091",
+                "children": []
+              }
+            ],
+            "note": "non-CL (CG) -- expanded one level; 3 of its own children are still non-CL and unexpanded (see their notes)"
+          },
+          {
+            "text": "Dining Chairs",
+            "url": "https://www.staples.com/Dining-Chairs/cat_CL166181",
+            "children": []
+          },
+          {
+            "text": "Storage Furniture",
+            "url": null,
+            "children": []
+          },
+          {
+            "text": "Drafting Chairs & Stools",
+            "url": "https://www.staples.com/Drafting-Chairs-Office-Stools/cat_CL166357",
+            "children": []
+          },
+          {
+            "text": "Counter & Bar Stools",
+            "url": "https://www.staples.com/Counter-Bar-Stools/cat_CL166182",
+            "children": []
+          },
+          {
+            "text": "School Furniture",
+            "url": "https://www.staples.com/School-Furniture/cat_CG3907",
+            "children": [
+              {
+                "text": "Student Desks & Study Carrels",
+                "url": "https://www.staples.com/Student-Desks-Study-Carrels/cat_CL164560",
+                "children": []
+              },
+              {
+                "text": "Classroom Storage Furniture",
+                "url": "https://www.staples.com/Classroom-Storage-Furniture/cat_CL350775",
+                "children": []
+              },
+              {
+                "text": "Classroom & Kids' Tables",
+                "url": "https://www.staples.com/Classroom-Kids-Tables/cat_CL210315",
+                "children": []
+              }
+            ],
+            "note": "hybrid: this CG page is ITSELF a product listing (54 items) AND additionally offers these 3 narrower CL children"
+          },
+          {
+            "text": "File Cabinets",
+            "url": "https://www.staples.com/File-Cabinets/cat_CL70401",
+            "children": []
+          },
+          {
+            "text": "Benches",
+            "url": "https://www.staples.com/Benches-Beam-Seating/cat_CL163750",
+            "children": []
+          },
+          {
+            "text": "Area Rugs",
+            "url": "https://www.staples.com/Rugs/cat_CL167008",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Boards & Easels",
+        "url": "https://www.staples.com/Boards-Easels-Dry-Erase/cat_CG101",
+        "note": null,
+        "children": [
+          {
+            "text": "Dry Erase & Whiteboards",
+            "url": "https://www.staples.com/Dry-Erase-Whiteboards/cat_CL166382",
+            "children": []
+          },
+          {
+            "text": "TRU RED Whiteboard Selector",
+            "url": "https://www.staples.com/deals/tru-red-dry-erase-whiteboard-selector-tool/BI3000701",
+            "children": []
+          },
+          {
+            "text": "Bulletin & Cork Boards",
+            "url": "https://www.staples.com/Bulletin-Boards/cat_CL142403",
+            "children": []
+          },
+          {
+            "text": "Board Erasers, Cleaners & Accessories",
+            "url": "https://www.staples.com/Board-Accessories/cat_CL142825",
+            "children": []
+          },
+          {
+            "text": "Dry Erase Markers",
+            "url": "https://www.staples.com/Dry-Erase-Markers/cat_CL140896/c0z1c",
+            "children": []
+          },
+          {
+            "text": "Thumb Tacks & Push Pins",
+            "url": "https://www.staples.com/Thumb-Tacks-Push-Pins/cat_CL354692",
+            "children": []
+          },
+          {
+            "text": "Foam, Presentation & Poster Boards",
+            "url": "https://www.staples.com/Display-Boards/cat_CL140934",
+            "children": []
+          },
+          {
+            "text": "Display Easels & Stands",
+            "url": "https://www.staples.com/Easels/cat_CL163752",
+            "children": []
+          },
+          {
+            "text": "Easel Pads",
+            "url": "https://www.staples.com/Easel-Pads/cat_CL140915",
+            "children": []
+          },
+          {
+            "text": "Dry Erase Calendar Boards",
+            "url": "https://www.staples.com/Calendar-In-Out-Boards/cat_CL142105",
+            "children": []
+          },
+          {
+            "text": "Chalkboards",
+            "url": "https://www.staples.com/Chalkboards/cat_CL130202",
+            "children": []
+          },
+          {
+            "text": "Chalk",
+            "url": "https://www.staples.com/Chalk/cat_CL110502",
+            "children": []
+          },
+          {
+            "text": "Chalk Markers",
+            "url": "https://www.staples.com/chalk-markers/cat_CL221591/ljspg",
+            "children": []
+          },
+          {
+            "text": "Projectors",
+            "url": "https://www.staples.com/Projectors/cat_CL140542",
+            "children": []
+          },
+          {
+            "text": "Projector Screens",
+            "url": "https://www.staples.com/Projector-Screens/cat_CL141762",
+            "children": []
+          },
+          {
+            "text": "Document Cameras",
+            "url": "https://www.staples.com/Document-Cameras/cat_CL169123",
+            "children": []
+          },
+          {
+            "text": "Teacher Supplies",
+            "url": "https://www.staples.com/teacher-supplies/cat_CG350604",
+            "children": [],
+            "note": "non-CL (CG) -- CROSS-REFERENCE ONLY, not expanded. Its own children belong to other L1s (School Supplies / Education) we have not built yet: School Art Supplies (cat_CG350597), Calendars & Planners (cat_CG12), Writing Supplies (cat_CG11), School Tech (cat_CG350603), Games/Puzzles & Toys (cat_CG3880), plus Musical Instruments (cat_CL207326) and Bookmarks (cat_CL204517) which ARE terminal."
+          },
+          {
+            "text": "Decorative Board Accents",
+            "url": "https://www.staples.com/Decorative-Accents-Board-Sets/cat_CL219245",
+            "children": []
+          },
+          {
+            "text": "Mounting Tape",
+            "url": "https://www.staples.com/Mounting-Tape/cat_CL350610",
+            "children": []
+          },
+          {
+            "text": "Classroom Posters",
+            "url": "https://www.staples.com/Classroom-Posters-Charts/cat_CL166104",
+            "children": []
+          },
+          {
+            "text": "Arts & Crafts",
+            "url": "https://www.staples.com/arts-crafts/cat_SC5787",
+            "note": "cross-reference to the separate 'Arts & Crafts' L1 (already has its own 5 L2 children in the main tree) -- not re-expanded here"
+          },
+          {
+            "text": "Art Canvases",
+            "url": "https://www.staples.com/Canvas-Art-Boards/cat_CL219042",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "bolded": "Facilities",
+    "url": "https://www.staples.com/Facilities/cat_SC350045",
+    "children": [
+      {
+        "text": "Commercial Lighting, Ballasts & Bulbs",
+        "url": "https://www.staples.com/Commercial-Lighting-Ballasts-Bulbs/cat_DP10986"
+      },
+      {
+        "text": "Air Quality",
+        "url": "https://www.staples.com/Air-Quality/cat_DP10983"
+      },
+      {
+        "text": "Hardware",
+        "url": "https://www.staples.com/Hardware/cat_CG350121"
+      },
+      {
+        "text": "Grounds Maintenance",
+        "url": "https://www.staples.com/Grounds-Maintenance/cat_CG350176"
+      },
+      {
+        "text": "Hand & Power Tools",
+        "url": "https://www.staples.com/Hand-Power-Tools/cat_CG350126"
+      },
+      {
+        "text": "Paint Supplies",
+        "url": "https://www.staples.com/Paint-Supplies/cat_CG350152"
+      },
+      {
+        "text": "Plumbing",
+        "url": "https://www.staples.com/Plumbing/cat_CG350111"
+      },
+      {
+        "text": "Power Management",
+        "url": "https://www.staples.com/power-management/cat_CG1375"
+      },
+      {
+        "text": "Sealants & Caulking",
+        "url": "https://www.staples.com/Sealants-Caulking/cat_CL167177"
+      }
+    ]
+  },
+  {
+    "bolded": "Computers & Accessories",
+    "url": "https://www.staples.com/Computers-Accessories/cat_SC3",
+    "note": "All 9 L2 children are already CL-coded -- spot-checked 'Laptops' directly (confirmed terminal PLP), rest treated the same by the heuristic.",
+    "children": [
+      {
+        "text": "Laptops",
+        "url": "https://www.staples.com/Laptops/cat_CL167289",
+        "children": [],
+        "note": "Terminal (CL), confirmed directly."
+      },
+      {
+        "text": "Business Laptops",
+        "url": "https://www.staples.com/Business-Laptops/cat_CL167289/8db72",
+        "children": [],
+        "note": "Terminal (CL) -- filtered variant of Laptops."
+      },
+      {
+        "text": "Chromebooks",
+        "url": "https://www.staples.com/Chromebook-Laptops/cat_CL167289/6xnqw",
+        "children": [],
+        "note": "Terminal (CL) -- filtered variant of Laptops."
+      },
+      {
+        "text": "Gaming Laptops",
+        "url": "https://www.staples.com/Gaming-Laptops/cat_CL167289/8dbxi",
+        "children": [],
+        "note": "Terminal (CL) -- filtered variant of Laptops."
+      },
+      {
+        "text": "Desktop Computers",
+        "url": "https://www.staples.com/Desktop-Computers/cat_CL167288",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Gaming Desktops",
+        "url": "https://www.staples.com/Gaming-Desktop-Computers/cat_CL167288/8dbxi",
+        "children": [],
+        "note": "Terminal (CL) -- filtered variant."
+      },
+      {
+        "text": "All in One Computers",
+        "url": "https://www.staples.com/All-in-One-Desktop-Computers/cat_CL167288/7fjda",
+        "children": [],
+        "note": "Terminal (CL) -- filtered variant."
+      },
+      {
+        "text": "Computer Monitors",
+        "url": "https://www.staples.com/Computer-Monitors/cat_CL142219",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Webcams",
+        "url": "https://www.staples.com/Webcams/cat_CL140467",
+        "children": [],
+        "note": "Terminal (CL)."
+      }
+    ]
+  },
+  {
+    "bolded": "Coffee, Water & Snacks",
+    "url": "https://www.staples.com/Coffee-Water-Snacks/cat_SC1684",
+    "children": [
+      {
+        "text": "Coffee, Coffee Makers & Supplies",
+        "url": "https://www.staples.com/coffee-coffee-makers-supplies/cat_CG1038"
+      },
+      {
+        "text": "Water & Beverages",
+        "url": "https://www.staples.com/water-beverages/cat_CG1251"
+      },
+      {
+        "text": "Snacks & Food",
+        "url": "https://www.staples.com/Snacks-Meals/cat_CG3609"
+      },
+      {
+        "text": "Coffee Makers & Espresso Machines",
+        "url": "https://www.staples.com/Coffee-Makers-Espresso-Machines/cat_CL140860"
+      },
+      {
+        "text": "Plates, Cups & Cutlery",
+        "url": "https://www.staples.com/Disposable-Tableware/cat_CG3813"
+      },
+      {
+        "text": "Candy, Gum & Mints",
+        "url": "https://www.staples.com/Candy-Gum-Mints/cat_CG1253"
+      }
+    ]
+  },
+  {
+    "bolded": "Shredders, Projectors & Office Machines",
+    "url": "https://www.staples.com/shredders-projectors-office-machines/cat_SC1681",
+    "children": [
+      {
+        "text": "Shredders",
+        "url": "https://www.staples.com/Shredders/cat_CL141980"
+      },
+      {
+        "text": "Projectors & Accessories",
+        "url": "https://www.staples.com/Projectors-Accessories/cat_CG3474"
+      },
+      {
+        "text": "Calculators",
+        "url": "https://www.staples.com/Calculators/cat_CG3981"
+      },
+      {
+        "text": "Label Makers & Tapes",
+        "url": "https://www.staples.com/Label-Makers-Tapes/cat_CG3619"
+      },
+      {
+        "text": "Phones & Accessories",
+        "url": "https://www.staples.com/Telephones-Accessories/cat_CG14"
+      },
+      {
+        "text": "Copiers",
+        "url": "https://www.staples.com/Copiers/cat_CL90200"
+      },
+      {
+        "text": "Fax Machines",
+        "url": "https://www.staples.com/Fax-Machines/cat_CL165742"
+      },
+      {
+        "text": "Headsets",
+        "url": "https://www.staples.com/Headsets/cat_CL140478"
+      },
+      {
+        "text": "Typewriters & Typewriter Supplies",
+        "url": "https://www.staples.com/Typewriters-Typewriter-Supplies/cat_CL90800"
+      },
+      {
+        "text": "Barcode Scanners & Readers",
+        "url": "https://www.staples.com/Barcode-Scanners-Readers/cat_CL141846"
+      }
+    ]
+  },
+  {
+    "bolded": "Education",
+    "url": "https://www.staples.com/education/cat_SC1686",
+    "children": [
+      {
+        "text": "Classroom Decorations",
+        "url": "https://www.staples.com/Classroom-Decorations/cat_DP5229"
+      },
+      {
+        "text": "Games, Puzzles & Toys",
+        "url": "https://www.staples.com/Games-Puzzles-Toys/cat_CG3880"
+      },
+      {
+        "text": "Musical Instruments",
+        "url": "https://www.staples.com/Musical-Instruments/cat_CL207326"
+      },
+      {
+        "text": "Classroom Books & Digital Media",
+        "url": "https://www.staples.com/Classroom-Books-Digital-Media/cat_DP5205"
+      },
+      {
+        "text": "Physical Education & Outdoor Play",
+        "url": "https://www.staples.com/Physical-Education-Outdoor-Play/cat_CG3201"
+      },
+      {
+        "text": "Rewards & Incentives",
+        "url": "https://www.staples.com/Rewards-Incentives/cat_CG3893"
+      },
+      {
+        "text": "Teacher Resources",
+        "url": "https://www.staples.com/Teacher-Resources/cat_DP5228"
+      },
+      {
+        "text": "Lesson Plans & Grade Books",
+        "url": "https://www.staples.com/Lesson-Plans-Grade-Books/cat_CL207302"
+      },
+      {
+        "text": "Classroom Posters & Charts",
+        "url": "https://www.staples.com/Classroom-Posters-Charts/cat_CL166104"
+      }
+    ]
+  },
+  {
+    "bolded": "Printers & Scanners",
+    "url": "https://www.staples.com/printers-scanners/cat_SC5435",
+    "children": [
+      {
+        "text": "Printers",
+        "url": "https://www.staples.com/Printers/cat_CL167883"
+      },
+      {
+        "text": "Scanners",
+        "url": "https://www.staples.com/Scanners/cat_CL158948"
+      },
+      {
+        "text": "Printer Accessories & Replacement Parts",
+        "url": "https://www.staples.com/Printer-Accessories-Replacement-Parts/cat_CL140828"
+      },
+      {
+        "text": "3D Printers",
+        "url": "https://www.staples.com/3D-Printers/cat_CL211598"
+      }
+    ]
+  },
+  {
+    "bolded": "Networking & WiFi",
+    "url": "https://www.staples.com/networking-wifi/cat_SC5487",
+    "children": [
+      {
+        "text": "Adapters & Access Points",
+        "url": "https://www.staples.com/Adapters-Access-Points/cat_CG3708"
+      },
+      {
+        "text": "Wireless Access Points",
+        "url": "https://www.staples.com/Wireless-Access-Points/cat_CL215781"
+      },
+      {
+        "text": "Modems",
+        "url": "https://www.staples.com/Modems/cat_CL140458"
+      },
+      {
+        "text": "NAS / Cloud Storage",
+        "url": "https://www.staples.com/nas-cloud-storage/cat_CL164718"
+      },
+      {
+        "text": "Mesh WiFi Systems",
+        "url": "https://www.staples.com/Mesh-WiFi-Systems/cat_CL220815"
+      }
+    ]
+  },
+  {
+    "bolded": "Bags, Backpacks & Luggage",
+    "url": "https://www.staples.com/Bags-Backpacks-Luggage/cat_SC5884",
+    "children": [
+      {
+        "text": "Lunch Bags & Boxes",
+        "url": "https://www.staples.com/Lunch-Bags-Boxes/cat_CL165124"
+      },
+      {
+        "text": "Briefcases",
+        "url": "https://www.staples.com/Briefcases/cat_CL216485"
+      },
+      {
+        "text": "Laptop Bags",
+        "url": "https://www.staples.com/Laptop-Bags/cat_CL140978"
+      },
+      {
+        "text": "Backpacks",
+        "url": "https://www.staples.com/Backpacks/cat_CL142745"
+      }
+    ]
+  },
+  {
+    "bolded": "School Supplies",
+    "url": "https://www.staples.com/School-Supplies/cat_SC350235",
+    "children": [
+      {
+        "text": "Preschool Supplies",
+        "url": "https://www.staples.com/preschool-supplies/cat_CG350600"
+      },
+      {
+        "text": "Elementary School Supplies",
+        "url": "https://www.staples.com/elementary-school-supplies/cat_CG350606"
+      },
+      {
+        "text": "Middle School Supplies",
+        "url": "https://www.staples.com/middle-school-supplies/cat_CG350612"
+      },
+      {
+        "text": "High School Supplies",
+        "url": "https://www.staples.com/high-school-supplies/cat_CG350614"
+      },
+      {
+        "text": "College Supplies",
+        "url": "https://www.staples.com/college-supplies/cat_CG350616"
+      },
+      {
+        "text": "Teacher Supplies",
+        "url": "https://www.staples.com/deals/teacher-supplies/BI3000808"
+      },
+      {
+        "text": "School Tech",
+        "url": "https://www.staples.com/school-tech/cat_CG350603"
+      },
+      {
+        "text": "School Art Supplies",
+        "url": "https://www.staples.com/school-art-supplies/cat_CG350597"
+      },
+      {
+        "text": "School Bags & Lunch Boxes",
+        "url": "https://www.staples.com/school-bags-lunch-boxes/cat_CG350602"
+      },
+      {
+        "text": "Learning at Home",
+        "url": "https://www.staples.com/learning-at-home/cat_CG350598"
+      },
+      {
+        "text": "Classroom Essentials",
+        "url": "https://www.staples.com/classroom-essentials/cat_CG350601"
+      },
+      {
+        "text": "Shop by Subject",
+        "url": "https://www.staples.com/shop-by-subject/cat_CG350599"
+      }
+    ]
+  },
+  {
+    "bolded": "Computer Software",
+    "url": "https://www.staples.com/Computer-Software/cat_SC1941",
+    "children": [
+      {
+        "text": "Office & Business Software",
+        "url": "https://www.staples.com/Office-Business-Software/cat_CG3692"
+      },
+      {
+        "text": "Windows Operating Systems",
+        "url": "https://www.staples.com/Windows-Operating-Systems/cat_CL167740"
+      },
+      {
+        "text": "Antivirus & Internet Security Software",
+        "url": "https://www.staples.com/Antivirus-Internet-Security-Software/cat_CG3694"
+      },
+      {
+        "text": "Accounting & Finance Software",
+        "url": "https://www.staples.com/Accounting-Finance-Software/cat_CG3789"
+      },
+      {
+        "text": "Tax Software",
+        "url": "https://www.staples.com/Tax-Software/cat_CL166056"
+      },
+      {
+        "text": "Photo Editing & Graphic Design Software",
+        "url": "https://www.staples.com/Photo-Editing-Graphic-Design-Software/cat_CL167778"
+      },
+      {
+        "text": "Hobbies & Personal Interest Software",
+        "url": "https://www.staples.com/Hobbies-Personal-Interest-Software/cat_CL167741"
+      },
+      {
+        "text": "Education & Language Learning Software",
+        "url": "https://www.staples.com/Education-Language-Learning-Software/cat_CL167771"
+      },
+      {
+        "text": "PC Games",
+        "url": "https://www.staples.com/PC-Games/cat_CL165725"
+      }
+    ]
+  },
+  {
+    "bolded": "Healthcare Supplies",
+    "url": "https://www.staples.com/Healthcare-Supplies/cat_SC1929",
+    "children": [
+      {
+        "text": "Dental Supplies",
+        "url": "https://www.staples.com/Dental/cat_CG3399"
+      }
+    ]
+  },
+  {
+    "bolded": "Cell Phone Accessories",
+    "url": "https://www.staples.com/Cell-Phones-Accessories/cat_SC5308",
+    "children": [
+      {
+        "text": "Chargers & Charging Cables",
+        "url": "https://www.staples.com/Chargers-Charging-Cables/cat_CL162051"
+      },
+      {
+        "text": "Cell Phones",
+        "url": "https://www.staples.com/Cell-Phones/cat_CL166921"
+      },
+      {
+        "text": "Cell Phone Cases",
+        "url": "https://www.staples.com/Cell-Phone-Cases/cat_CL206053"
+      },
+      {
+        "text": "Cell Phone Screen Protectors",
+        "url": "https://www.staples.com/Cell-Phone-Screen-Protectors/cat_CL216706"
+      },
+      {
+        "text": "Cell Phone Docks & Mounts",
+        "url": "https://www.staples.com/Cell-Phone-Mounts-Holders/cat_CL206054"
+      }
+    ]
+  },
+  {
+    "bolded": "Tablets & iPads",
+    "url": "https://www.staples.com/tablets-ipads/cat_SC5326",
+    "children": [
+      {
+        "text": "Tablets & iPads",
+        "url": "https://www.staples.com/tablets-ipads/cat_CL204449"
+      },
+      {
+        "text": "E-Readers",
+        "url": "https://www.staples.com/E-Readers/cat_CL164364"
+      },
+      {
+        "text": "Tablet & iPad Cases, Covers & Keyboards",
+        "url": "https://www.staples.com/Tablet-iPad-Cases-Covers-Keyboards/cat_CL166405"
+      },
+      {
+        "text": "Tablet Screen Protectors",
+        "url": "https://www.staples.com/Tablet-Screen-Protectors/cat_CL166407"
+      },
+      {
+        "text": "Tablet Stands & Mounts",
+        "url": "https://www.staples.com/Tablet-Stands-Mounts/cat_CL166415"
+      },
+      {
+        "text": "Stylus & Smart Pens",
+        "url": "https://www.staples.com/Stylus-Smart-Pens/cat_CL166408"
+      }
+    ]
+  },
+  {
+    "bolded": "Safety Supplies",
+    "url": "https://www.staples.com/Safety-Supplies/cat_SC1718",
+    "children": [
+      {
+        "text": "Fall Protection",
+        "url": "https://www.staples.com/Fall-Protection/cat_DP5079"
+      },
+      {
+        "text": "Fire Protection",
+        "url": "https://www.staples.com/Fire-Protection/cat_DP5201"
+      },
+      {
+        "text": "Traffic Safety",
+        "url": "https://www.staples.com/Traffic-Safety/cat_DP5085"
+      },
+      {
+        "text": "Personal Protective Equipment (PPE)",
+        "url": "https://www.staples.com/Personal-Protective-Equipment-PPE/cat_CG1398"
+      },
+      {
+        "text": "Safety Storage",
+        "url": "https://www.staples.com/Safety-Storage/cat_CG1364"
+      },
+      {
+        "text": "Disposable Gloves",
+        "url": "https://www.staples.com/Disposable-Gloves/cat_CL167009"
+      }
+    ]
+  },
+  {
+    "bolded": "Smart Home & Security",
+    "url": "https://www.staples.com/Smart-Home-Security/cat_SC5529",
+    "children": [
+      {
+        "text": "Smart Speakers & Displays",
+        "url": "https://www.staples.com/Smart-Speakers-Displays/cat_CL216608"
+      },
+      {
+        "text": "Smart Locks",
+        "url": "https://www.staples.com/Smart-Locks/cat_CL216607"
+      },
+      {
+        "text": "Smart Bulbs",
+        "url": "https://www.staples.com/Smart-Bulbs/cat_CL353947"
+      },
+      {
+        "text": "Security Cameras & Systems",
+        "url": "https://www.staples.com/Security-Cameras-Systems/cat_CL160405"
+      },
+      {
+        "text": "Smart Plugs & Outlets",
+        "url": "https://www.staples.com/Smart-Plugs-Outlets/cat_CL211550"
+      },
+      {
+        "text": "Smart Thermostats",
+        "url": "https://www.staples.com/Smart-Thermostats/cat_CL211415"
+      },
+      {
+        "text": "Security System Accessories",
+        "url": "https://www.staples.com/Security-System-Accessories/cat_CL163142"
+      },
+      {
+        "text": "Smart Doorbells",
+        "url": "https://www.staples.com/Smart-Doorbells/cat_CL353945"
+      },
+      {
+        "text": "Smart Light Switches & Dimmers",
+        "url": "https://www.staples.com/Smart-Light-Switches-Dimmers/cat_CL353946"
+      },
+      {
+        "text": "Smart Sensors",
+        "url": "https://www.staples.com/Smart-Sensors/cat_CL211416"
+      }
+    ]
+  },
+  {
+    "bolded": "Arts & Crafts",
+    "url": "https://www.staples.com/Arts-Crafts/cat_SC5787",
+    "children": [
+      {
+        "text": "Crafting",
+        "url": "https://www.staples.com/Crafting/cat_DP10798"
+      },
+      {
+        "text": "Scrapbooking",
+        "url": "https://www.staples.com/Scrapbooking/cat_DP9640"
+      },
+      {
+        "text": "Coloring Books",
+        "url": "https://www.staples.com/Coloring-Books/cat_CL219108"
+      },
+      {
+        "text": "Paint",
+        "url": "https://www.staples.com/Paint/cat_CL140420"
+      },
+      {
+        "text": "Drawing Tools & Supplies",
+        "url": "https://www.staples.com/Drawing-Tools-Supplies/cat_CL110202"
+      }
+    ]
+  },
+  {
+    "bolded": "Workwear",
+    "url": "https://www.staples.com/Workwear/cat_SC5803",
+    "children": [
+      {
+        "text": "Workwear & Rainwear",
+        "url": "https://www.staples.com/Workwear-Rainwear/cat_DP9817"
+      },
+      {
+        "text": "Restaurant Apparel",
+        "url": "https://www.staples.com/Restaurant-Apparel/cat_DP9818"
+      },
+      {
+        "text": "Healthcare Apparel",
+        "url": "https://www.staples.com/Staff-Apparel/cat_DP5426"
+      },
+      {
+        "text": "Lab Apparel",
+        "url": "https://www.staples.com/Lab-Science/cat_DP9819"
+      }
+    ]
+  },
+  {
+    "bolded": "Gaming",
+    "url": "https://www.staples.com/Gaming/cat_SC5841",
+    "children": [
+      {
+        "text": "Xbox One Video Games",
+        "url": "https://www.staples.com/xbox-one-video-games/cat_CL350107"
+      },
+      {
+        "text": "Xbox One Accessories",
+        "url": "https://www.staples.com/xbox-one-accessories/cat_CL216222"
+      },
+      {
+        "text": "PS4 Video Games",
+        "url": "https://www.staples.com/PS4-Video-Games/cat_CL350097"
+      },
+      {
+        "text": "Nintendo Switch Games",
+        "url": "https://www.staples.com/nintendo-switch/cat_CL350266"
+      },
+      {
+        "text": "PC Gaming",
+        "url": "https://www.staples.com/deals/PC-Gaming/BI1626481"
+      }
+    ]
+  },
+  {
+    "bolded": "Security, Banking & Cash",
+    "url": "https://www.staples.com/Security-Banking-Cash/cat_SC5881",
+    "children": [
+      {
+        "text": "Cash Handling",
+        "url": "https://www.staples.com/Cash-Handling/cat_CG3379"
+      },
+      {
+        "text": "Tickets & Tags",
+        "url": "https://www.staples.com/Pricing-Tickets-Tags/cat_CL206119"
+      },
+      {
+        "text": "Safes & Secure Storage",
+        "url": "https://www.staples.com/Safes-Secure-Storage/cat_CL158854"
+      },
+      {
+        "text": "Call Bells",
+        "url": "https://www.staples.com/Call-Bells/cat_CL142096"
+      }
+    ]
+  },
+  {
+    "bolded": "Audio",
+    "url": "https://www.staples.com/audio/cat_SC5829",
+    "children": [
+      {
+        "text": "Portable Speakers & Radios",
+        "url": "https://www.staples.com/Portable-Speakers-Radios/cat_CL167926"
+      }
+    ]
+  },
+  {
+    "bolded": "Laboratory & Scientific Supplies",
+    "url": "https://www.staples.com/Laboratory-Scientific-Supplies/cat_SC350020",
+    "children": [
+      {
+        "text": "Hazardous Material Lab Storage",
+        "url": "https://www.staples.com/hazardous-material-lab-storage/cat_CL215399"
+      }
+    ]
+  },
+  {
+    "bolded": "Tools, Parts & Supplies",
+    "url": "https://www.staples.com/Tools-Parts-Supplies/cat_SC5886",
+    "children": [
+      {
+        "text": "Chemicals, Lubricants & Paints",
+        "url": "https://www.staples.com/Lubricants-Penetrants/cat_CG1373"
+      },
+      {
+        "text": "Measuring & Leveling Tools",
+        "url": "https://www.staples.com/Measuring-Leveling-Tools/cat_CG3969"
+      },
+      {
+        "text": "Tool & Garage Organization",
+        "url": "https://www.staples.com/Tool-Garage-Organization/cat_CG3977"
+      },
+      {
+        "text": "Chalk Reels & Marking Tools",
+        "url": "https://www.staples.com/Chalk-Reels-Marking-Tools/cat_CG3966"
+      }
+    ]
+  },
+  {
+    "bolded": "Restaurant & Foodservice Supplies",
+    "url": "https://www.staples.com/restaurant-foodservice-supplies/cat_SC5542",
+    "children": [
+      {
+        "text": "Smallwares",
+        "url": "https://www.staples.com/Bar-Supplies-Equipment/cat_CG3140"
+      },
+      {
+        "text": "Restaurant Apparel",
+        "url": "https://www.staples.com/Restaurant-Apparel/cat_CG3136"
+      },
+      {
+        "text": "Restaurant Storage & Transport",
+        "url": "https://www.staples.com/Restaurant-Storage-Transport/cat_CG3549"
+      },
+      {
+        "text": "Restaurant Janitorial",
+        "url": "https://www.staples.com/Restaurant-Janitorial/cat_CG3550"
+      },
+      {
+        "text": "Restaurant Furniture",
+        "url": "https://www.staples.com/Restaurant-Furniture/cat_CG3548"
+      },
+      {
+        "text": "Tabletop",
+        "url": "https://www.staples.com/Tabletop/cat_CG3547"
+      }
+    ]
+  },
+  {
+    "bolded": "Retail Store Supplies",
+    "url": "https://www.staples.com/Retail-Store-Supplies/cat_SC5421",
+    "children": [
+      {
+        "text": "Store Fixtures & Retail Displays",
+        "url": "https://www.staples.com/Store-Fixtures-Retail-Displays/cat_CG2898"
+      },
+      {
+        "text": "Store Security & Operations",
+        "url": "https://www.staples.com/Store-Retail-Security-Operations/cat_CG2902"
+      },
+      {
+        "text": "Backroom Retail Supplies",
+        "url": "https://www.staples.com/Backroom-Retail-Supplies/cat_CG2897"
+      },
+      {
+        "text": "Retail Packaging",
+        "url": "https://www.staples.com/Bags-Packaging/cat_CG2901"
+      },
+      {
+        "text": "Retail Signage",
+        "url": "https://www.staples.com/Retail-Signage/cat_CG3112"
+      },
+      {
+        "text": "Point of Sale (POS) Equipment",
+        "url": "https://www.staples.com/Point-of-Sale-Equipment/cat_CG2899"
+      },
+      {
+        "text": "Time Clocks & Cards",
+        "url": "https://www.staples.com/Time-Clocks-Cards/cat_DP3901"
+      },
+      {
+        "text": "Pricing & Tagging",
+        "url": "https://www.staples.com/pricing-tagging/cat_CG2900"
+      }
+    ]
+  },
+  {
+    "bolded": "Office Decor, Homewares & Appliances",
+    "url": "https://www.staples.com/Office-Decor-Homewares-Appliances/cat_SC5791",
+    "children": [
+      {
+        "text": "Decor",
+        "url": "https://www.staples.com/Decor/cat_CG853",
+        "children": [
+          {
+            "text": "Wall Art",
+            "url": "https://www.staples.com/Wall-Art-Decor/cat_DP1567",
+            "children": [],
+            "note": "unverified code (DP) -- not yet checked for further children"
+          },
+          {
+            "text": "Lamps & Lighting",
+            "url": "https://www.staples.com/Lighting-Lamps/cat_CG35",
+            "children": [],
+            "note": "non-CL (CG) -- not yet expanded"
+          },
+          {
+            "text": "Light Bulbs",
+            "url": "https://www.staples.com/Light-Bulbs/cat_CL165713",
+            "children": []
+          },
+          {
+            "text": "Mirrors",
+            "url": "https://www.staples.com/Mirrors/cat_CL163751",
+            "children": []
+          },
+          {
+            "text": "Frames",
+            "url": "https://www.staples.com/Picture-Frames-Photo-Albums/cat_CL161523",
+            "children": []
+          },
+          {
+            "text": "Coat Racks & Hooks",
+            "url": "https://www.staples.com/Coat-Trees-Stands-Hooks/cat_CL167079",
+            "children": []
+          },
+          {
+            "text": "Clocks",
+            "url": "https://www.staples.com/Clocks-Timers/cat_CL161533",
+            "children": []
+          },
+          {
+            "text": "Weather Instruments",
+            "url": "https://www.staples.com/Weather-Instruments/cat_CL166884",
+            "children": []
+          },
+          {
+            "text": "Artificial Plants & Flowers",
+            "url": "https://www.staples.com/Artificial-Plants-Flowers/cat_CL162194",
+            "children": []
+          },
+          {
+            "text": "Decorative Area Rugs",
+            "url": "https://www.staples.com/Rugs/cat_CL167008",
+            "children": []
+          },
+          {
+            "text": "Floor Mats",
+            "url": "https://www.staples.com/Floor-Mats/cat_CL214671",
+            "children": []
+          },
+          {
+            "text": "Storage Baskets",
+            "url": "https://www.staples.com/Storage-Baskets/cat_CL354705",
+            "children": []
+          },
+          {
+            "text": "Storage Bins",
+            "url": "https://www.staples.com/Storage-Bins/cat_CL354710",
+            "children": []
+          },
+          {
+            "text": "Jewelry Boxes & Displays",
+            "url": "https://www.staples.com/Jewelry-Boxes-Cases/cat_CL204509",
+            "children": []
+          },
+          {
+            "text": "Party Decor & Supplies",
+            "url": "https://www.staples.com/party-supplies-decor/cat_CG3363",
+            "children": [],
+            "note": "non-CL (CG) -- not yet expanded"
+          },
+          {
+            "text": "Seasonal Décor",
+            "url": "https://www.staples.com/Seasonal-Decor/cat_CL21091",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Appliances",
+        "url": "https://www.staples.com/Kitchen-Appliances/cat_CG3156",
+        "children": [
+          {
+            "text": "Coffee Makers",
+            "url": "https://www.staples.com/Coffee-Makers-Espresso-Machines/cat_CL140860",
+            "children": []
+          },
+          {
+            "text": "Microwaves",
+            "url": "https://www.staples.com/Microwaves/cat_CL141070",
+            "children": []
+          },
+          {
+            "text": "Water Dispensers",
+            "url": "https://www.staples.com/Water-Filters-Dispensers/cat_CL140865",
+            "children": []
+          },
+          {
+            "text": "Refrigerators",
+            "url": "https://www.staples.com/Refrigerators/cat_CL140861",
+            "children": []
+          },
+          {
+            "text": "Toasters",
+            "url": "https://www.staples.com/Toaster-Ovens/cat_CL210338",
+            "children": []
+          },
+          {
+            "text": "Blenders",
+            "url": "https://www.staples.com/Blenders-Food-Processors/cat_CL166367",
+            "children": []
+          },
+          {
+            "text": "Slow Cookers",
+            "url": "https://www.staples.com/Slow-Cookers-Roasters/cat_CL166369",
+            "children": []
+          },
+          {
+            "text": "Air Fryers",
+            "url": "https://www.staples.com/Countertop-Fryers/cat_CL215331",
+            "children": []
+          },
+          {
+            "text": "Hot Plates",
+            "url": "https://www.staples.com/Cooktops-Hot-Plates/cat_CL211563",
+            "children": []
+          },
+          {
+            "text": "Juicers",
+            "url": "https://www.staples.com/Juicers/cat_CL211562",
+            "children": []
+          },
+          {
+            "text": "Ice Machines",
+            "url": "https://www.staples.com/Ice-Makers-Snow-Cone-Machines/cat_CL212944",
+            "children": []
+          },
+          {
+            "text": "Kitchen Tools",
+            "url": "https://www.staples.com/Kitchen-Tools-Gadgets/cat_CL166366",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Picture Frames & Photo Albums",
+        "url": "https://www.staples.com/Picture-Frames-Photo-Albums/cat_CL161523",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Desk Lamps",
+        "url": "https://www.staples.com/Desk-Lamps/cat_CL167867",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Floor Lamps",
+        "url": "https://www.staples.com/Floor-Lamps/cat_CL216710",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Clocks & Timers",
+        "url": "https://www.staples.com/Clocks/cat_CL161533",
+        "children": [],
+        "note": "Terminal (CL)."
+      },
+      {
+        "text": "Dining & Entertainment",
+        "url": "https://www.staples.com/Dining-Entertainment/cat_CG3409",
+        "children": [
+          {
+            "text": "Pitchers & Tumblers",
+            "url": "https://www.staples.com/Carafes-Pitchers-Tumblers/cat_CL168371",
+            "children": []
+          },
+          {
+            "text": "Drinkware & Glassware",
+            "url": "https://www.staples.com/Drinkware-Glassware/cat_CL212425",
+            "children": []
+          },
+          {
+            "text": "Dinnerware",
+            "url": "https://www.staples.com/Dinnerware/cat_CL211876",
+            "children": []
+          },
+          {
+            "text": "Placemats & Tablecloths",
+            "url": "https://www.staples.com/Placemats-Tablecloths/cat_CL204432",
+            "children": []
+          }
+        ],
+        "note": "Hybrid: this CG page is ITSELF a product listing (12 items) AND offers these 4 CL children."
+      },
+      {
+        "text": "Kitchen Storage & Organization",
+        "url": "https://www.staples.com/Kitchen-Storage-Organization/cat_CL142181",
+        "children": [],
+        "note": "Terminal (CL)."
+      }
+    ]
+  },
+  {
+    "bolded": "TV & Streaming Media",
+    "url": "https://www.staples.com/TV-Streaming-Media/cat_SC5917",
+    "children": [
+      {
+        "text": "Streaming Media Players",
+        "url": "https://www.staples.com/Streaming-Media-Players/cat_CG3572"
+      },
+      {
+        "text": "TVs",
+        "url": "https://www.staples.com/TVs/cat_CL164870"
+      },
+      {
+        "text": "Home Theater Audio",
+        "url": "https://www.staples.com/Home-Audio/cat_DP5070"
+      },
+      {
+        "text": "TV Accessories",
+        "url": "https://www.staples.com/TV-Accessories/cat_CL168253"
+      },
+      {
+        "text": "TV Wall Mounts & Stands",
+        "url": "https://www.staples.com/TV-Wall-Mounts/cat_CL142753"
+      }
+    ]
+  },
+  {
+    "bolded": "Gift Shop",
+    "url": "https://www.staples.com/Gift-Shop/cat_SC1699",
+    "children": [
+      {
+        "text": "Home, Personal & Travel",
+        "url": "https://www.staples.com/Home-Personal-Travel/cat_CG3762"
+      },
+      {
+        "text": "Gift Cards",
+        "url": "https://www.staples.com/gift-cards/cat_SC5857"
+      },
+      {
+        "text": "Game Room & Toys",
+        "url": "https://www.staples.com/Gifts-Games-Accessories/cat_CG2853"
+      },
+      {
+        "text": "Gift Sets, Photo & Custom Gifts",
+        "url": "https://www.staples.com/Gift-Sets-Photo-Custom-Gifts/cat_CG3760"
+      },
+      {
+        "text": "Professional Gifts",
+        "url": "https://www.staples.com/Executive-Gifts/cat_CG3761"
+      },
+      {
+        "text": "Party Supplies & Decor",
+        "url": "https://www.staples.com/party-supplies-decor/cat_CG3363"
+      }
+    ]
+  },
+  {
+    "bolded": "Fitness",
+    "url": "https://www.staples.com/Health-Fitness/cat_CG3172",
+    "children": []
+  },
+  {
+    "bolded": "Outdoors & Recreation",
+    "url": "https://www.staples.com/Outdoors-Recreation/cat_CG2801",
+    "children": []
+  },
+  {
+    "bolded": "Luggage & Travel Accessories",
+    "url": "https://www.staples.com/luggage-travel-accessories/cat_CG3655",
+    "children": []
+  },
+  {
+    "bolded": "Pet Supplies & Accessories",
+    "url": "https://www.staples.com/Pet-Supplies-Accessories/cat_CG350096",
+    "children": []
+  },
+  {
+    "bolded": "Personal Care & Eyewear",
+    "url": "https://www.staples.com/Toiletries-Personal-Care/cat_CG1313",
+    "children": []
+  },
+  {
+    "bolded": "Clothing, Shoes & Accessories",
+    "url": "https://www.staples.com/Clothing-Shoes-Accessories/cat_CG3347",
+    "children": []
+  },
+  {
+    "bolded": "Books & Magazines",
+    "url": "https://www.staples.com/Books-Magazines/cat_CG3233",
+    "children": []
+  }
+]
